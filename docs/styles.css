@@ -36,6 +36,7 @@ html, body {
   color: var(--text-primary);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 .page {
@@ -272,7 +273,7 @@ a:focus-visible, button:focus-visible {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-.odds-empty { color: var(--text-faint); font-size: 12px; }
+.odds-empty { color: var(--text-faint); font-size: 12px; overflow-wrap: anywhere; }
 
 /* Sparkline */
 .sparkline-wrap { line-height: 0; }
