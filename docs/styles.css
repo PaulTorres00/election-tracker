@@ -243,12 +243,14 @@ a:focus-visible, button:focus-visible {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 10px;
+  min-width: 0; /* same shrink-to-fit issue as .race-card, one level deeper */
 }
 .odds-box {
   background: rgba(0,0,0,0.18);
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 10px 12px;
+  min-width: 0;
 }
 .odds-label {
   display: block;
@@ -265,15 +267,18 @@ a:focus-visible, button:focus-visible {
   color: var(--accent);
 }
 .odds-sub {
-  display: block;
   font-size: 11px;
   color: var(--text-faint);
   margin-top: 3px;
+  overflow-wrap: anywhere; /* wraps instead of truncating -- can't overflow
+                              no matter how deeply nested or how long/odd
+                              the matched market title turns out to be */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
   overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
-.odds-empty { color: var(--text-faint); font-size: 12px; overflow-wrap: anywhere; }
+.odds-empty { color: var(--text-faint); font-size: 12px; }
 
 /* Sparkline */
 .sparkline-wrap { line-height: 0; }
