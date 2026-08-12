@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:14:13.599747+00:00",
+  "generated_at": "2026-08-12T21:57:48.215902+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -127,11 +127,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.0
+            "probability_pct": 66.5
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 27.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Other",
