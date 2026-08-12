@@ -1,37 +1,74 @@
 {
-  "generated_at": "2026-08-12T19:25:06.483078+00:00",
+  "generated_at": "2026-08-12T19:47:27.435278+00:00",
   "races": [
     {
-      "id": "sen-ga-2026",
-      "label": "Georgia \u2014 U.S. Senate",
+      "id": "sen-oh-2026",
+      "label": "Ohio \u2014 U.S. Senate",
       "chamber": "senate",
-      "state": "Georgia",
+      "state": "Ohio",
       "district": null,
       "polling": {
         "averages": {
-          "Jon Ossoff": 51.6,
-          "Mike Collins": 43.0
+          "Jon Husted": 46.7,
+          "Sherrod Brown": 49.3
         },
         "polls_used": 3,
-        "most_recent_poll_date": "2026-07-16",
+        "most_recent_poll_date": "2026-06-28",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": null,
       "polymarket": {
-        "event_title": "Georgia Senate Election Winner",
-        "slug": "georgia-senate-election-winner",
+        "event_title": "Ohio Senate Election Winner",
+        "slug": "ohio-senate-election-winner",
         "outcomes": [
           {
             "outcome": "Yes",
-            "probability_pct": 92.0
+            "probability_pct": 51.5
           },
           {
             "outcome": "No",
-            "probability_pct": 8.0
+            "probability_pct": 48.5
           }
         ],
-        "volume": "40034.06973999999",
-        "url": "https://polymarket.com/event/georgia-senate-election-winner"
+        "volume": "73867.827579",
+        "url": "https://polymarket.com/event/ohio-senate-election-winner"
+      },
+      "fundraising": []
+    },
+    {
+      "id": "hse-ny-17-2026",
+      "label": "NY-17 \u2014 U.S. House",
+      "chamber": "house",
+      "state": "New York",
+      "district": "17",
+      "polling": {
+        "averages": {},
+        "polls_used": 0,
+        "most_recent_poll_date": null,
+        "source": "VoteHub (https://votehub.com)"
+      },
+      "kalshi": {
+        "ticker": "KXMVECROSSCATEGORY-S20269549B2F1DE4-720919A93C7",
+        "title": "no Colorado -2.5 first 5 innings,no Seattle -2.5 first 5 innings,no Toronto -2.5 first 5 innings,no New York M -2.5 first 5 innings,no Kansas City -2.5 first 5 innings,yes Corbin Carroll: 1+,yes Nolan Arenado: 1+,yes Jung Hoo Lee: 1+,yes Merrill Kelly: 4+,yes Adrian Houser: 2+,yes Minnesota wins by over 2.5 runs,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs,no San Francisco wins by over 2.5 runs,yes Golden State,yes Minnesota,yes Dallas",
+        "yes_probability_pct": null,
+        "volume": null,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
+      },
+      "polymarket": {
+        "event_title": "NY-17 House Election Winner",
+        "slug": "ny-17-house-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Yes",
+            "probability_pct": 27.5
+          },
+          {
+            "outcome": "No",
+            "probability_pct": 72.5
+          }
+        ],
+        "volume": "4550.891727",
+        "url": "https://polymarket.com/event/ny-17-house-election-winner"
       },
       "fundraising": []
     },
@@ -65,7 +102,7 @@
             "probability_pct": 40.5
           }
         ],
-        "volume": "165620.49874800004",
+        "volume": "167287.16541300007",
         "url": "https://polymarket.com/event/michigan-senate-election-winner"
       },
       "fundraising": []
@@ -88,6 +125,74 @@
       },
       "kalshi": null,
       "polymarket": {
+        "event_title": "Maine Governor Election Winner",
+        "slug": "maine-governor-winner-2026",
+        "outcomes": [
+          {
+            "outcome": "Yes",
+            "probability_pct": 95.0
+          },
+          {
+            "outcome": "No",
+            "probability_pct": 5.1
+          }
+        ],
+        "volume": "22004.267139",
+        "url": "https://polymarket.com/event/maine-governor-winner-2026"
+      },
+      "fundraising": []
+    },
+    {
+      "id": "hse-mi-13-2026",
+      "label": "MI-13 \u2014 U.S. House",
+      "chamber": "house",
+      "state": "Michigan",
+      "district": "13",
+      "polling": {
+        "averages": {},
+        "polls_used": 0,
+        "most_recent_poll_date": null,
+        "source": "VoteHub (https://votehub.com)"
+      },
+      "kalshi": {
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202667BEACEA9E0-1E19A536220",
+        "title": "yes Arizona,no Merrill Kelly: 6+,yes Ryan Feltner: 3+,yes Adrian Houser: 3+,yes Dustin May: 4+,no Robbie Ray: 6+,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs",
+        "yes_probability_pct": null,
+        "volume": null,
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
+      },
+      "polymarket": {
+        "event_title": "MI-13 House Election Winner",
+        "slug": "mi-13-house-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Yes",
+            "probability_pct": 2.2
+          },
+          {
+            "outcome": "No",
+            "probability_pct": 97.8
+          }
+        ],
+        "volume": "19968.021479999996",
+        "url": "https://polymarket.com/event/mi-13-house-election-winner"
+      },
+      "fundraising": []
+    },
+    {
+      "id": "sen-ne-2026",
+      "label": "Nebraska \u2014 U.S. Senate",
+      "chamber": "senate",
+      "state": "Nebraska",
+      "district": null,
+      "polling": {
+        "averages": {},
+        "polls_used": 0,
+        "most_recent_poll_date": null,
+        "source": "VoteHub (https://votehub.com)"
+      },
+      "kalshi": null,
+      "polymarket": {
         "event_title": "Maine Senate Election Winner",
         "slug": "maine-senate-election-winner",
         "outcomes": [
@@ -100,44 +205,8 @@
             "probability_pct": 30.5
           }
         ],
-        "volume": "711731.0691040001",
+        "volume": "711737.5207149999",
         "url": "https://polymarket.com/event/maine-senate-election-winner"
-      },
-      "fundraising": []
-    },
-    {
-      "id": "sen-nc-2026",
-      "label": "North Carolina \u2014 U.S. Senate",
-      "chamber": "senate",
-      "state": "North Carolina",
-      "district": null,
-      "polling": {
-        "averages": {
-          "Roy Cooper": 50.4,
-          "Michael Whatley": 40.8,
-          "Shannon Bray": 1.5,
-          "Michael Dublin": 1.5
-        },
-        "polls_used": 8,
-        "most_recent_poll_date": "2026-08-06",
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": null,
-      "polymarket": {
-        "event_title": "North Carolina Senate Election Winner",
-        "slug": "north-carolina-senate-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Yes",
-            "probability_pct": 91.0
-          },
-          {
-            "outcome": "No",
-            "probability_pct": 9.0
-          }
-        ],
-        "volume": "34675.16112800001",
-        "url": "https://polymarket.com/event/north-carolina-senate-election-winner"
       },
       "fundraising": []
     },
@@ -170,90 +239,16 @@
             "probability_pct": 8.0
           }
         ],
-        "volume": "40034.06973999999",
+        "volume": "40034.06974",
         "url": "https://polymarket.com/event/georgia-senate-election-winner"
       },
       "fundraising": []
     },
     {
-      "id": "hse-az-06-2026",
-      "label": "AZ-06 \u2014 U.S. House",
+      "id": "hse-ca-07-2026",
+      "label": "CA-07 \u2014 U.S. House",
       "chamber": "house",
-      "state": "Arizona",
-      "district": "06",
-      "polling": {
-        "averages": {},
-        "polls_used": 0,
-        "most_recent_poll_date": null,
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026B3A55C5C189-222E272EB2E",
-        "title": "yes Arizona,yes Jackson Chourio: 1+,yes Pete Crow-Armstrong: 1+,yes Matt Olson: 1+,yes Merrill Kelly: 3+,yes Adrian Houser: 2+,yes Dustin May: 3+,yes David Peterson: 2+,yes Ranger Su\u00e1rez: 2+,yes Tyler Mahle: 3+,yes Zach Thornton: 2+,yes Luis Castillo: 3+",
-        "yes_probability_pct": null,
-        "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
-      },
-      "polymarket": {
-        "event_title": "AZ-06 House Election Winner",
-        "slug": "az-06-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Yes",
-            "probability_pct": 17.5
-          },
-          {
-            "outcome": "No",
-            "probability_pct": 82.5
-          }
-        ],
-        "volume": "5815.837771999999",
-        "url": "https://polymarket.com/event/az-06-house-election-winner"
-      },
-      "fundraising": []
-    },
-    {
-      "id": "hse-ia-01-2026",
-      "label": "IA-01 \u2014 U.S. House",
-      "chamber": "house",
-      "state": "Iowa",
-      "district": "01",
-      "polling": {
-        "averages": {},
-        "polls_used": 0,
-        "most_recent_poll_date": null,
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
-        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
-        "yes_probability_pct": null,
-        "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
-      },
-      "polymarket": {
-        "event_title": "IA-01 House Election Winner",
-        "slug": "ia-01-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Yes",
-            "probability_pct": 28.0
-          },
-          {
-            "outcome": "No",
-            "probability_pct": 72.0
-          }
-        ],
-        "volume": "2390.3229739999997",
-        "url": "https://polymarket.com/event/ia-01-house-election-winner"
-      },
-      "fundraising": []
-    },
-    {
-      "id": "hse-mi-07-2026",
-      "label": "MI-07 \u2014 U.S. House",
-      "chamber": "house",
-      "state": "Michigan",
+      "state": "California",
       "district": "07",
       "polling": {
         "averages": {},
@@ -262,36 +257,36 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
-        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202667BEACEA9E0-1E19A536220",
+        "title": "yes Arizona,no Merrill Kelly: 6+,yes Ryan Feltner: 3+,yes Adrian Houser: 3+,yes Dustin May: 4+,no Robbie Ray: 6+,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
-        "event_title": "MI-07 House Election Winner",
-        "slug": "mi-07-house-election-winner",
+        "event_title": "CA-07 House Election Winner",
+        "slug": "ca-07-house-election-winner",
         "outcomes": [
           {
             "outcome": "Yes",
-            "probability_pct": 35.5
+            "probability_pct": 2.9
           },
           {
             "outcome": "No",
-            "probability_pct": 64.5
+            "probability_pct": 97.2
           }
         ],
-        "volume": "5380.6232709999995",
-        "url": "https://polymarket.com/event/mi-07-house-election-winner"
+        "volume": "5987.834775",
+        "url": "https://polymarket.com/event/ca-07-house-election-winner"
       },
       "fundraising": []
     },
     {
-      "id": "hse-nc-01-2026",
-      "label": "NC-01 \u2014 U.S. House",
+      "id": "hse-ca-22-2026",
+      "label": "CA-22 \u2014 U.S. House",
       "chamber": "house",
-      "state": "North Carolina",
-      "district": "01",
+      "state": "California",
+      "district": "22",
       "polling": {
         "averages": {},
         "polls_used": 0,
@@ -299,138 +294,27 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
-        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202667BEACEA9E0-1E19A536220",
+        "title": "yes Arizona,no Merrill Kelly: 6+,yes Ryan Feltner: 3+,yes Adrian Houser: 3+,yes Dustin May: 4+,no Robbie Ray: 6+,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
-        "event_title": "NC-01 House Election Winner",
-        "slug": "nc-01-house-election-winner",
+        "event_title": "CA-22 House Election Winner",
+        "slug": "which-party-will-win-the-house-race-for-the-ca-22-seat",
         "outcomes": [
           {
             "outcome": "Yes",
-            "probability_pct": 43.0
+            "probability_pct": 14.0
           },
           {
             "outcome": "No",
-            "probability_pct": 57.0
+            "probability_pct": 86.0
           }
         ],
-        "volume": "689.883816",
-        "url": "https://polymarket.com/event/nc-01-house-election-winner"
-      },
-      "fundraising": []
-    },
-    {
-      "id": "hse-ny-17-2026",
-      "label": "NY-17 \u2014 U.S. House",
-      "chamber": "house",
-      "state": "New York",
-      "district": "17",
-      "polling": {
-        "averages": {},
-        "polls_used": 0,
-        "most_recent_poll_date": null,
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026CE172A1FD56-0E3028AE9F5",
-        "title": "yes Los Angeles D,no Ryan Feltner: 6+,no Adrian Houser: 5+,yes Dustin May: 4+,no Robbie Ray: 8+,yes Foster Griffin: 6+,yes Framber Valdez: 3+,yes Janson Junk: 3+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,yes Will Warren: 4+,no Bryce Miller: 8+,no Jos\u00e9 Soriano: 8+,no Tampa Bay wins by over 3.5 runs,no Colorado wins by over 3.5 runs,no San Francisco wins by over 3.5 runs,no San Diego wins by over 3.5 runs,no Detroit wins by over 3.5 runs,no Pittsburgh wins by over 3.5 runs,no Chicago C wins by over 3.5 runs,no New York Y wins by over 3.5 runs,no Boston wins by over 3.5 runs,no New York M wins by over 3.5 runs,no Cincinnati wins by over 3.5 runs,no Los Angeles A wins by over 3.5 runs",
-        "yes_probability_pct": null,
-        "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
-      },
-      "polymarket": {
-        "event_title": "NY-17 House Election Winner",
-        "slug": "ny-17-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Yes",
-            "probability_pct": 27.5
-          },
-          {
-            "outcome": "No",
-            "probability_pct": 72.5
-          }
-        ],
-        "volume": "4550.891727",
-        "url": "https://polymarket.com/event/ny-17-house-election-winner"
-      },
-      "fundraising": []
-    },
-    {
-      "id": "hse-pa-08-2026",
-      "label": "PA-08 \u2014 U.S. House",
-      "chamber": "house",
-      "state": "Pennsylvania",
-      "district": "08",
-      "polling": {
-        "averages": {},
-        "polls_used": 0,
-        "most_recent_poll_date": null,
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
-        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
-        "yes_probability_pct": null,
-        "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
-      },
-      "polymarket": {
-        "event_title": "PA-08 House Election Winner",
-        "slug": "pa-08-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Yes",
-            "probability_pct": 41.5
-          },
-          {
-            "outcome": "No",
-            "probability_pct": 58.5
-          }
-        ],
-        "volume": "1680.120546",
-        "url": "https://polymarket.com/event/pa-08-house-election-winner"
-      },
-      "fundraising": []
-    },
-    {
-      "id": "hse-wi-03-2026",
-      "label": "WI-03 \u2014 U.S. House",
-      "chamber": "house",
-      "state": "Wisconsin",
-      "district": "03",
-      "polling": {
-        "averages": {},
-        "polls_used": 0,
-        "most_recent_poll_date": null,
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
-        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
-        "yes_probability_pct": null,
-        "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
-      },
-      "polymarket": {
-        "event_title": "WI-03 House Election Winner",
-        "slug": "wi-03-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Yes",
-            "probability_pct": 27.5
-          },
-          {
-            "outcome": "No",
-            "probability_pct": 72.5
-          }
-        ],
-        "volume": "1463.748007",
-        "url": "https://polymarket.com/event/wi-03-house-election-winner"
+        "volume": "5406.961961999999",
+        "url": "https://polymarket.com/event/which-party-will-win-the-house-race-for-the-ca-22-seat"
       },
       "fundraising": []
     }
