@@ -50,6 +50,7 @@ def build_race_snapshot(race, all_kalshi_markets, all_polymarket_events):
         votehub.fetch_race_polling,
         race["votehub_subject"],
         race["votehub_poll_type"],
+        exclude_choices=race.get("exclude_choices"),
     )
     polling_averages, polls_used, most_recent_poll_date = polling or ({}, 0, None)
 
