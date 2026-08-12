@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:00:39.035866+00:00",
+  "generated_at": "2026-08-12T20:07:48.101570+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -30,7 +30,7 @@
             "probability_pct": 48.5
           }
         ],
-        "volume": "73867.827579",
+        "volume": "73867.82757900002",
         "url": "https://polymarket.com/event/ohio-senate-election-winner"
       },
       "fundraising": []
@@ -48,11 +48,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20262316815254E-F4804031D10",
-        "title": "yes Rafael Tosetto,yes Minnesota,yes Dallas,yes Atlanta,yes New York",
+        "ticker": "KXMVECROSSCATEGORY-S2026B8B9FFEA418-B2EC1641E47",
+        "title": "no San Francisco -2.5 first 5 innings,no San Diego -2.5 first 5 innings,no Pittsburgh -2.5 first 5 innings,no New York M -2.5 first 5 innings,yes St. Louis,no Shane Baz: 4+,no Zebby Matthews: 5+,no Zack Wheeler: 6+,no Kyle Leahy: 7+,no Jack Perkins: 7+,no Drew Rasmussen: 8+,no Merrill Kelly: 8+,no Ryan Feltner: 6+,no Adrian Houser: 6+,no Dustin May: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 7+,no Bryce Miller: 9+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 7+,no Rhett Lowder: 8+,no Luis Castillo: 9+,no Eric Lauer: 8+,no George Klassen: 8+,no Cal Quantrill: 6+,no Baltimore wins by over 1.5 runs,no A's wins by over 1.5 runs,yes Minnesota,no Chicago wins by over 3.5 points,no Toronto wins by over 3.5 points",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
         "event_title": "NY-17 House Election Winner",
@@ -67,7 +67,7 @@
             "probability_pct": 72.5
           }
         ],
-        "volume": "4550.891726999999",
+        "volume": "4550.891727",
         "url": "https://polymarket.com/event/ny-17-house-election-winner"
       },
       "fundraising": []
@@ -135,7 +135,7 @@
             "probability_pct": 30.5
           }
         ],
-        "volume": "711737.5207149999",
+        "volume": "711737.5207150002",
         "url": "https://polymarket.com/event/maine-senate-election-winner"
       },
       "fundraising": []
@@ -153,11 +153,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643C202D4828-7790086E6BC",
-        "title": "no Drew Rasmussen: 8+,no Merrill Kelly: 9+,no Ryan Feltner: 7+,yes Adrian Houser: 2+,no Dustin May: 9+,no Robbie Ray: 9+,yes Foster Griffin: 3+,yes Framber Valdez: 3+,no Jos\u00e9 Soriano: 7+",
+        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20261750932A9D9-76D20417B5D",
+        "title": "yes Gunnar Henderson: 2+,yes Bryce Harper: 2+,yes Carlos Cortes: 1+,yes Donovan Walton: 1+,yes Max Muncy (ATH): 1+,yes Tyler Soderstrom: 1+,yes Zack Gelof: 1+,yes Cedric Mullins: 1+,yes Jonathan Aranda: 1+,yes Junior Caminero: 3+,yes Jonny DeLuca: 1+,yes Liam Hicks: 2+,yes Richie Palacios: 1+,yes Corbin Carroll: 1+,yes Ketel Marte: 1+,yes Daulton Varsho: 1+,yes Jeremy Pe\u00f1a: 1+,yes Yordan Alvarez: 1+,yes Victor Bericoto: 1+,yes Willy Adames: 1+,yes Jackson Merrill: 1+,yes Manny Machado: 1+,yes Drew Rasmussen: 5+,yes Merrill Kelly: 4+,yes Adrian Houser: 5+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
       },
       "polymarket": {
         "event_title": "MI-13 House Election Winner",
@@ -203,7 +203,7 @@
             "probability_pct": 30.5
           }
         ],
-        "volume": "711737.5207149999",
+        "volume": "711737.5207150002",
         "url": "https://polymarket.com/event/maine-senate-election-winner"
       },
       "fundraising": []
@@ -237,7 +237,7 @@
             "probability_pct": 8.0
           }
         ],
-        "volume": "40034.06973999999",
+        "volume": "40034.06973999998",
         "url": "https://polymarket.com/event/georgia-senate-election-winner"
       },
       "fundraising": []
@@ -255,11 +255,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643C202D4828-7790086E6BC",
-        "title": "no Drew Rasmussen: 8+,no Merrill Kelly: 9+,no Ryan Feltner: 7+,yes Adrian Houser: 2+,no Dustin May: 9+,no Robbie Ray: 9+,yes Foster Griffin: 3+,yes Framber Valdez: 3+,no Jos\u00e9 Soriano: 7+",
+        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20261750932A9D9-76D20417B5D",
+        "title": "yes Gunnar Henderson: 2+,yes Bryce Harper: 2+,yes Carlos Cortes: 1+,yes Donovan Walton: 1+,yes Max Muncy (ATH): 1+,yes Tyler Soderstrom: 1+,yes Zack Gelof: 1+,yes Cedric Mullins: 1+,yes Jonathan Aranda: 1+,yes Junior Caminero: 3+,yes Jonny DeLuca: 1+,yes Liam Hicks: 2+,yes Richie Palacios: 1+,yes Corbin Carroll: 1+,yes Ketel Marte: 1+,yes Daulton Varsho: 1+,yes Jeremy Pe\u00f1a: 1+,yes Yordan Alvarez: 1+,yes Victor Bericoto: 1+,yes Willy Adames: 1+,yes Jackson Merrill: 1+,yes Manny Machado: 1+,yes Drew Rasmussen: 5+,yes Merrill Kelly: 4+,yes Adrian Houser: 5+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
       },
       "polymarket": {
         "event_title": "CA-07 House Election Winner",
@@ -292,11 +292,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643C202D4828-7790086E6BC",
-        "title": "no Drew Rasmussen: 8+,no Merrill Kelly: 9+,no Ryan Feltner: 7+,yes Adrian Houser: 2+,no Dustin May: 9+,no Robbie Ray: 9+,yes Foster Griffin: 3+,yes Framber Valdez: 3+,no Jos\u00e9 Soriano: 7+",
+        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20261750932A9D9-76D20417B5D",
+        "title": "yes Gunnar Henderson: 2+,yes Bryce Harper: 2+,yes Carlos Cortes: 1+,yes Donovan Walton: 1+,yes Max Muncy (ATH): 1+,yes Tyler Soderstrom: 1+,yes Zack Gelof: 1+,yes Cedric Mullins: 1+,yes Jonathan Aranda: 1+,yes Junior Caminero: 3+,yes Jonny DeLuca: 1+,yes Liam Hicks: 2+,yes Richie Palacios: 1+,yes Corbin Carroll: 1+,yes Ketel Marte: 1+,yes Daulton Varsho: 1+,yes Jeremy Pe\u00f1a: 1+,yes Yordan Alvarez: 1+,yes Victor Bericoto: 1+,yes Willy Adames: 1+,yes Jackson Merrill: 1+,yes Manny Machado: 1+,yes Drew Rasmussen: 5+,yes Merrill Kelly: 4+,yes Adrian Houser: 5+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
       },
       "polymarket": {
         "event_title": "CA-22 House Election Winner",
