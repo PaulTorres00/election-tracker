@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:47:27.435278+00:00",
+  "generated_at": "2026-08-12T20:00:39.035866+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -48,11 +48,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S20269549B2F1DE4-720919A93C7",
-        "title": "no Colorado -2.5 first 5 innings,no Seattle -2.5 first 5 innings,no Toronto -2.5 first 5 innings,no New York M -2.5 first 5 innings,no Kansas City -2.5 first 5 innings,yes Corbin Carroll: 1+,yes Nolan Arenado: 1+,yes Jung Hoo Lee: 1+,yes Merrill Kelly: 4+,yes Adrian Houser: 2+,yes Minnesota wins by over 2.5 runs,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs,no San Francisco wins by over 2.5 runs,yes Golden State,yes Minnesota,yes Dallas",
+        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20262316815254E-F4804031D10",
+        "title": "yes Rafael Tosetto,yes Minnesota,yes Dallas,yes Atlanta,yes New York",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvecrosscategory"
+        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
       },
       "polymarket": {
         "event_title": "NY-17 House Election Winner",
@@ -67,7 +67,7 @@
             "probability_pct": 72.5
           }
         ],
-        "volume": "4550.891727",
+        "volume": "4550.891726999999",
         "url": "https://polymarket.com/event/ny-17-house-election-winner"
       },
       "fundraising": []
@@ -80,11 +80,10 @@
       "district": null,
       "polling": {
         "averages": {
-          "Mike Rogers": 44.4,
-          "Abdul El-Sayed": 42.6,
-          "Haley Stevens": 43.9
+          "Mike Rogers": 43.5,
+          "Abdul El-Sayed": 43.0
         },
-        "polls_used": 10,
+        "polls_used": 9,
         "most_recent_poll_date": "2026-07-31",
         "source": "VoteHub (https://votehub.com)"
       },
@@ -102,7 +101,7 @@
             "probability_pct": 40.5
           }
         ],
-        "volume": "167287.16541300007",
+        "volume": "167287.165413",
         "url": "https://polymarket.com/event/michigan-senate-election-winner"
       },
       "fundraising": []
@@ -116,29 +115,28 @@
       "polling": {
         "averages": {
           "Troy Jackson": 49.0,
-          "Susan Collins": 45.9,
-          "Graham Platner": 47.6
+          "Susan Collins": 45.5
         },
-        "polls_used": 10,
+        "polls_used": 2,
         "most_recent_poll_date": "2026-08-01",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": null,
       "polymarket": {
-        "event_title": "Maine Governor Election Winner",
-        "slug": "maine-governor-winner-2026",
+        "event_title": "Maine Senate Election Winner",
+        "slug": "maine-senate-election-winner",
         "outcomes": [
           {
             "outcome": "Yes",
-            "probability_pct": 95.0
+            "probability_pct": 69.5
           },
           {
             "outcome": "No",
-            "probability_pct": 5.1
+            "probability_pct": 30.5
           }
         ],
-        "volume": "22004.267139",
-        "url": "https://polymarket.com/event/maine-governor-winner-2026"
+        "volume": "711737.5207149999",
+        "url": "https://polymarket.com/event/maine-senate-election-winner"
       },
       "fundraising": []
     },
@@ -155,8 +153,8 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202667BEACEA9E0-1E19A536220",
-        "title": "yes Arizona,no Merrill Kelly: 6+,yes Ryan Feltner: 3+,yes Adrian Houser: 3+,yes Dustin May: 4+,no Robbie Ray: 6+,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643C202D4828-7790086E6BC",
+        "title": "no Drew Rasmussen: 8+,no Merrill Kelly: 9+,no Ryan Feltner: 7+,yes Adrian Houser: 2+,no Dustin May: 9+,no Robbie Ray: 9+,yes Foster Griffin: 3+,yes Framber Valdez: 3+,no Jos\u00e9 Soriano: 7+",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
@@ -174,7 +172,7 @@
             "probability_pct": 97.8
           }
         ],
-        "volume": "19968.021479999996",
+        "volume": "19968.02148",
         "url": "https://polymarket.com/event/mi-13-house-election-winner"
       },
       "fundraising": []
@@ -239,7 +237,7 @@
             "probability_pct": 8.0
           }
         ],
-        "volume": "40034.06974",
+        "volume": "40034.06973999999",
         "url": "https://polymarket.com/event/georgia-senate-election-winner"
       },
       "fundraising": []
@@ -257,8 +255,8 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202667BEACEA9E0-1E19A536220",
-        "title": "yes Arizona,no Merrill Kelly: 6+,yes Ryan Feltner: 3+,yes Adrian Houser: 3+,yes Dustin May: 4+,no Robbie Ray: 6+,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643C202D4828-7790086E6BC",
+        "title": "no Drew Rasmussen: 8+,no Merrill Kelly: 9+,no Ryan Feltner: 7+,yes Adrian Houser: 2+,no Dustin May: 9+,no Robbie Ray: 9+,yes Foster Griffin: 3+,yes Framber Valdez: 3+,no Jos\u00e9 Soriano: 7+",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
@@ -294,8 +292,8 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202667BEACEA9E0-1E19A536220",
-        "title": "yes Arizona,no Merrill Kelly: 6+,yes Ryan Feltner: 3+,yes Adrian Houser: 3+,yes Dustin May: 4+,no Robbie Ray: 6+,yes St. Louis wins by over 2.5 runs,yes Tampa Bay wins by over 1.5 runs",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643C202D4828-7790086E6BC",
+        "title": "no Drew Rasmussen: 8+,no Merrill Kelly: 9+,no Ryan Feltner: 7+,yes Adrian Houser: 2+,no Dustin May: 9+,no Robbie Ray: 9+,yes Foster Griffin: 3+,yes Framber Valdez: 3+,no Jos\u00e9 Soriano: 7+",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
