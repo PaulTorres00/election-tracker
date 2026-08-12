@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:10:23.419155+00:00",
+  "generated_at": "2026-08-12T19:25:06.483078+00:00",
   "races": [
     {
       "id": "sen-ga-2026",
@@ -30,7 +30,7 @@
             "probability_pct": 8.0
           }
         ],
-        "volume": "40034.069740000006",
+        "volume": "40034.06973999999",
         "url": "https://polymarket.com/event/georgia-senate-election-winner"
       },
       "fundraising": []
@@ -100,7 +100,7 @@
             "probability_pct": 30.5
           }
         ],
-        "volume": "711731.0691040003",
+        "volume": "711731.0691040001",
         "url": "https://polymarket.com/event/maine-senate-election-winner"
       },
       "fundraising": []
@@ -136,7 +136,7 @@
             "probability_pct": 9.0
           }
         ],
-        "volume": "34675.16112799999",
+        "volume": "34675.16112800001",
         "url": "https://polymarket.com/event/north-carolina-senate-election-winner"
       },
       "fundraising": []
@@ -170,7 +170,7 @@
             "probability_pct": 8.0
           }
         ],
-        "volume": "40034.069740000006",
+        "volume": "40034.06973999999",
         "url": "https://polymarket.com/event/georgia-senate-election-winner"
       },
       "fundraising": []
@@ -188,8 +188,8 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S2026F1C4CD94255-5774C40AB19",
-        "title": "yes Tampa Bay,yes Arizona,yes Miami,yes Chicago WS,yes Adrian Houser: 2+,yes Dustin May: 3+",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026B3A55C5C189-222E272EB2E",
+        "title": "yes Arizona,yes Jackson Chourio: 1+,yes Pete Crow-Armstrong: 1+,yes Matt Olson: 1+,yes Merrill Kelly: 3+,yes Adrian Houser: 2+,yes Dustin May: 3+,yes David Peterson: 2+,yes Ranger Su\u00e1rez: 2+,yes Tyler Mahle: 3+,yes Zach Thornton: 2+,yes Luis Castillo: 3+",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
@@ -225,11 +225,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D0AC8E1216-C71AC8750F2",
-        "title": "no Merrill Kelly: 7+,yes Ryan Feltner: 2+,no Adrian Houser: 6+,no Dustin May: 7+,yes Foster Griffin: 3+,no Janson Junk: 6+",
+        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
+        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
         "event_title": "IA-01 House Election Winner",
@@ -262,11 +262,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D0AC8E1216-C71AC8750F2",
-        "title": "no Merrill Kelly: 7+,yes Ryan Feltner: 2+,no Adrian Houser: 6+,no Dustin May: 7+,yes Foster Griffin: 3+,no Janson Junk: 6+",
+        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
+        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
         "event_title": "MI-07 House Election Winner",
@@ -299,11 +299,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D0AC8E1216-C71AC8750F2",
-        "title": "no Merrill Kelly: 7+,yes Ryan Feltner: 2+,no Adrian Houser: 6+,no Dustin May: 7+,yes Foster Griffin: 3+,no Janson Junk: 6+",
+        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
+        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
         "event_title": "NC-01 House Election Winner",
@@ -336,8 +336,8 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVECROSSCATEGORY-S2026ECCE312DCAD-1E32159D209",
-        "title": "yes Tampa Bay,yes Arizona,yes New York Y,yes Atlanta,yes Los Angeles D,yes Texas,yes Corbin Carroll: 1+,yes Shohei Ohtani: 1+,yes Junior Caminero: 1+,yes Ketel Marte: 1+,yes Cal Raleigh: 1+,yes Vladimir Guerrero Jr.: 1+,yes Ronald Acu\u00f1a Jr.: 1+,yes Jack Perkins: 2+,yes Drew Rasmussen: 3+,yes Merrill Kelly: 3+,yes Ryan Feltner: 2+,yes Adrian Houser: 2+,yes Dustin May: 2+,yes Robbie Ray: 3+,yes Janson Junk: 2+,yes Carmen Mlodzinski: 2+,yes Ranger Su\u00e1rez: 2+,yes Jos\u00e9 Soriano: 3+,yes Zach Thornton: 2+,yes Eric Lauer: 2+",
+        "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026CE172A1FD56-0E3028AE9F5",
+        "title": "yes Los Angeles D,no Ryan Feltner: 6+,no Adrian Houser: 5+,yes Dustin May: 4+,no Robbie Ray: 8+,yes Foster Griffin: 6+,yes Framber Valdez: 3+,yes Janson Junk: 3+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,yes Will Warren: 4+,no Bryce Miller: 8+,no Jos\u00e9 Soriano: 8+,no Tampa Bay wins by over 3.5 runs,no Colorado wins by over 3.5 runs,no San Francisco wins by over 3.5 runs,no San Diego wins by over 3.5 runs,no Detroit wins by over 3.5 runs,no Pittsburgh wins by over 3.5 runs,no Chicago C wins by over 3.5 runs,no New York Y wins by over 3.5 runs,no Boston wins by over 3.5 runs,no New York M wins by over 3.5 runs,no Cincinnati wins by over 3.5 runs,no Los Angeles A wins by over 3.5 runs",
         "yes_probability_pct": null,
         "volume": null,
         "url": "https://kalshi.com/markets/kxmvecrosscategory"
@@ -373,11 +373,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D0AC8E1216-C71AC8750F2",
-        "title": "no Merrill Kelly: 7+,yes Ryan Feltner: 2+,no Adrian Houser: 6+,no Dustin May: 7+,yes Foster Griffin: 3+,no Janson Junk: 6+",
+        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
+        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
         "event_title": "PA-08 House Election Winner",
@@ -410,11 +410,11 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D0AC8E1216-C71AC8750F2",
-        "title": "no Merrill Kelly: 7+,yes Ryan Feltner: 2+,no Adrian Houser: 6+,no Dustin May: 7+,yes Foster Griffin: 3+,no Janson Junk: 6+",
+        "ticker": "KXMVECROSSCATEGORY-S202646E39A36109-DFF2163A61D",
+        "title": "no Matt Olson: 3+,no Ronald Acu\u00f1a Jr.: 3+,no Francisco Lindor: 3+,no Elly De La Cruz: 3+,no Freddie Freeman: 3+,no Mookie Betts: 3+,no Shohei Ohtani: 3+,no Mike Trout: 3+,no Adrian Houser: 6+,no Dustin May: 8+,no Robbie Ray: 8+,no Foster Griffin: 8+,no Framber Valdez: 7+,no Janson Junk: 7+,no Carmen Mlodzinski: 6+,no David Peterson: 7+,no Jackson Kent: 7+,no Will Warren: 8+,no Bryce Miller: 8+,no Ranger Su\u00e1rez: 7+,no Jos\u00e9 Soriano: 8+,no Tyler Mahle: 8+,no Zach Thornton: 6+,no Rhett Lowder: 7+,no Luis Castillo: 8+,no Eric Lauer: 7+,no George Klassen: 8+,no Cal Quantrill: 6+",
         "yes_probability_pct": null,
         "volume": null,
-        "url": "https://kalshi.com/markets/kxmvesportsmultigameextended"
+        "url": "https://kalshi.com/markets/kxmvecrosscategory"
       },
       "polymarket": {
         "event_title": "WI-03 House Election Winner",
