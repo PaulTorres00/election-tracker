@@ -42,7 +42,7 @@ def safe(label, fn, *args, **kwargs):
         return None
 
 
-def build_race_snapshot(race, all_kalshi_markets, all_polymarket_events):
+def build_race_snapshot(race, all_kalshi_events, all_polymarket_events):
     log(f"Processing {race['label']}...")
 
     polling = safe(
@@ -54,10 +54,10 @@ def build_race_snapshot(race, all_kalshi_markets, all_polymarket_events):
     )
     polling_averages, polls_used, most_recent_poll_date = polling or ({}, 0, None)
 
-    kalshi_market = safe(f"{race['id']} kalshi", kalshi.find_market, all_kalshi_markets, race["kalshi_keywords"])
-    kalshi_odds = safe(f"{race['id']} kalshi convert", kalshi.market_to_odds, kalshi_market) if kalshi_market else None
+    kalshi_event = safe(f"{race['id']} kalshi", kalshi.find_event, all_kalshi_events, race["keywords"])
+    kalshi_odds = safe(f"{race['id']} kalshi convert", kalshi.event_to_odds, kalshi_event) if kalshi_event else None
 
-    poly_event = safe(f"{race['id']} polymarket", polymarket.find_event, all_polymarket_events, race["polymarket_keywords"])
+    poly_event = safe(f"{race['id']} polymarket", polymarket.find_event, all_polymarket_events, race["keywords"])
     polymarket_odds = safe(f"{race['id']} polymarket convert", polymarket.event_to_odds, poly_event) if poly_event else None
 
     fundraising = safe(
@@ -101,10 +101,13 @@ def append_history(race_id, snapshot, timestamp):
     # fields, since VoteHub's per-race polls may use candidate names as
     # choice labels rather than party labels (only the national generic-
     # ballot subject is confirmed to use literal "Dem"/"Rep" labels).
+    kalshi_outcomes = (snapshot["kalshi"] or {}).get("outcomes") or []
+    kalshi_leader_pct = kalshi_outcomes[0]["probability_pct"] if kalshi_outcomes else None
+
     history.append({
         "timestamp": timestamp,
         "polling_averages": snapshot["polling"]["averages"],
-        "kalshi_yes_pct": (snapshot["kalshi"] or {}).get("yes_probability_pct"),
+        "kalshi_leading_pct": kalshi_leader_pct,
     })
     history = history[-HISTORY_MAX_POINTS:]
 
@@ -117,9 +120,9 @@ def main():
         config = json.load(f)
     races = config["races"]
 
-    log("Fetching full open-market list from Kalshi (once for this run)...")
-    all_kalshi_markets = safe("kalshi bulk fetch", kalshi.fetch_all_open_markets) or []
-    log(f"  -> {len(all_kalshi_markets)} open Kalshi markets loaded")
+    log("Fetching full open-event list from Kalshi (once for this run)...")
+    all_kalshi_events = safe("kalshi bulk fetch", kalshi.fetch_all_open_events) or []
+    log(f"  -> {len(all_kalshi_events)} open Kalshi events loaded")
 
     log("Fetching full open-events list from Polymarket (once for this run)...")
     all_polymarket_events = safe("polymarket bulk fetch", polymarket.fetch_all_open_events) or []
@@ -128,7 +131,7 @@ def main():
     timestamp = datetime.datetime.now(datetime.timezone.utc).isoformat()
     snapshots = []
     for race in races:
-        snapshot = build_race_snapshot(race, all_kalshi_markets, all_polymarket_events)
+        snapshot = build_race_snapshot(race, all_kalshi_events, all_polymarket_events)
         snapshots.append(snapshot)
         append_history(race["id"], snapshot, timestamp)
 
