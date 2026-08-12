@@ -36,14 +36,22 @@ def fetch_all_open_events():
     return events
 
 
+MIN_MATCH_SCORE = 2  # same reasoning as kalshi.py -- one incidental word
+                      # overlap with an unrelated event shouldn't count as a
+                      # match
+
+
 def find_event(all_events, keywords):
-    """Best keyword match against event titles."""
+    """Best keyword match against event titles, or None if nothing clears
+    the minimum match threshold."""
     best_event, best_score = None, 0
     for event in all_events:
         title = (event.get("title") or "").lower()
         score = sum(1 for kw in keywords if kw.lower() in title)
         if score > best_score:
             best_event, best_score = event, score
+    if best_score < MIN_MATCH_SCORE:
+        return None
     return best_event
 
 
