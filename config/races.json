@@ -42,16 +42,17 @@
     },
     {
       "id": "sen-me-2026",
-      "chamber": "senate",
-      "office_code": "S",
-      "state": "Maine",
-      "state_abbr": "ME",
-      "district": null,
-      "label": "Maine — U.S. Senate",
-      "votehub_subject": "2026 Maine",
-      "votehub_poll_type": "us-senator",
-      "kalshi_keywords": ["Maine", "Senate"],
-      "polymarket_keywords": ["Maine", "ME Senate"]
+  "chamber": "senate",
+  "office_code": "S",
+  "state": "Maine",
+  "state_abbr": "ME",
+  "district": null,
+  "label": "Maine — U.S. Senate",
+  "votehub_subject": "2026 Maine",
+  "votehub_poll_type": "us-senator",
+  "kalshi_keywords": ["Maine", "Senate"],
+  "polymarket_keywords": ["Maine Senate", "ME Senate"],
+  "exclude_choices": ["Platner", "Mills"]
     },
     {
      "id": "hse-mi-13-2026",
