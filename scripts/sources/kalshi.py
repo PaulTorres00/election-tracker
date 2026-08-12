@@ -1,14 +1,22 @@
 """
-Kalshi public market data (https://api.elections.kalshi.com/trade-api/v2).
-Reading market prices needs no API key. Prices are in cents (1-99) and map
-directly to an implied probability, e.g. yes_bid=63 means the market implies
-a 63% chance of "yes".
+Kalshi public market data (https://docs.kalshi.com).
+Reading event/market data needs no API key.
 
-NOTE ON SCOPE: Kalshi doesn't expose a stable per-race ticker scheme we can
-hardcode, so this fetches the open-markets list once and matches races by
-keyword against the market title. That's a heuristic, not a guarantee — spot
-check matches against https://kalshi.com/politics occasionally, especially
-right after we add a new race to config/races.json.
+IMPORTANT: Kalshi's `title`/`subtitle` fields at the MARKET level are
+deprecated in the current API (confirmed against docs.kalshi.com's current
+OpenAPI schema) and come back empty. An earlier version of this file read
+`market["title"]` to match races and to display the result -- which is why
+matching silently failed for every race. The fields that are actually
+populated now:
+  - Event.title / Event.sub_title   -- use these to find the right race
+  - Market.yes_sub_title             -- names WHICH CANDIDATE this specific
+                                         yes/no market is about
+  - Market.yes_bid_dollars           -- price as a decimal-dollar string
+                                         (e.g. "0.5600" = 56%), not cents
+
+Kalshi structures an election as one EVENT containing multiple per-candidate
+binary yes/no MARKETS (one market per candidate, each asking "will this
+specific person win?"), fetched here in one call via with_nested_markets.
 """
 import requests
 
@@ -16,60 +24,78 @@ BASE_URL = "https://api.elections.kalshi.com/trade-api/v2"
 TIMEOUT = 20
 MAX_PAGES = 40   # safety cap so a pagination bug can't loop forever
 PAGE_SIZE = 200
+MIN_MATCH_SCORE = 2  # require at least 2 keyword hits, not just 1 incidental
+                      # word overlap -- otherwise a generic word shared with
+                      # an unrelated event gets accepted as "the" match
 
 
-def fetch_all_open_markets():
-    """Paginate through every open market once. Cached by the caller for the
-    life of a single script run so we don't re-fetch per race."""
-    markets = []
+def fetch_all_open_events():
+    """Paginate through every open event once per run, with each event's
+    nested markets included so we get every candidate's yes_sub_title and
+    price in the same call rather than a separate request per event."""
+    events = []
     cursor = None
     for _ in range(MAX_PAGES):
-        params = {"limit": PAGE_SIZE, "status": "open"}
+        params = {
+            "limit": PAGE_SIZE,
+            "status": "open",
+            "with_nested_markets": "true",
+        }
         if cursor:
             params["cursor"] = cursor
-        resp = requests.get(f"{BASE_URL}/markets", params=params, timeout=TIMEOUT)
+        resp = requests.get(f"{BASE_URL}/events", params=params, timeout=TIMEOUT)
         if resp.status_code != 200:
             break
         data = resp.json()
-        batch = data.get("markets", [])
-        markets.extend(batch)
+        batch = data.get("events", [])
+        events.extend(batch)
         cursor = data.get("cursor")
         if not cursor or not batch:
             break
-    return markets
+    return events
 
 
-MIN_MATCH_SCORE = 2  # require at least 2 keyword hits, not just 1 incidental
-                      # word overlap -- otherwise a generic word shared with
-                      # an unrelated market (e.g. a sports market whose title
-                      # happens to mention a team city that overlaps with a
-                      # race's state name) gets accepted as "the" match
-
-
-def find_market(all_markets, keywords):
-    """Return the open market whose title matches the most keywords
-    (case-insensitive substring match), or None if nothing clears the
-    minimum match threshold."""
-    best_market, best_score = None, 0
-    for market in all_markets:
-        title = (market.get("title") or "").lower()
-        score = sum(1 for kw in keywords if kw.lower() in title)
+def find_event(all_events, keywords):
+    """Return the open event whose title/sub_title matches the most
+    keywords (case-insensitive substring match), or None if nothing clears
+    the minimum match threshold."""
+    best_event, best_score = None, 0
+    for event in all_events:
+        text = f"{event.get('title') or ''} {event.get('sub_title') or ''}".lower()
+        score = sum(1 for kw in keywords if kw.lower() in text)
         if score > best_score:
-            best_market, best_score = market, score
+            best_event, best_score = event, score
     if best_score < MIN_MATCH_SCORE:
         return None
-    return best_market
+    return best_event
 
 
-def market_to_odds(market):
-    """Convert a Kalshi market object into a simple odds dict."""
-    if not market:
+def event_to_odds(event):
+    """Convert a matched event's nested markets into a per-candidate odds
+    list. Each market under an election event is one candidate's binary
+    yes/no contract: yes_sub_title names the candidate, yes_bid_dollars is
+    the market-implied probability they win."""
+    if not event:
         return None
-    yes_bid = market.get("yes_bid")
+    markets = event.get("markets") or []
+    if not markets:
+        return None
+
+    candidates = []
+    for market in markets:
+        label = market.get("yes_sub_title") or market.get("ticker") or "Unknown"
+        price_str = market.get("yes_bid_dollars")
+        try:
+            pct = round(float(price_str) * 100, 1) if price_str else None
+        except (TypeError, ValueError):
+            pct = None
+        candidates.append({"outcome": label, "probability_pct": pct})
+
+    candidates.sort(key=lambda c: (c["probability_pct"] is None, -(c["probability_pct"] or 0)))
+
+    event_ticker = event.get("event_ticker") or ""
     return {
-        "ticker": market.get("ticker"),
-        "title": market.get("title"),
-        "yes_probability_pct": yes_bid,   # cents == implied % for "yes"
-        "volume": market.get("volume"),
-        "url": f"https://kalshi.com/markets/{market.get('ticker', '').split('-')[0].lower()}",
+        "event_title": event.get("title"),
+        "outcomes": candidates,
+        "url": f"https://kalshi.com/markets/{event_ticker.split('-')[0].lower()}",
     }
