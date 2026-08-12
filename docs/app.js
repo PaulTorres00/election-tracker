@@ -95,7 +95,7 @@ function buildSparkline(history, leadingLabel) {
   </svg>`;
 }
 
-function renderOddsBox(label, odds, kind) {
+function renderOddsBox(label, odds) {
   if (!odds) {
     return `<div class="odds-box">
       <span class="odds-label">${label}</span>
@@ -103,20 +103,16 @@ function renderOddsBox(label, odds, kind) {
     </div>`;
   }
 
-  if (kind === "kalshi") {
-    return `<div class="odds-box">
-      <span class="odds-label">${label}</span>
-      <span class="odds-value">${odds.yes_probability_pct ?? "—"}%</span>
-      <a class="odds-sub" href="${odds.url}" target="_blank" rel="noopener">${odds.title || ""}</a>
-    </div>`;
-  }
+  const ranked = (odds.outcomes || [])
+    .filter(o => typeof o.probability_pct === "number")
+    .slice()
+    .sort((a, b) => b.probability_pct - a.probability_pct);
+  const top = ranked[0];
 
-  // polymarket: show the top outcome
-  const top = (odds.outcomes || []).slice().sort((a, b) => b.probability_pct - a.probability_pct)[0];
   return `<div class="odds-box">
     <span class="odds-label">${label}</span>
     <span class="odds-value">${top ? top.probability_pct + "%" : "—"}</span>
-    <a class="odds-sub" href="${odds.url}" target="_blank" rel="noopener">${top ? top.outcome : odds.event_title || ""}</a>
+    <a class="odds-sub" href="${odds.url}" target="_blank" rel="noopener">${top ? top.outcome : (odds.event_title || "")}</a>
   </div>`;
 }
 
@@ -158,78 +154,4 @@ function renderCard(race, history) {
         </div>
       ` : `<div class="odds-empty">No recent polling matched for this race yet.</div>`}
 
-      ${buildSparkline(history, leadingLabel) ? `<div class="sparkline-wrap">${buildSparkline(history, leadingLabel)}</div>` : ""}
-
-      <div class="odds-row">
-        ${renderOddsBox("Kalshi", race.kalshi, "kalshi")}
-        ${renderOddsBox("Polymarket", race.polymarket, "polymarket")}
-      </div>
-
-      ${fundraisingRows ? `<div class="fundraising-list">${fundraisingRows}</div>` : ""}
-
-      <div class="card-footer">
-        <span>Updated ${formatUpdatedAt(race.polling.most_recent_poll_date)}</span>
-      </div>
-    </article>
-  `;
-}
-
-async function fetchHistory(raceId) {
-  try {
-    const resp = await fetch(`data/history/${raceId}.json`, { cache: "no-store" });
-    if (!resp.ok) return [];
-    return await resp.json();
-  } catch {
-    return [];
-  }
-}
-
-function applyFilter(filter) {
-  document.querySelectorAll(".race-card").forEach(card => {
-    const show = filter === "all" || card.dataset.chamber === filter;
-    card.style.display = show ? "" : "none";
-  });
-}
-
-async function init() {
-  startCountdown();
-
-  const grid = document.getElementById("race-grid");
-  const lastUpdatedEl = document.getElementById("last-updated");
-  const sampleBanner = document.getElementById("sample-banner");
-
-  let data;
-  try {
-    const resp = await fetch("data/latest.json", { cache: "no-store" });
-    data = await resp.json();
-  } catch (err) {
-    grid.innerHTML = `<p class="odds-empty">Couldn't load race data (${err.message}). If you're running this locally, serve the /docs folder over HTTP rather than opening index.html directly — browsers block fetch() on file:// URLs.</p>`;
-    return;
-  }
-
-  lastUpdatedEl.textContent = data.generated_at
-    ? `Last updated ${formatUpdatedAt(data.generated_at)}`
-    : "Not yet run — showing placeholder data";
-
-  if (data.sample_data) {
-    sampleBanner.hidden = false;
-  }
-
-  const cardsHtml = await Promise.all(
-    data.races.map(async race => {
-      const history = await fetchHistory(race.id);
-      return renderCard(race, history);
-    })
-  );
-  grid.innerHTML = cardsHtml.join("");
-
-  document.querySelectorAll(".filter-btn").forEach(btn => {
-    btn.addEventListener("click", () => {
-      document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-      applyFilter(btn.dataset.filter);
-    });
-  });
-}
-
-init();
+      ${buildSparkline(history, leadingLabel) ?
