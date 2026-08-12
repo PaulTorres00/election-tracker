@@ -1,0 +1,23 @@
+{
+  "generated_at": null,
+  "sample_data": true,
+  "note": "This is placeholder data. Run scripts/fetch_data.py locally, or trigger the 'Update election data' workflow in the Actions tab, to replace this with a live snapshot.",
+  "races": [
+    {
+      "id": "sen-ga-2026",
+      "label": "Georgia — U.S. Senate",
+      "chamber": "senate",
+      "state": "Georgia",
+      "district": null,
+      "polling": {
+        "averages": {"Dem": 47.5, "Rep": 46.1},
+        "polls_used": 0,
+        "most_recent_poll_date": null,
+        "source": "VoteHub (https://votehub.com)"
+      },
+      "kalshi": null,
+      "polymarket": null,
+      "fundraising": []
+    }
+  ]
+}
