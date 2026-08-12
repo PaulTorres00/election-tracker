@@ -11,8 +11,7 @@
       "label": "Ohio — U.S. Senate",
       "votehub_subject": "2026 Ohio",
       "votehub_poll_type": "us-senator",
-      "kalshi_keywords": ["Ohio", "Senate", "Sherrod Brown", "Jon Husted"],
-      "polymarket_keywords": ["Ohio Senate", "OH Senate"]
+      "keywords": ["Ohio", "Senate", "Sherrod Brown", "Jon Husted", "OH Senate"],
     },
     {
       "id": "hse-ny-17-2026",
@@ -24,8 +23,7 @@
       "label": "NY-17 — U.S. House",
       "votehub_subject": "2026 NY-17",
       "votehub_poll_type": "us-representative",
-      "kalshi_keywords": ["New York", "17th District", "17th", "House"],
-      "polymarket_keywords": ["New York 17th District", "NY-17", "House"]
+      "keywords": ["New York", "17th District", "17th", "House", "NY-17"],
     },
     {
       "id": "sen-mi-2026",
@@ -37,8 +35,7 @@
       "label": "Michigan — U.S. Senate",
       "votehub_subject": "2026 Michigan",
       "votehub_poll_type": "us-senator",
-      "kalshi_keywords": ["Michigan", "Senate", "Abdul El-Sayed"],
-      "polymarket_keywords": ["Michigan Senate", "MI Senate"]
+      "keywords": ["Michigan", "Senate", "Abdul El-Sayed", "MI Senate"],
     },
     {
       "id": "sen-me-2026",
@@ -50,8 +47,7 @@
   "label": "Maine — U.S. Senate",
   "votehub_subject": "2026 Maine",
   "votehub_poll_type": "us-senator",
-  "kalshi_keywords": ["Maine", "Senate"],
-  "polymarket_keywords": ["Maine Senate", "ME Senate"],
+  "keywords": ["Maine", "Senate", "ME Senate"],
   "exclude_choices": ["Platner", "Mills"]
     },
     {
@@ -64,8 +60,7 @@
   "label": "MI-13 — U.S. House",
   "votehub_subject": "2026 MI-13",
   "votehub_poll_type": "us-representative",
-  "kalshi_keywords": ["Michigan", "13th", "District 13", "House"],
-  "polymarket_keywords": ["Michigan 13th", "MI-13", "House"]
+  "keywords": ["Michigan", "13th", "District 13", "House", "MI-13"],
     },
     {
   "id": "sen-ne-2026",
@@ -77,8 +72,7 @@
   "label": "Nebraska — U.S. Senate",
   "votehub_subject": "2026 Nebraska",
   "votehub_poll_type": "us-senator",
-  "kalshi_keywords": ["Nebraska", "Senate"],
-  "polymarket_keywords": ["Nebraska Senate", "NE Senate"]
+  "keywords": ["Nebraska", "Senate", "NE Senate"],
 },
 {
   "id": "sen-ia-2026",
@@ -90,8 +84,7 @@
   "label": "Iowa — U.S. Senate",
   "votehub_subject": "2026 Iowa",
   "votehub_poll_type": "us-senator",
-  "kalshi_keywords": ["Iowa", "Senate"],
-  "polymarket_keywords": ["Iowa Senate", "IA Senate"]
+  "keywords": ["Iowa", "Senate", "IA Senate"],
 },
 {
   "id": "hse-ca-07-2026",
@@ -103,8 +96,7 @@
   "label": "CA-07 — U.S. House",
   "votehub_subject": "2026 CA-07",
   "votehub_poll_type": "us-representative",
-  "kalshi_keywords": ["California", "7th", "District 7", "House"],
-  "polymarket_keywords": ["California 7th", "CA-07", "House"]
+  "keywords": ["California", "7th", "District 7", "House", "CA-07"],
 },
 {
   "id": "hse-ca-22-2026",
@@ -116,8 +108,7 @@
   "label": "CA-22 — U.S. House",
   "votehub_subject": "2026 CA-22",
   "votehub_poll_type": "us-representative",
-  "kalshi_keywords": ["California", "22nd", "District 22", "House"],
-  "polymarket_keywords": ["California 22nd", "CA-22", "House"]
+  "keywords": ["California", "22nd", "District 22", "House", "CA-22"],
 }
   ]
 }
