@@ -39,15 +39,25 @@ def fetch_all_open_markets():
     return markets
 
 
+MIN_MATCH_SCORE = 2  # require at least 2 keyword hits, not just 1 incidental
+                      # word overlap -- otherwise a generic word shared with
+                      # an unrelated market (e.g. a sports market whose title
+                      # happens to mention a team city that overlaps with a
+                      # race's state name) gets accepted as "the" match
+
+
 def find_market(all_markets, keywords):
     """Return the open market whose title matches the most keywords
-    (case-insensitive substring match), or None if nothing scores > 0."""
+    (case-insensitive substring match), or None if nothing clears the
+    minimum match threshold."""
     best_market, best_score = None, 0
     for market in all_markets:
         title = (market.get("title") or "").lower()
         score = sum(1 for kw in keywords if kw.lower() in title)
         if score > best_score:
             best_market, best_score = market, score
+    if best_score < MIN_MATCH_SCORE:
+        return None
     return best_market
 
 
