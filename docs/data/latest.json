@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:50:53.468923+00:00",
+  "generated_at": "2026-08-13T09:46:40.125945+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -116,7 +116,7 @@
           },
           {
             "outcome": "Republicans, 9+ pts",
-            "probability_pct": 0.4
+            "probability_pct": 0.3
           }
         ],
         "url": "https://kalshi.com/markets/kxmidtermmov"
@@ -376,7 +376,7 @@
           },
           {
             "outcome": "Above 820K",
-            "probability_pct": 2.0
+            "probability_pct": 1.0
           },
           {
             "outcome": "Above 860K",
@@ -667,7 +667,7 @@
           },
           {
             "outcome": "Mike Collins (R)",
-            "probability_pct": 7.8
+            "probability_pct": 7.7
           },
           {
             "outcome": "Person A",
@@ -778,7 +778,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 2.8
+            "probability_pct": 2.9
           },
           {
             "outcome": "Other",
