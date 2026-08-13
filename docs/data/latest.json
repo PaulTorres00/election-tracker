@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:57:48.215902+00:00",
+  "generated_at": "2026-08-13T05:50:53.468923+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Republican party",
-            "probability_pct": 61.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Democratic party",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 52.0
+            "probability_pct": 52.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -364,15 +364,15 @@
         "outcomes": [
           {
             "outcome": "Above 700K",
-            "probability_pct": 30.0
+            "probability_pct": 50.0
+          },
+          {
+            "outcome": "Above 740K",
+            "probability_pct": 27.0
           },
           {
             "outcome": "Above 780K",
             "probability_pct": 9.0
-          },
-          {
-            "outcome": "Above 740K",
-            "probability_pct": 2.0
           },
           {
             "outcome": "Above 820K",
@@ -644,7 +644,7 @@
         "outcomes": [
           {
             "outcome": "Democratic party",
-            "probability_pct": 42.0
+            "probability_pct": 66.0
           },
           {
             "outcome": "Republican party",
@@ -652,7 +652,7 @@
           },
           {
             "outcome": "John Fetterman",
-            "probability_pct": 6.0
+            "probability_pct": 7.0
           }
         ],
         "url": "https://kalshi.com/markets/senatepa"
@@ -663,11 +663,11 @@
         "outcomes": [
           {
             "outcome": "Jon Ossoff (D) ",
-            "probability_pct": 92.0
+            "probability_pct": 92.5
           },
           {
             "outcome": "Mike Collins (R)",
-            "probability_pct": 8.0
+            "probability_pct": 7.8
           },
           {
             "outcome": "Person A",
@@ -778,7 +778,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 2.9
+            "probability_pct": 2.8
           },
           {
             "outcome": "Other",
@@ -865,7 +865,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 83.0
+            "probability_pct": 83.5
           },
           {
             "outcome": "Republican Party",
