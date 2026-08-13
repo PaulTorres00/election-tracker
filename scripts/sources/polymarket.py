@@ -11,17 +11,17 @@ is `groupItemTitle` on the market object (confirmed against docs.polymarket
 .com's current schema). An earlier version of this file only read
 markets[0]'s outcomes directly, which is why the display just said "Yes"
 with no candidate name attached.
+
+See matching.py for the keyword-matching logic shared with kalshi.py.
 """
 import json
 import requests
+from . import matching
 
 BASE_URL = "https://gamma-api.polymarket.com"
 TIMEOUT = 20
 MAX_PAGES = 40
 PAGE_SIZE = 100
-MIN_MATCH_SCORE = 2  # same reasoning as kalshi.py -- one incidental word
-                      # overlap with an unrelated event shouldn't count as a
-                      # match
 
 
 def fetch_all_open_events():
@@ -44,17 +44,13 @@ def fetch_all_open_events():
 
 
 def find_event(all_events, keywords):
-    """Best keyword match against event titles/subtitles, or None if
-    nothing clears the minimum match threshold."""
-    best_event, best_score = None, 0
-    for event in all_events:
-        text = f"{event.get('title') or ''} {event.get('subtitle') or ''}".lower()
-        score = sum(1 for kw in keywords if kw.lower() in text)
-        if score > best_score:
-            best_event, best_score = event, score
-    if best_score < MIN_MATCH_SCORE:
-        return None
-    return best_event
+    """Return the open event that best matches `keywords` (see matching.py
+    for how), or None if nothing qualifies."""
+    return matching.find_best_event(
+        all_events,
+        keywords,
+        text_fn=lambda e: f"{e.get('title') or ''} {e.get('subtitle') or ''}",
+    )
 
 
 def _yes_price_pct(market):
