@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T09:46:40.125945+00:00",
+  "generated_at": "2026-08-13T14:31:52.751275+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Republican party",
-            "probability_pct": 62.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Democratic party",
@@ -104,22 +104,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "New York's 17th District margin of victory",
+        "event_title": "NY-17 House winner?",
         "outcomes": [
           {
-            "outcome": "Republicans, 3+ pts",
-            "probability_pct": 10.0
+            "outcome": "Cait Conley",
+            "probability_pct": 64.0
           },
           {
-            "outcome": "Republicans, 6+ pts",
-            "probability_pct": 4.2
-          },
-          {
-            "outcome": "Republicans, 9+ pts",
-            "probability_pct": 0.3
+            "outcome": "Mike Lawler",
+            "probability_pct": 30.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxmidtermmov"
+        "url": "https://kalshi.com/markets/houseny17"
       },
       "polymarket": {
         "event_title": "NY-17 House Election Winner",
@@ -289,11 +285,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 59.5
+            "probability_pct": 60.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 41.5
+            "probability_pct": 40.5
           },
           {
             "outcome": "Person A",
@@ -360,42 +356,26 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Maine Senate General Election: voter turnout",
+        "event_title": "Maine Governor-Senate combo",
         "outcomes": [
           {
-            "outcome": "Above 700K",
-            "probability_pct": 50.0
+            "outcome": "Democrats sweep",
+            "probability_pct": 60.0
           },
           {
-            "outcome": "Above 740K",
-            "probability_pct": 27.0
+            "outcome": "Democratic Governor, Republican Senator",
+            "probability_pct": 33.0
           },
           {
-            "outcome": "Above 780K",
-            "probability_pct": 9.0
+            "outcome": "Republicans sweep",
+            "probability_pct": 4.0
           },
           {
-            "outcome": "Above 820K",
-            "probability_pct": 1.0
-          },
-          {
-            "outcome": "Above 860K",
-            "probability_pct": 1.0
-          },
-          {
-            "outcome": "Above 900K",
-            "probability_pct": 1.0
-          },
-          {
-            "outcome": "Above 940K",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "Above 980K",
+            "outcome": "Republican Governor, Democratic Senator",
             "probability_pct": 0.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxmidtermvoteturn"
+        "url": "https://kalshi.com/markets/kxmesengovcombo"
       },
       "polymarket": {
         "event_title": "Maine Senate Election Winner",
@@ -407,7 +387,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.5
+            "probability_pct": 29.5
           },
           {
             "outcome": "Person A",
@@ -471,30 +451,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Michigan 13 House General Election: voter turnout",
+        "event_title": "MI-13 House winner?",
         "outcomes": [
           {
-            "outcome": "Above 250K",
-            "probability_pct": 61.0
+            "outcome": "Donavan McKinney",
+            "probability_pct": 96.3
           },
           {
-            "outcome": "Above 260K",
-            "probability_pct": 48.0
-          },
-          {
-            "outcome": "Above 280K",
-            "probability_pct": 35.0
-          },
-          {
-            "outcome": "Above 290K",
-            "probability_pct": 22.0
-          },
-          {
-            "outcome": "Above 300K",
-            "probability_pct": 9.0
+            "outcome": "T.P. Nykoriak",
+            "probability_pct": 0.7
           }
         ],
-        "url": "https://kalshi.com/markets/kxmidtermvoteturn"
+        "url": "https://kalshi.com/markets/kxhouserace"
       },
       "polymarket": {
         "event_title": "MI-13 House Election Winner",
@@ -573,7 +541,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.5
+            "probability_pct": 29.5
           },
           {
             "outcome": "Person A",
@@ -663,11 +631,11 @@
         "outcomes": [
           {
             "outcome": "Jon Ossoff (D) ",
-            "probability_pct": 92.5
+            "probability_pct": 92.0
           },
           {
             "outcome": "Mike Collins (R)",
-            "probability_pct": 7.7
+            "probability_pct": 7.5
           },
           {
             "outcome": "Person A",
@@ -774,11 +742,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 94.5
+            "probability_pct": 94.7
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 2.9
+            "probability_pct": 2.7
           },
           {
             "outcome": "Other",
