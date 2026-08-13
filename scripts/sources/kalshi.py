@@ -28,6 +28,17 @@ MIN_MATCH_SCORE = 2  # require at least 2 keyword hits, not just 1 incidental
                       # word overlap -- otherwise a generic word shared with
                       # an unrelated event gets accepted as "the" match
 
+# Kalshi runs several DIFFERENT kinds of midterm markets per race, not just
+# "who wins" -- margin-of-victory brackets and voter-turnout brackets are
+# separate events whose titles also contain the state name and "Senate"/
+# "House", so they score just as well on a plain keyword match as the
+# actual win-probability event. Confirmed by seeing exactly this happen live
+# (e.g. "Maine Senate General Election: voter turnout" tying/outscoring the
+# real win-probability event for that race). Exclude these category titles
+# outright so we don't surface a turnout bracket labeled as if it were a
+# candidate's win probability.
+EXCLUDED_TITLE_PATTERNS = ["voter turnout", "margin of victory", "turnout"]
+
 
 def fetch_all_open_events():
     """Paginate through every open event once per run, with each event's
@@ -58,10 +69,13 @@ def fetch_all_open_events():
 def find_event(all_events, keywords):
     """Return the open event whose title/sub_title matches the most
     keywords (case-insensitive substring match), or None if nothing clears
-    the minimum match threshold."""
+    the minimum match threshold. Skips known non-win-probability event
+    categories (see EXCLUDED_TITLE_PATTERNS) entirely."""
     best_event, best_score = None, 0
     for event in all_events:
         text = f"{event.get('title') or ''} {event.get('sub_title') or ''}".lower()
+        if any(pattern in text for pattern in EXCLUDED_TITLE_PATTERNS):
+            continue
         score = sum(1 for kw in keywords if kw.lower() in text)
         if score > best_score:
             best_event, best_score = event, score
