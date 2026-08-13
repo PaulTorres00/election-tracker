@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:32:14.755738+00:00",
+  "generated_at": "2026-08-13T20:03:18.170648+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -108,11 +108,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 65.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17"
@@ -348,11 +348,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 49.0,
-          "Susan Collins": 45.5
+          "Troy Jackson": 48.7,
+          "Susan Collins": 45.7
         },
-        "polls_used": 2,
-        "most_recent_poll_date": "2026-08-01",
+        "polls_used": 3,
+        "most_recent_poll_date": "2026-08-10",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -631,11 +631,11 @@
         "outcomes": [
           {
             "outcome": "Jon Ossoff (D) ",
-            "probability_pct": 92.0
+            "probability_pct": 92.5
           },
           {
             "outcome": "Mike Collins (R)",
-            "probability_pct": 8.1
+            "probability_pct": 7.8
           },
           {
             "outcome": "Person A",
@@ -742,7 +742,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 94.8
+            "probability_pct": 94.7
           },
           {
             "outcome": "Republican Party",
