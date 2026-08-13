@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:31:52.751275+00:00",
+  "generated_at": "2026-08-13T15:32:14.755738+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -108,7 +108,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 64.0
+            "probability_pct": 65.0
           },
           {
             "outcome": "Mike Lawler",
@@ -360,7 +360,7 @@
         "outcomes": [
           {
             "outcome": "Democrats sweep",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Democratic Governor, Republican Senator",
@@ -635,7 +635,7 @@
           },
           {
             "outcome": "Mike Collins (R)",
-            "probability_pct": 7.5
+            "probability_pct": 8.1
           },
           {
             "outcome": "Person A",
@@ -742,7 +742,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 94.7
+            "probability_pct": 94.8
           },
           {
             "outcome": "Republican Party",
