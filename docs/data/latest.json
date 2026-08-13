@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:03:18.170648+00:00",
+  "generated_at": "2026-08-13T22:11:07.624486+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -17,18 +17,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Ohio Senate winner? (2028)",
+        "event_title": "Ohio Senate winner?",
         "outcomes": [
           {
-            "outcome": "Republican party",
-            "probability_pct": 61.0
+            "outcome": "Sherrod Brown",
+            "probability_pct": 51.0
           },
           {
-            "outcome": "Democratic party",
-            "probability_pct": 40.0
+            "outcome": "Jon Husted",
+            "probability_pct": 49.0
           }
         ],
-        "url": "https://kalshi.com/markets/senateoh"
+        "url": "https://kalshi.com/markets/senateohs"
       },
       "polymarket": {
         "event_title": "Ohio Senate Election Winner",
@@ -108,7 +108,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
@@ -127,7 +127,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 28.0
+            "probability_pct": 27.5
           },
           {
             "outcome": "Other",
@@ -174,110 +174,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Michigan Senate Democratic primary: Abdul El-Sayed vote percent",
+        "event_title": "Michigan Senate winner?",
         "outcomes": [
           {
-            "outcome": "At least 40%",
-            "probability_pct": 99.0
+            "outcome": "Abdul El-Sayed",
+            "probability_pct": 58.0
           },
           {
-            "outcome": "At least 41%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 42%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 43%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 44%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 45%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 46%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 47%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 48%",
-            "probability_pct": 99.0
-          },
-          {
-            "outcome": "At least 49%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 50%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 51%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 52%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 53%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 54%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 55%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 56%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 57%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 58%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 59%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 60%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 61%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 62%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 63%",
-            "probability_pct": 0.0
-          },
-          {
-            "outcome": "At least 64%",
-            "probability_pct": 0.0
+            "outcome": "Mike Rogers",
+            "probability_pct": 41.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxvoteprimary"
+        "url": "https://kalshi.com/markets/senatemi"
       },
       "polymarket": {
         "event_title": "Michigan Senate Election Winner",
@@ -285,11 +193,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 60.5
+            "probability_pct": 61.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 40.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -356,26 +264,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Maine Governor-Senate combo",
+        "event_title": "Maine Senate winner?",
         "outcomes": [
           {
-            "outcome": "Democrats sweep",
-            "probability_pct": 59.0
+            "outcome": "Troy Jackson",
+            "probability_pct": 66.0
           },
           {
-            "outcome": "Democratic Governor, Republican Senator",
-            "probability_pct": 33.0
-          },
-          {
-            "outcome": "Republicans sweep",
-            "probability_pct": 4.0
-          },
-          {
-            "outcome": "Republican Governor, Democratic Senator",
-            "probability_pct": 0.0
+            "outcome": "Susan Collins",
+            "probability_pct": 34.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxmesengovcombo"
+        "url": "https://kalshi.com/markets/senateme"
       },
       "polymarket": {
         "event_title": "Maine Senate Election Winner",
@@ -518,34 +418,38 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Philippine Senate election winner?",
+        "event_title": "Nebraska Senate winner?",
         "outcomes": [
           {
-            "outcome": "NPC",
-            "probability_pct": 51.0
+            "outcome": "Pete Ricketts",
+            "probability_pct": 70.0
           },
           {
-            "outcome": "Nacionalista",
-            "probability_pct": 24.0
+            "outcome": "Dan Osborn",
+            "probability_pct": 29.0
+          },
+          {
+            "outcome": "Cindy Burbank",
+            "probability_pct": 0.1
           }
         ],
-        "url": "https://kalshi.com/markets/kxphilippinessenate"
+        "url": "https://kalshi.com/markets/senatene"
       },
       "polymarket": {
-        "event_title": "Maine Senate Election Winner",
-        "slug": "maine-senate-election-winner",
+        "event_title": "Nebraska Senate Election Winner  ",
+        "slug": "nebraska-senate-election-winner",
         "outcomes": [
           {
-            "outcome": "Troy Jackson (D)",
-            "probability_pct": 69.5
+            "outcome": "Pete Ricketts (R)",
+            "probability_pct": 71.5
           },
           {
-            "outcome": "Susan Collins (R)",
-            "probability_pct": 29.5
+            "outcome": "Independent",
+            "probability_pct": 28.5
           },
           {
-            "outcome": "Person A",
-            "probability_pct": null
+            "outcome": "Democrat",
+            "probability_pct": 0.2
           },
           {
             "outcome": "Person B",
@@ -588,7 +492,7 @@
             "probability_pct": null
           }
         ],
-        "url": "https://polymarket.com/event/maine-senate-election-winner"
+        "url": "https://polymarket.com/event/nebraska-senate-election-winner"
       },
       "fundraising": []
     },
@@ -608,34 +512,30 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Pennsylvania Senate winner? (2028)",
+        "event_title": "Iowa Senate winner?",
         "outcomes": [
           {
-            "outcome": "Democratic party",
-            "probability_pct": 66.0
+            "outcome": "Ashley Hinson",
+            "probability_pct": 53.0
           },
           {
-            "outcome": "Republican party",
-            "probability_pct": 23.0
-          },
-          {
-            "outcome": "John Fetterman",
-            "probability_pct": 7.0
+            "outcome": "Josh Turek",
+            "probability_pct": 46.0
           }
         ],
-        "url": "https://kalshi.com/markets/senatepa"
+        "url": "https://kalshi.com/markets/senateia"
       },
       "polymarket": {
-        "event_title": "Georgia Senate Election Winner",
-        "slug": "georgia-senate-election-winner",
+        "event_title": "Iowa Senate Election Winner",
+        "slug": "iowa-senate-election-winner",
         "outcomes": [
           {
-            "outcome": "Jon Ossoff (D) ",
-            "probability_pct": 92.5
+            "outcome": "Ashley Hinson (R)",
+            "probability_pct": 56.5
           },
           {
-            "outcome": "Mike Collins (R)",
-            "probability_pct": 7.8
+            "outcome": "Josh Turek (D)",
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -682,7 +582,7 @@
             "probability_pct": null
           }
         ],
-        "url": "https://polymarket.com/event/georgia-senate-election-winner"
+        "url": "https://polymarket.com/event/iowa-senate-election-winner"
       },
       "fundraising": []
     },
@@ -699,42 +599,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "How many House seats will Democrats win in California?",
+        "event_title": "CA-07 House winner?",
         "outcomes": [
           {
-            "outcome": "48",
-            "probability_pct": 61.0
+            "outcome": "Mai Vang",
+            "probability_pct": 50.0
           },
           {
-            "outcome": "47",
-            "probability_pct": 18.0
-          },
-          {
-            "outcome": "50 and above",
-            "probability_pct": 3.9
-          },
-          {
-            "outcome": "49",
-            "probability_pct": 0.2
-          },
-          {
-            "outcome": "Below 44",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "44",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "45",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "46",
-            "probability_pct": 0.1
+            "outcome": "Doris Matsui",
+            "probability_pct": 47.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxcahousedem"
+        "url": "https://kalshi.com/markets/kxcaelection"
       },
       "polymarket": {
         "event_title": "CA-07 House Election Winner",
@@ -742,7 +618,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 94.7
+            "probability_pct": 95.3
           },
           {
             "outcome": "Republican Party",
@@ -790,42 +666,18 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "How many House seats will Democrats win in California?",
+        "event_title": "CA-22 House winner?",
         "outcomes": [
           {
-            "outcome": "48",
-            "probability_pct": 61.0
+            "outcome": "Randy Villegas",
+            "probability_pct": 82.0
           },
           {
-            "outcome": "47",
-            "probability_pct": 18.0
-          },
-          {
-            "outcome": "50 and above",
-            "probability_pct": 3.9
-          },
-          {
-            "outcome": "49",
-            "probability_pct": 0.2
-          },
-          {
-            "outcome": "Below 44",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "44",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "45",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "46",
-            "probability_pct": 0.1
+            "outcome": "David Valadao",
+            "probability_pct": 16.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxcahousedem"
+        "url": "https://kalshi.com/markets/houseca22"
       },
       "polymarket": {
         "event_title": "CA-22 House Election Winner",
