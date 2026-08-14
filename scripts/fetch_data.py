@@ -55,10 +55,16 @@ def build_race_snapshot(race, all_kalshi_events, all_polymarket_events):
     polling_averages, polls_used, most_recent_poll_date = polling or ({}, 0, None)
 
     kalshi_event = safe(f"{race['id']} kalshi", kalshi.find_event, all_kalshi_events, race["keywords"])
-    kalshi_odds = safe(f"{race['id']} kalshi convert", kalshi.event_to_odds, kalshi_event) if kalshi_event else None
+    kalshi_odds = safe(
+        f"{race['id']} kalshi convert", kalshi.event_to_odds, kalshi_event,
+        exclude_outcomes=race.get("exclude_market_outcomes"),
+    ) if kalshi_event else None
 
     poly_event = safe(f"{race['id']} polymarket", polymarket.find_event, all_polymarket_events, race["keywords"])
-    polymarket_odds = safe(f"{race['id']} polymarket convert", polymarket.event_to_odds, poly_event) if poly_event else None
+    polymarket_odds = safe(
+        f"{race['id']} polymarket convert", polymarket.event_to_odds, poly_event,
+        exclude_outcomes=race.get("exclude_market_outcomes"),
+    ) if poly_event else None
 
     fundraising = safe(
         f"{race['id']} fec",
