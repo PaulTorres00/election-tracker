@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:21:32.160208+00:00",
+  "generated_at": "2026-08-14T18:29:40.761994+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -105,8 +105,8 @@
         {
           "name": "BROWN, SHERROD",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 38566234.1,
+          "cash_on_hand": 16229741.32
         },
         {
           "name": "CARLSON, OWEN NICHOLAS",
@@ -117,8 +117,8 @@
         {
           "name": "FARIS, STEPHEN I MR",
           "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 8049.0,
+          "cash_on_hand": 0.0
         },
         {
           "name": "FARMS, WILLIAM",
@@ -135,14 +135,14 @@
         {
           "name": "HUSTED, JON",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 14360027.53,
+          "cash_on_hand": 9419311.2
         },
         {
           "name": "KINCAID, RONALD E JR",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 46619.22,
+          "cash_on_hand": 17486.87
         },
         {
           "name": "LAU, LYNNEA MS.",
@@ -153,14 +153,14 @@
         {
           "name": "LEVY, GREGORY LEE",
           "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 80347.69,
+          "cash_on_hand": 25971.13
         },
         {
           "name": "ODE, FREDERICK J",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 5001938.94,
+          "cash_on_hand": 25865.53
         }
       ]
     },
@@ -233,56 +233,56 @@
         {
           "name": "CAPPELLO, JOHN",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 78826.32,
+          "cash_on_hand": 13545.73
         },
         {
           "name": "CHATZKY, PETER",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 11707921.6,
+          "cash_on_hand": 789.36
         },
         {
           "name": "CONLEY, CAIT",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 4317457.32,
+          "cash_on_hand": 1319156.47
         },
         {
           "name": "DAVIDSON, BETH",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 2183574.24,
+          "cash_on_hand": 183734.59
         },
         {
           "name": "LAWLER, MICHAEL VINCENT",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 1553320.59,
+          "cash_on_hand": 38461.65
         },
         {
           "name": "PHILLIPS-STALEY, EFFIE",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 787244.0,
+          "cash_on_hand": 11309.81
         },
         {
           "name": "REINMANN, JESSICA",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 655476.09,
+          "cash_on_hand": 0.0
         },
         {
           "name": "SACKS, MIKE",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 298002.05,
+          "cash_on_hand": 16921.05
         },
         {
           "name": "SULLIVAN, JOHN",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 485228.86,
+          "cash_on_hand": 2385.7
         }
       ]
     },
@@ -294,11 +294,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Mike Rogers": 43.5,
-          "Abdul El-Sayed": 43.0
+          "Abdul El-Sayed": 43.4,
+          "Mike Rogers": 44.2
         },
-        "polls_used": 9,
-        "most_recent_poll_date": "2026-07-31",
+        "polls_used": 10,
+        "most_recent_poll_date": "2026-08-10",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -396,20 +396,20 @@
         {
           "name": "EL-SAYED, ABDUL",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 14514335.93,
+          "cash_on_hand": 2552762.55
         },
         {
           "name": "HEURTEBISE, FREDERICK",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 10058.6,
+          "cash_on_hand": 0.0
         },
         {
           "name": "HOWARD, RACHEL ELIZABETH",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 10937.0,
+          "cash_on_hand": 4766.23
         },
         {
           "name": "JOHNSON II, CRAIG HENLEY MR II",
@@ -444,8 +444,8 @@
         {
           "name": "MCMORROW, MALLORY",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 11386720.36,
+          "cash_on_hand": 1867631.28
         }
       ]
     },
@@ -559,14 +559,14 @@
         {
           "name": "CALABRESE, CARMEM VINCENT MR.",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 17759.71,
+          "cash_on_hand": -3500.0
         },
         {
           "name": "CALABRESE, CARMEN VINCENT MR.",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 17759.71,
+          "cash_on_hand": -3500.0
         },
         {
           "name": "CARLSON, OWEN NICHOLAS",
@@ -577,26 +577,26 @@
         {
           "name": "COLLINS, SUSAN M.",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 1721825.0,
+          "cash_on_hand": 100349.0
         },
         {
           "name": "COSTELLO, DAVID",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 111307.55,
+          "cash_on_hand": 0.0
         },
         {
           "name": "EVANS, DAVID ALAN",
           "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 6436.72,
+          "cash_on_hand": 0.0
         },
         {
           "name": "FAVREAU, TUCKER",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 13599.1,
+          "cash_on_hand": 7.13
         },
         {
           "name": "JACKSON, TROY DALE",
@@ -607,26 +607,26 @@
         {
           "name": "KLEBAN, DAN",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 458786.42,
+          "cash_on_hand": 86.5
         },
         {
           "name": "LAFLAMME, ANDREA",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 16254.49,
+          "cash_on_hand": 10043.16
         },
         {
           "name": "LOUD, PAIGE",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 60562.21,
+          "cash_on_hand": 4755.74
         },
         {
           "name": "MILLS, JANET TRAFTON",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 6063106.45,
+          "cash_on_hand": 102783.47
         },
         {
           "name": "PELLETIER, SAUNDRA",
@@ -735,8 +735,8 @@
         {
           "name": "BURBANK, CINDY",
           "party": "DE",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 39711.77,
+          "cash_on_hand": 20765.99
         },
         {
           "name": "CARLSON, OWEN NICHOLAS",
@@ -753,20 +753,20 @@
         {
           "name": "FORBES, WILLIAM",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 1000.0,
+          "cash_on_hand": 0.0
         },
         {
           "name": "MARVIN, MIKE",
           "party": "OTH",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 27745.0,
+          "cash_on_hand": 2615.59
         },
         {
           "name": "OSBORN, DAN",
           "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
+          "receipts": 15129327.27,
+          "cash_on_hand": 63165.92
         },
         {
           "name": "RICKETTS, PETE",
@@ -882,74 +882,7 @@
         ],
         "url": "https://polymarket.com/event/iowa-senate-election-winner"
       },
-      "fundraising": [
-        {
-          "name": "ARENHOLZ, ASHLEY HINSON",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "BERMAN, JOHN",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "CARLIN, JAMES",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "ERNST, JONI K",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "HENRY, CHRIS",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "LAEHN, THOMAS RAYMOND DR.",
-          "party": "LIB",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "NORRIS, JACKIE",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "SAGE, NATHAN",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "SCHOLTEN, JAMES",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "SMITH, JOSHUA DANIEL",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "TUREK, JOSHUA",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        }
-      ]
+      "fundraising": []
     },
     {
       "id": "hse-ca-07-2026",
@@ -978,7 +911,56 @@
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
       },
       "polymarket": null,
-      "fundraising": []
+      "fundraising": [
+        {
+          "name": "LEE, ERICA",
+          "party": "DEM",
+          "receipts": 14731.02,
+          "cash_on_hand": 4557.72
+        },
+        {
+          "name": "MATSUI, DORIS",
+          "party": "DEM",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "MING, KATHRYN S",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "MORIN, ROBERT",
+          "party": "DEM",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "NAZHAT, ENAYAT MR.",
+          "party": "DEM",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "RICHARDSON, ROBERT CHRISTIAN",
+          "party": "GRE",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "VANG, MAI",
+          "party": "DEM",
+          "receipts": 1086084.32,
+          "cash_on_hand": 105536.01
+        },
+        {
+          "name": "WOODEN, ZACHARIAH",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        }
+      ]
     },
     {
       "id": "hse-ca-22-2026",
