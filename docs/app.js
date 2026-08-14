@@ -40,21 +40,6 @@ function formatUpdatedAt(iso) {
   });
 }
 
-function formatMoney(n) {
-  if (n === null || n === undefined) return "—";
-  if (n >= 1_000_000) return `$${(n / 1_000_000).toFixed(1)}M`;
-  if (n >= 1_000) return `$${(n / 1_000).toFixed(0)}K`;
-  return `$${n}`;
-}
-
-function partyClass(party) {
-  if (!party) return "";
-  const p = party.toUpperCase();
-  if (p.startsWith("D")) return "party-dem";
-  if (p.startsWith("R")) return "party-rep";
-  return "";
-}
-
 // Choice labels coming out of VoteHub vary: the national generic-ballot
 // subject uses literal "Dem"/"Rep", but individual race polls may use
 // candidate names instead. This makes a best-effort color guess from the
@@ -122,17 +107,6 @@ function renderCard(race, history) {
   const total = hasPolling ? leaders[0][1] + leaders[1][1] : 100;
   const leadingLabel = leaders.length ? leaders[0][0] : null;
 
-  const fundraisingRows = (race.fundraising || [])
-    .filter(f => f.receipts !== null && f.receipts !== undefined)
-    .sort((a, b) => (b.receipts || 0) - (a.receipts || 0))
-    .slice(0, 4)
-    .map(f => `
-      <div class="fundraising-row">
-        <span class="${partyClass(f.party)}">${f.name || "Unknown"}</span>
-        <span class="receipts">${formatMoney(f.receipts)}</span>
-      </div>
-    `).join("");
-
   return `
     <article class="race-card" data-chamber="${race.chamber}">
       <div class="race-card-header">
@@ -160,8 +134,6 @@ function renderCard(race, history) {
         ${renderOddsBox("Kalshi", race.kalshi)}
         ${renderOddsBox("Polymarket", race.polymarket)}
       </div>
-
-      ${fundraisingRows ? `<div class="fundraising-list">${fundraisingRows}</div>` : ""}
 
       <div class="card-footer">
         <span>Most recent poll: ${formatUpdatedAt(race.polling.most_recent_poll_date)}</span>
