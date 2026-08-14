@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:40:23.947255+00:00",
+  "generated_at": "2026-08-14T16:55:31.301446+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -28,7 +28,7 @@
             "probability_pct": 47.0
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
       },
       "polymarket": {
         "event_title": "Ohio Senate Election Winner",
@@ -115,7 +115,7 @@
             "probability_pct": 33.0
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
       },
       "polymarket": {
         "event_title": "NY-17 House Election Winner",
@@ -185,7 +185,7 @@
             "probability_pct": 43.0
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
       },
       "polymarket": {
         "event_title": "Michigan Senate Election Winner",
@@ -275,7 +275,7 @@
             "probability_pct": 34.0
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
       },
       "polymarket": {
         "event_title": "Maine Senate Election Winner",
@@ -366,7 +366,7 @@
             "probability_pct": 0.1
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
       },
       "polymarket": {
         "event_title": "Nebraska Senate Election Winner  ",
@@ -456,7 +456,7 @@
             "probability_pct": 45.0
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
       },
       "polymarket": {
         "event_title": "Iowa Senate Election Winner",
@@ -551,7 +551,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 94.8
+            "probability_pct": 94.9
           },
           {
             "outcome": "Other",
@@ -606,7 +606,7 @@
             "probability_pct": 16.0
           }
         ],
-        "url": "https://kalshi.com/category/elections/midterms"
+        "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
       },
       "polymarket": {
         "event_title": "CA-22 House Election Winner",
