@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:07:13.987768+00:00",
+  "generated_at": "2026-08-14T16:18:11.969575+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -28,7 +28,7 @@
             "probability_pct": 47.0
           }
         ],
-        "url": "https://kalshi.com/markets/senateohs"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "Ohio Senate Election Winner",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 56.5
+            "probability_pct": 57.0
           },
           {
             "outcome": "Jon Husted (R)",
@@ -112,10 +112,10 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 34.0
+            "probability_pct": 33.0
           }
         ],
-        "url": "https://kalshi.com/markets/houseny17"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "NY-17 House Election Winner",
@@ -127,7 +127,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 28.0
+            "probability_pct": 28.5
           },
           {
             "outcome": "Other",
@@ -185,7 +185,7 @@
             "probability_pct": 43.0
           }
         ],
-        "url": "https://kalshi.com/markets/senatemi"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "Michigan Senate Election Winner",
@@ -275,7 +275,7 @@
             "probability_pct": 34.0
           }
         ],
-        "url": "https://kalshi.com/markets/senateme"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "Maine Senate Election Winner",
@@ -339,73 +339,6 @@
       "fundraising": []
     },
     {
-      "id": "hse-mi-13-2026",
-      "label": "MI-13 \u2014 U.S. House",
-      "chamber": "house",
-      "state": "Michigan",
-      "district": "13",
-      "polling": {
-        "averages": {},
-        "polls_used": 0,
-        "most_recent_poll_date": null,
-        "source": "VoteHub (https://votehub.com)"
-      },
-      "kalshi": {
-        "event_title": "MI-13 House winner?",
-        "outcomes": [
-          {
-            "outcome": "Donavan McKinney",
-            "probability_pct": 96.3
-          },
-          {
-            "outcome": "T.P. Nykoriak",
-            "probability_pct": 0.7
-          }
-        ],
-        "url": "https://kalshi.com/markets/kxhouserace"
-      },
-      "polymarket": {
-        "event_title": "MI-13 House Election Winner",
-        "slug": "mi-13-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Democratic Party",
-            "probability_pct": 96.5
-          },
-          {
-            "outcome": "Republican Party",
-            "probability_pct": 2.2
-          },
-          {
-            "outcome": "Other",
-            "probability_pct": null
-          },
-          {
-            "outcome": "A",
-            "probability_pct": null
-          },
-          {
-            "outcome": "B",
-            "probability_pct": null
-          },
-          {
-            "outcome": "C",
-            "probability_pct": null
-          },
-          {
-            "outcome": "D",
-            "probability_pct": null
-          },
-          {
-            "outcome": "E",
-            "probability_pct": null
-          }
-        ],
-        "url": "https://polymarket.com/event/mi-13-house-election-winner"
-      },
-      "fundraising": []
-    },
-    {
       "id": "sen-ne-2026",
       "label": "Nebraska \u2014 U.S. Senate",
       "chamber": "senate",
@@ -433,7 +366,7 @@
             "probability_pct": 0.1
           }
         ],
-        "url": "https://kalshi.com/markets/senatene"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "Nebraska Senate Election Winner  ",
@@ -523,7 +456,7 @@
             "probability_pct": 45.0
           }
         ],
-        "url": "https://kalshi.com/markets/senateia"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "Iowa Senate Election Winner",
@@ -610,7 +543,7 @@
             "probability_pct": 47.0
           }
         ],
-        "url": "https://kalshi.com/markets/kxcaelection"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "CA-07 House Election Winner",
@@ -618,11 +551,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 95.0
-          },
-          {
-            "outcome": "Republican Party",
-            "probability_pct": 2.9
+            "probability_pct": 94.8
           },
           {
             "outcome": "Other",
@@ -674,10 +603,10 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 15.0
+            "probability_pct": 16.0
           }
         ],
-        "url": "https://kalshi.com/markets/houseca22"
+        "url": "https://kalshi.com/elections/midterms"
       },
       "polymarket": {
         "event_title": "CA-22 House Election Winner",
