@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Pulls the latest polling average, prediction-market odds, and fundraising
-totals for every race in config/races.json, and writes the result to
-docs/data/latest.json (what the dashboard reads) plus a rolling per-race
-history file under docs/data/history/ (what the trend sparklines read).
+Pulls the latest polling average and prediction-market odds for every race
+in config/races.json, and writes the result to docs/data/latest.json (what
+the dashboard reads) plus a rolling per-race history file under
+docs/data/history/ (what the trend sparklines read).
 
 Run it locally with:
     pip install -r requirements.txt
@@ -18,7 +18,7 @@ import sys
 import traceback
 
 sys.path.insert(0, os.path.dirname(__file__))
-from sources import votehub, kalshi, polymarket, fec  # noqa: E402
+from sources import votehub, kalshi, polymarket  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config", "races.json")
@@ -70,14 +70,6 @@ def build_race_snapshot(race, all_kalshi_events, all_polymarket_events):
             exclude_outcomes=race.get("exclude_market_outcomes"),
         ) if poly_event else None
 
-    fundraising = safe(
-        f"{race['id']} fec",
-        fec.fetch_race_fundraising,
-        race["office_code"],
-        race["state_abbr"],
-        race.get("district"),
-    ) or []
-
     return {
         "id": race["id"],
         "label": race["label"],
@@ -92,7 +84,6 @@ def build_race_snapshot(race, all_kalshi_events, all_polymarket_events):
         },
         "kalshi": kalshi_odds,
         "polymarket": polymarket_odds,
-        "fundraising": fundraising,
     }
 
 
