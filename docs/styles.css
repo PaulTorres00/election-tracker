@@ -284,23 +284,6 @@ a:focus-visible, button:focus-visible {
 .sparkline-wrap { line-height: 0; }
 .sparkline-wrap svg { width: 100%; height: 36px; display: block; }
 
-/* Fundraising */
-.fundraising-list {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  font-size: 12px;
-}
-.fundraising-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 8px;
-  color: var(--text-muted);
-}
-.fundraising-row .party-dem { color: var(--dem); }
-.fundraising-row .party-rep { color: var(--rep); }
-.fundraising-row .receipts { font-family: var(--font-mono); color: var(--text-primary); }
-
 /* Card footer */
 .card-footer {
   font-size: 11px;
