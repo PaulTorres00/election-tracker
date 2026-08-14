@@ -85,7 +85,8 @@
       "votehub_subject": "2026 CA-07",
       "votehub_poll_type": "us-representative",
       "keywords": ["California", "7th", "District 7", "House", "CA-07"],
-      "exclude_market_outcomes": ["Republican Party"]
+      "exclude_market_outcomes": ["Republican Party"],
+      "kalshi_url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
     },
     {
       "id": "hse-ca-22-2026",
