@@ -65,20 +65,31 @@ def find_event(all_events, keywords):
     )
 
 
-def event_to_odds(event):
+def event_to_odds(event, exclude_outcomes=None):
     """Convert a matched event's nested markets into a per-candidate odds
     list. Each market under an election event is one candidate's binary
     yes/no contract: yes_sub_title names the candidate, yes_bid_dollars is
-    the market-implied probability they win."""
+    the market-implied probability they win.
+
+    exclude_outcomes: optional list of outcome labels to drop -- useful for
+    a top-two-primary state (California, Washington) where the market may
+    still list an old "Republican Party"/"Democratic Party" contract from
+    before the primary result was known, even though the actual November
+    matchup turned out to be same-party and that outcome is now impossible.
+    """
     if not event:
         return None
     markets = event.get("markets") or []
     if not markets:
         return None
 
+    exclude_set = {o.strip().lower() for o in (exclude_outcomes or [])}
+
     candidates = []
     for market in markets:
         label = market.get("yes_sub_title") or market.get("ticker") or "Unknown"
+        if label.strip().lower() in exclude_set:
+            continue
         price_str = market.get("yes_bid_dollars")
         try:
             pct = round(float(price_str) * 100, 1) if price_str else None
@@ -88,9 +99,12 @@ def event_to_odds(event):
 
     candidates.sort(key=lambda c: (c["probability_pct"] is None, -(c["probability_pct"] or 0)))
 
-    event_ticker = event.get("event_ticker") or ""
     return {
         "event_title": event.get("title"),
         "outcomes": candidates,
-        "url": f"https://kalshi.com/markets/{event_ticker.split('-')[0].lower()}",
+        # NOTE: Kalshi's actual site URL structure for a specific market page
+        # isn't confirmed -- an earlier version of this guessed at a pattern
+        # from the ticker and it pointed at the wrong race entirely. Linking
+        # to the real, confirmed Midterms Hub instead of guessing further.
+        "url": "https://kalshi.com/elections/midterms",
     }
