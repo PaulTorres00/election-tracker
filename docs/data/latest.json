@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:45:42.033045+00:00",
+  "generated_at": "2026-08-14T09:40:03.588989+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 50.0
+            "probability_pct": 51.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 49.0
+            "probability_pct": 47.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs"
@@ -36,11 +36,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 54.5
+            "probability_pct": 55.0
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 46.0
+            "probability_pct": 44.5
           },
           {
             "outcome": "Person A",
@@ -112,7 +112,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 32.0
+            "probability_pct": 34.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17"
@@ -123,7 +123,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.0
+            "probability_pct": 67.5
           },
           {
             "outcome": "Republican Party",
@@ -197,7 +197,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 43.0
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -516,7 +516,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 54.0
+            "probability_pct": 56.0
           },
           {
             "outcome": "Josh Turek",
@@ -531,7 +531,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 56.5
+            "probability_pct": 57.0
           },
           {
             "outcome": "Josh Turek (D)",
@@ -618,7 +618,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 95.2
+            "probability_pct": 95.3
           },
           {
             "outcome": "Republican Party",
