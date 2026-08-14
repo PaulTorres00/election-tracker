@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:42:53.984382+00:00",
+  "generated_at": "2026-08-14T20:00:44.312166+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 52.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 48.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 69.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Mike Lawler",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.0
+            "probability_pct": 66.5
           },
           {
             "outcome": "Republican Party",
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 43.5
+            "probability_pct": 44.5
           },
           {
             "outcome": "Person A",
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 83.0
+            "probability_pct": 81.0
           },
           {
             "outcome": "David Valadao",
