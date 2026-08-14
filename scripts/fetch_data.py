@@ -58,6 +58,7 @@ def build_race_snapshot(race, all_kalshi_events, all_polymarket_events):
     kalshi_odds = safe(
         f"{race['id']} kalshi convert", kalshi.event_to_odds, kalshi_event,
         exclude_outcomes=race.get("exclude_market_outcomes"),
+        manual_url=race.get("kalshi_url"),
     ) if kalshi_event else None
 
     poly_event = safe(f"{race['id']} polymarket", polymarket.find_event, all_polymarket_events, race["keywords"])
