@@ -65,7 +65,7 @@ def find_event(all_events, keywords):
     )
 
 
-def event_to_odds(event, exclude_outcomes=None):
+def event_to_odds(event, exclude_outcomes=None, manual_url=None):
     """Convert a matched event's nested markets into a per-candidate odds
     list. Each market under an election event is one candidate's binary
     yes/no contract: yes_sub_title names the candidate, yes_bid_dollars is
@@ -76,6 +76,12 @@ def event_to_odds(event, exclude_outcomes=None):
     still list an old "Republican Party"/"Democratic Party" contract from
     before the primary result was known, even though the actual November
     matchup turned out to be same-party and that outcome is now impossible.
+
+    manual_url: optional verified link (set per-race via races.json's
+    "kalshi_url") to use instead of the generic Midterms Hub fallback --
+    Kalshi's real per-market URL structure isn't reliably derivable from the
+    API fields alone, so a manually-confirmed link is more trustworthy than
+    a guessed pattern.
     """
     if not event:
         return None
@@ -102,9 +108,5 @@ def event_to_odds(event, exclude_outcomes=None):
     return {
         "event_title": event.get("title"),
         "outcomes": candidates,
-        # NOTE: Kalshi's actual site URL structure for a specific market page
-        # isn't confirmed -- an earlier version of this guessed at a pattern
-        # from the ticker and it pointed at the wrong race entirely. Linking
-        # to the real, confirmed Midterms Hub instead of guessing further.
-        "url": "https://kalshi.com/elections/midterms",
+        "url": manual_url or "https://kalshi.com/elections/midterms",
     }
