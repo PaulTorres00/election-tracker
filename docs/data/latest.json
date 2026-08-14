@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:40:03.588989+00:00",
+  "generated_at": "2026-08-14T15:07:13.987768+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 51.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Jon Husted",
@@ -36,11 +36,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 55.0
+            "probability_pct": 56.5
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 44.5
+            "probability_pct": 44.0
           },
           {
             "outcome": "Person A",
@@ -108,7 +108,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 64.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Mike Lawler",
@@ -127,7 +127,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 28.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Other",
@@ -516,7 +516,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 56.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Josh Turek",
@@ -618,11 +618,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 95.3
+            "probability_pct": 95.0
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 2.7
+            "probability_pct": 2.9
           },
           {
             "outcome": "Other",
@@ -670,11 +670,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 80.0
+            "probability_pct": 82.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 12.0
+            "probability_pct": 15.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22"
