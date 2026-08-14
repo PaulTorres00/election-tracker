@@ -76,9 +76,15 @@ def get_candidates(office_code, state_abbr, district=None, cycle=2026):
 
 
 def get_totals(candidate_id, cycle=2026):
-    params = {"api_key": API_KEY, "cycle": cycle}
+    # NOTE: confirmed against FEC's own GitHub repo and a working example --
+    # this is /candidate/ (singular), not /candidates/ (plural, that's only
+    # for the search endpoint above). Getting the path wrong here is why
+    # every single totals lookup 404'd regardless of whether the candidate
+    # actually has real fundraising data. Also uses `election_year`, not
+    # `cycle` -- a different param name than the search endpoint uses.
+    params = {"api_key": API_KEY, "election_year": cycle}
     resp = requests.get(
-        f"{BASE_URL}/candidates/{candidate_id}/totals/", params=params, timeout=TIMEOUT
+        f"{BASE_URL}/candidate/{candidate_id}/totals/", params=params, timeout=TIMEOUT
     )
     if resp.status_code != 200:
         log(f"WARNING: totals lookup failed for candidate {candidate_id}: "
