@@ -108,5 +108,7 @@ def event_to_odds(event, exclude_outcomes=None, manual_url=None):
     return {
         "event_title": event.get("title"),
         "outcomes": candidates,
-        "url": manual_url or "https://kalshi.com/elections/midterms",
+        # Verified working (fetched and confirmed it loads, unlike the
+        # earlier guess which 404'd -- it was missing "/category/").
+        "url": manual_url or "https://kalshi.com/category/elections/midterms",
     }
