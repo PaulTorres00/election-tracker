@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:05:49.568519+00:00",
+  "generated_at": "2026-08-14T18:21:32.160208+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -9,11 +9,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Jon Husted": 46.7,
-          "Sherrod Brown": 49.3
+          "Sherrod Brown": 50.2,
+          "Jon Husted": 46.2
         },
-        "polls_used": 3,
-        "most_recent_poll_date": "2026-06-28",
+        "polls_used": 4,
+        "most_recent_poll_date": "2026-08-10",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -91,12 +91,6 @@
       },
       "fundraising": [
         {
-          "name": "BERMAN, JOHN",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "BIBLER, BRIAN CHRISTOPHER MR",
           "party": "REP",
           "receipts": null,
@@ -121,12 +115,6 @@
           "cash_on_hand": null
         },
         {
-          "name": "DOLAN, MATT",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "FARIS, STEPHEN I MR",
           "party": "IND",
           "receipts": null,
@@ -134,12 +122,6 @@
         },
         {
           "name": "FARMS, WILLIAM",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "HACKETT, PAUL III",
           "party": "DEM",
           "receipts": null,
           "cash_on_hand": null
@@ -163,12 +145,6 @@
           "cash_on_hand": null
         },
         {
-          "name": "LAROSE, FRANK",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "LAU, LYNNEA MS.",
           "party": "DEM",
           "receipts": null,
@@ -181,32 +157,8 @@
           "cash_on_hand": null
         },
         {
-          "name": "MANDEL, JOSHUA A.",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "MORENO, BERNIE",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "ODE, FREDERICK J",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "PORTMAN, ROB THE HONORA",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "PUKITA, MARK MR.",
-          "party": "REP",
           "receipts": null,
           "cash_on_hand": null
         }
@@ -285,12 +237,6 @@
           "cash_on_hand": null
         },
         {
-          "name": "CARR, MARYANN",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "CHATZKY, PETER",
           "party": "DEM",
           "receipts": null,
@@ -309,37 +255,7 @@
           "cash_on_hand": null
         },
         {
-          "name": "EISEN, JOSH",
-          "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "JONES, MONDAIRE",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "LAWLER, MICHAEL VINCENT",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "LOWEY, NITA M",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "MALONEY, SEAN PATRICK",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "MCARDLE SCHULMAN, MAUREEN B MRS",
           "party": "REP",
           "receipts": null,
           "cash_on_hand": null
@@ -460,20 +376,8 @@
       },
       "fundraising": [
         {
-          "name": "AMASH, JUSTIN",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "BENHAM, KENT",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "BEYDOUN, NASSER",
-          "party": "DEM",
           "receipts": null,
           "cash_on_hand": null
         },
@@ -496,25 +400,7 @@
           "cash_on_hand": null
         },
         {
-          "name": "FRIZZELL, JAMES KIETH MR SR",
-          "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "HARPER, FRANK EUGENE HILL",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "HEURTEBISE, FREDERICK",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "HOOVER, MICHAEL",
           "party": "REP",
           "receipts": null,
           "cash_on_hand": null
@@ -522,12 +408,6 @@
         {
           "name": "HOWARD, RACHEL ELIZABETH",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "JAMES, JOHN",
-          "party": "REP",
           "receipts": null,
           "cash_on_hand": null
         },
@@ -564,18 +444,6 @@
         {
           "name": "MCMORROW, MALLORY",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "MEIJER, PETER MR.",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "O'DONNELL, SHERRELL ANNE",
-          "party": "REP",
           "receipts": null,
           "cash_on_hand": null
         }
@@ -677,12 +545,6 @@
           "cash_on_hand": null
         },
         {
-          "name": "ALCALA, NATASHA",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "ALCORN, ETHAN WELD MR",
           "party": "UN",
           "receipts": null,
@@ -713,12 +575,6 @@
           "cash_on_hand": null
         },
         {
-          "name": "CHERRY, JASON SETH",
-          "party": "IND",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "COLLINS, SUSAN M.",
           "party": "REP",
           "receipts": null,
@@ -743,20 +599,8 @@
           "cash_on_hand": null
         },
         {
-          "name": "GIDEON, SARA",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "JACKSON, TROY DALE",
           "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "KING, ANGUS S. JR.",
-          "party": "IND",
           "receipts": null,
           "cash_on_hand": null
         },
@@ -881,7 +725,74 @@
         ],
         "url": "https://polymarket.com/event/nebraska-senate-election-winner"
       },
-      "fundraising": []
+      "fundraising": [
+        {
+          "name": "AXTELL SCHULTZ, DEBRA LEANNE MS",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "BURBANK, CINDY",
+          "party": "DE",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "CARLSON, OWEN NICHOLAS",
+          "party": "VET",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "DUNN, EDWARD MR.",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "FORBES, WILLIAM",
+          "party": "DEM",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "MARVIN, MIKE",
+          "party": "OTH",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "OSBORN, DAN",
+          "party": "IND",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "RICKETTS, PETE",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "SASSE, BENJAMIN E.",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "SOLOMON, GAVIN",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        },
+        {
+          "name": "STEVENS, MAC",
+          "party": "REP",
+          "receipts": null,
+          "cash_on_hand": null
+        }
+      ]
     },
     {
       "id": "sen-ia-2026",
@@ -985,19 +896,7 @@
           "cash_on_hand": null
         },
         {
-          "name": "CAPPARELL, CHRIS MR.",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "CARLIN, JAMES",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "CARLIN, JAMES M.",
           "party": "REP",
           "receipts": null,
           "cash_on_hand": null
@@ -1009,37 +908,7 @@
           "cash_on_hand": null
         },
         {
-          "name": "FINKENAUER, ABBY",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "FRANKEN, MICHAEL T",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "GRASSLEY, CHARLES E",
-          "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "GREENFIELD, THERESA",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
           "name": "HENRY, CHRIS",
-          "party": "DEM",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "KRAUSE, ROBERT ALLEN",
           "party": "DEM",
           "receipts": null,
           "cash_on_hand": null
@@ -1071,18 +940,6 @@
         {
           "name": "SMITH, JOSHUA DANIEL",
           "party": "REP",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "SMITH, JOSHUA DANIEL",
-          "party": "LIB",
-          "receipts": null,
-          "cash_on_hand": null
-        },
-        {
-          "name": "STEWART, RICK",
-          "party": "LIB",
           "receipts": null,
           "cash_on_hand": null
         },
@@ -1140,7 +997,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 81.0
+            "probability_pct": 83.0
           },
           {
             "outcome": "David Valadao",
