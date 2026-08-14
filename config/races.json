@@ -84,7 +84,7 @@
       "label": "CA-07 — U.S. House",
       "votehub_subject": "2026 CA-07",
       "votehub_poll_type": "us-representative",
-      "keywords": ["California", "7th", "District 7", "House", "CA-07"]
+      "keywords": ["California", "7th", "District 7", "House", "CA-07"],
       "exclude_market_outcomes": ["Republican Party"]
     },
     {
