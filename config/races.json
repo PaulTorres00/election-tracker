@@ -51,18 +51,6 @@
       "exclude_choices": ["Platner", "Mills"]
     },
     {
-      "id": "hse-mi-13-2026",
-      "chamber": "house",
-      "office_code": "H",
-      "state": "Michigan",
-      "state_abbr": "MI",
-      "district": "13",
-      "label": "MI-13 — U.S. House",
-      "votehub_subject": "2026 MI-13",
-      "votehub_poll_type": "us-representative",
-      "keywords": ["Michigan", "13th", "District 13", "House", "MI-13"]
-    },
-    {
       "id": "sen-ne-2026",
       "chamber": "senate",
       "office_code": "S",
@@ -97,6 +85,7 @@
       "votehub_subject": "2026 CA-07",
       "votehub_poll_type": "us-representative",
       "keywords": ["California", "7th", "District 7", "House", "CA-07"]
+      "exclude_market_outcomes": ["Republican Party"]
     },
     {
       "id": "hse-ca-22-2026",
