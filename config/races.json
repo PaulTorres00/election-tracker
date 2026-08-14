@@ -92,6 +92,7 @@
       "votehub_poll_type": "us-representative",
       "keywords": ["California", "7th", "District 7", "House", "CA-07"],
       "exclude_market_outcomes": ["Republican Party"],
+      "disable_polymarket": true
       "kalshi_url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
     },
     {
