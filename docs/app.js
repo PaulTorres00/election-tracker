@@ -164,7 +164,7 @@ function renderCard(race, history) {
       ${fundraisingRows ? `<div class="fundraising-list">${fundraisingRows}</div>` : ""}
 
       <div class="card-footer">
-        <span>Updated ${formatUpdatedAt(race.polling.most_recent_poll_date)}</span>
+        <span>Most recent poll: ${formatUpdatedAt(race.polling.most_recent_poll_date)}</span>
       </div>
     </article>
   `;
