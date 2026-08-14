@@ -1,21 +1,29 @@
 """
-FEC OpenFEC API (https://api.open.fec.gov). Official, free, no signup
-required for light use — DEMO_KEY gets 1,000 requests/hour. For heavier use,
-get your own free key at https://api.data.gov/signup/ and set FEC_API_KEY
-as an environment variable (the GitHub Actions workflow already passes it
-through if you add it as a repo secret).
+FEC OpenFEC API (https://api.open.fec.gov). Official, free.
+
+IMPORTANT (confirmed live): the `cycle` parameter on /candidates/ does NOT
+restrict results to candidates who ran in that specific cycle -- it returns
+every candidate who has EVER run for that office/state, going back decades
+(e.g. an Ohio Senate query returned 20 candidates spanning the 1990s through
+today). Each candidate object's own `election_years` list is what actually
+says which specific cycles they were on the ballot for, so we filter on
+that client-side instead of trusting the query parameter alone.
+
+This matters a lot for rate limits too: DEMO_KEY's real limit is 40 calls/
+hour (confirmed from FEC's own error message -- not 1,000/hour as commonly
+quoted elsewhere). Without the election_years filter, a single race could
+trigger a totals lookup for 20 irrelevant historical candidates instead of
+the 2-4 who are actually running this cycle, burning through that limit
+almost immediately. Filtering first cuts total API calls dramatically.
+
+For heavier use, get your own free key at https://api.data.gov/signup/ and
+set FEC_API_KEY as an environment variable (the GitHub Actions workflow
+already passes it through if you add it as a repo secret) -- it's a wider
+safety margin on top of the election_years fix, not a substitute for it.
 
 We look candidates up by office/state/district/cycle rather than by name,
-so races.json never needs a hardcoded candidate list — it just works for
+so races.json never needs a hardcoded candidate list -- it just works for
 whoever is actually running, including after primaries.
-
-NOTE: DEMO_KEY is a single key shared by EVERYONE who uses the OpenFEC API
-without registering their own -- since it's shared globally across all
-unregistered users, not just this project, its 1,000/hour limit can get
-used up by other people entirely, independent of how often we run. If
-fundraising keeps coming back empty, getting a free personal key (link
-above) and adding it as the FEC_API_KEY repo secret removes that shared-
-limit risk entirely.
 """
 import os
 import requests
@@ -42,18 +50,29 @@ def get_candidates(office_code, state_abbr, district=None, cycle=2026):
         params["district"] = district
     resp = requests.get(f"{BASE_URL}/candidates/", params=params, timeout=TIMEOUT)
     if resp.status_code != 200:
-        # Previously silently returned [] here with zero visibility into
-        # why -- logging the actual status/response so a bad key, rate
-        # limit, or bad parameter shows up in the Actions log instead of
-        # just quietly producing empty fundraising data every time.
         log(f"WARNING: candidates lookup failed ({office_code}/{state_abbr}/{district}, "
             f"cycle={cycle}): HTTP {resp.status_code} -- {resp.text[:300]}")
         return []
+
     results = resp.json().get("results", [])
     if not results:
         log(f"No candidates found for {office_code}/{state_abbr}/{district}, cycle={cycle} "
             f"(request succeeded, but FEC has no matching registered candidates)")
-    return results
+        return []
+
+    # See module docstring -- `cycle` alone doesn't filter to this specific
+    # cycle, so narrow client-side using each candidate's own election_years.
+    active = [c for c in results if cycle in (c.get("election_years") or [])]
+    if not active:
+        log(f"WARNING: {len(results)} candidates found for {office_code}/{state_abbr}/"
+            f"{district}, but none list {cycle} in election_years -- using all "
+            f"{len(results)} unfiltered rather than returning nothing (double check "
+            f"the election_years field is what's expected).")
+        return results
+
+    log(f"{office_code}/{state_abbr}/{district}: {len(results)} total candidates found, "
+        f"narrowed to {len(active)} actually on the {cycle} ballot")
+    return active
 
 
 def get_totals(candidate_id, cycle=2026):
