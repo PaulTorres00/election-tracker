@@ -70,22 +70,31 @@ def _yes_price_pct(market):
     return None
 
 
-def event_to_odds(event):
+def event_to_odds(event, exclude_outcomes=None):
     """Convert a matched event's markets into a per-candidate odds list.
     For a grouped election event, each market is one candidate's binary
     yes/no contract -- groupItemTitle names that candidate, and the price
     of the 'Yes' outcome is the market-implied probability they win. Falls
     back to the market's own question text if groupItemTitle isn't set
-    (e.g. a simple non-grouped two-outcome market)."""
+    (e.g. a simple non-grouped two-outcome market).
+
+    exclude_outcomes: optional list of outcome labels to drop -- see the
+    same parameter on kalshi.event_to_odds for why (top-two-primary states
+    where an old opposite-party contract may still be sitting in the event
+    even though it's no longer a possible outcome)."""
     if not event:
         return None
     markets = event.get("markets") or []
     if not markets:
         return None
 
+    exclude_set = {o.strip().lower() for o in (exclude_outcomes or [])}
+
     candidates = []
     for market in markets:
         label = market.get("groupItemTitle") or market.get("question") or "Unknown"
+        if label.strip().lower() in exclude_set:
+            continue
         candidates.append({"outcome": label, "probability_pct": _yes_price_pct(market)})
 
     candidates.sort(key=lambda c: (c["probability_pct"] is None, -(c["probability_pct"] or 0)))
