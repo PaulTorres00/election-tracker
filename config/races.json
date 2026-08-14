@@ -1,5 +1,5 @@
 {
-  "_readme": "Each entry is one race. Add/remove entries freely — nothing else in the codebase needs to change. 'votehub_subject' must match a subject from https://api.votehub.com/subjects exactly (spaces or dashes both work). 'keywords' is used to find the matching Kalshi/Polymarket market by title, since those platforms don't use a shared race-ID scheme. Candidate names are deliberately NOT hardcoded here — they're pulled live from FEC/VoteHub/market data, since candidates can change (primaries, withdrawals, etc.) and this way the config never goes stale.",
+  "_readme": "Each entry is one race. Add/remove entries freely — nothing else in the codebase needs to change. 'votehub_subject' must match a subject from https://api.votehub.com/subjects exactly (spaces or dashes both work). 'keywords' is used to find the matching Kalshi/Polymarket market by title, since those platforms don't use a shared race-ID scheme. 'kalshi_url' is an optional verified link that overrides the generic fallback -- Kalshi's per-market URL structure can't be reliably derived from the API alone, so a manually-confirmed link is more trustworthy than a guessed pattern. Candidate names are deliberately NOT hardcoded here — they're pulled live from FEC/VoteHub/market data, since candidates can change (primaries, withdrawals, etc.) and this way the config never goes stale.",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -11,7 +11,8 @@
       "label": "Ohio — U.S. Senate",
       "votehub_subject": "2026 Ohio",
       "votehub_poll_type": "us-senator",
-      "keywords": ["Ohio", "Senate", "Sherrod Brown", "Jon Husted", "OH Senate"]
+      "keywords": ["Ohio", "Senate", "Sherrod Brown", "Jon Husted", "OH Senate"],
+      "kalshi_url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
     },
     {
       "id": "hse-ny-17-2026",
@@ -23,7 +24,8 @@
       "label": "NY-17 — U.S. House",
       "votehub_subject": "2026 NY-17",
       "votehub_poll_type": "us-representative",
-      "keywords": ["New York", "17th District", "17th", "House", "NY-17"]
+      "keywords": ["New York", "17th District", "17th", "House", "NY-17"],
+      "kalshi_url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
     },
     {
       "id": "sen-mi-2026",
@@ -35,7 +37,8 @@
       "label": "Michigan — U.S. Senate",
       "votehub_subject": "2026 Michigan",
       "votehub_poll_type": "us-senator",
-      "keywords": ["Michigan", "Senate", "Abdul El-Sayed", "MI Senate"]
+      "keywords": ["Michigan", "Senate", "Abdul El-Sayed", "MI Senate"],
+      "kalshi_url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
     },
     {
       "id": "sen-me-2026",
@@ -48,7 +51,8 @@
       "votehub_subject": "2026 Maine",
       "votehub_poll_type": "us-senator",
       "keywords": ["Maine", "Senate", "ME Senate"],
-      "exclude_choices": ["Platner", "Mills"]
+      "exclude_choices": ["Platner", "Mills"],
+      "kalshi_url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
     },
     {
       "id": "sen-ne-2026",
@@ -60,7 +64,8 @@
       "label": "Nebraska — U.S. Senate",
       "votehub_subject": "2026 Nebraska",
       "votehub_poll_type": "us-senator",
-      "keywords": ["Nebraska", "Senate", "NE Senate"]
+      "keywords": ["Nebraska", "Senate", "NE Senate"],
+      "kalshi_url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
     },
     {
       "id": "sen-ia-2026",
@@ -72,7 +77,8 @@
       "label": "Iowa — U.S. Senate",
       "votehub_subject": "2026 Iowa",
       "votehub_poll_type": "us-senator",
-      "keywords": ["Iowa", "Senate", "IA Senate"]
+      "keywords": ["Iowa", "Senate", "IA Senate"],
+      "kalshi_url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
     },
     {
       "id": "hse-ca-07-2026",
@@ -98,7 +104,8 @@
       "label": "CA-22 — U.S. House",
       "votehub_subject": "2026 CA-22",
       "votehub_poll_type": "us-representative",
-      "keywords": ["California", "22nd", "District 22", "House", "CA-22"]
+      "keywords": ["California", "22nd", "District 22", "House", "CA-22"],
+      "kalshi_url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
     }
   ]
 }
