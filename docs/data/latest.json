@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:00:44.312166+00:00",
+  "generated_at": "2026-08-15T03:02:50.879280+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 54.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 45.0
+            "probability_pct": 47.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 59.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Lawler",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 66.5
+            "probability_pct": 67.0
           },
           {
             "outcome": "Republican Party",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 44.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 44.5
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -265,11 +265,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 66.0
+            "probability_pct": 65.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 34.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 28.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Democrat",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 47.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -558,11 +558,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 81.0
+            "probability_pct": 80.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 16.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
