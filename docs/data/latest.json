@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:21:01.644656+00:00",
+  "generated_at": "2026-08-16T13:43:43.822885+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,7 +25,7 @@
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 48.0
+            "probability_pct": 49.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 51.0
+            "probability_pct": 52.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 35.0
+            "probability_pct": 34.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 55.0
+            "probability_pct": 56.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 44.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 55.0
+            "probability_pct": 55.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 29.0
+            "probability_pct": 29.5
           },
           {
             "outcome": "Democrat",
