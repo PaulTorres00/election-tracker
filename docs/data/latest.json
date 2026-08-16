@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:43:43.822885+00:00",
+  "generated_at": "2026-08-16T19:00:28.957469+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 47.0
+            "probability_pct": 47.5
           },
           {
             "outcome": "Person A",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 64.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 34.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 55.5
+            "probability_pct": 55.0
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 45.5
+            "probability_pct": 44.5
           },
           {
             "outcome": "Person A",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 29.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Democrat",
@@ -463,7 +463,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 43.5
+            "probability_pct": 43.0
           },
           {
             "outcome": "Person A",
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 80.0
+            "probability_pct": 84.0
           },
           {
             "outcome": "David Valadao",
