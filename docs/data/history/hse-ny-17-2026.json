@@ -168,5 +168,10 @@
     "timestamp": "2026-08-16T19:00:28.957469+00:00",
     "polling_averages": {},
     "kalshi_leading_pct": 63.0
+  },
+  {
+    "timestamp": "2026-08-17T03:16:08.045395+00:00",
+    "polling_averages": {},
+    "kalshi_leading_pct": 64.0
   }
 ]
