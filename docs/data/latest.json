@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:06:05.041403+00:00",
+  "generated_at": "2026-08-18T19:18:28.914657+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 46.5
+            "probability_pct": 47.5
           },
           {
             "outcome": "Person A",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 33.0
+            "probability_pct": 32.5
           },
           {
             "outcome": "Other",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 28.5
+            "probability_pct": 27.5
           },
           {
             "outcome": "Democrat",
