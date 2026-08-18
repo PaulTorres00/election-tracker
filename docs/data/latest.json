@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:17:47.242191+00:00",
+  "generated_at": "2026-08-18T03:10:41.626170+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 52.0
+            "probability_pct": 51.0
           },
           {
             "outcome": "Jon Husted",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.0
+            "probability_pct": 66.0
           },
           {
             "outcome": "Republican Party",
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 58.5
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 41.5
+            "probability_pct": 40.5
           },
           {
             "outcome": "Person A",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 55.0
+            "probability_pct": 56.0
           },
           {
             "outcome": "Josh Turek",
