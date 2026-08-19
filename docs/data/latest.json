@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:05:46.113899+00:00",
+  "generated_at": "2026-08-19T19:12:32.512870+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 57.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 31.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 33.0
+            "probability_pct": 33.5
           },
           {
             "outcome": "Other",
@@ -164,11 +164,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 44.4,
-          "Mike Rogers": 44.6
+          "Abdul El-Sayed": 44.6,
+          "Mike Rogers": 44.4
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-08-10",
+        "most_recent_poll_date": "2026-08-17",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 56.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 44.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 61.5
+            "probability_pct": 60.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 39.5
+            "probability_pct": 39.0
           },
           {
             "outcome": "Person A",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 44.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 84.0
+            "probability_pct": 85.0
           },
           {
             "outcome": "David Valadao",
