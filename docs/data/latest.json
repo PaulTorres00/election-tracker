@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:58:02.097783+00:00",
+  "generated_at": "2026-08-19T14:05:46.113899+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 37.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 59.5
+            "probability_pct": 61.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -355,7 +355,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 29.0
+            "probability_pct": 28.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 27.5
+            "probability_pct": 28.5
           },
           {
             "outcome": "Democrat",
@@ -448,7 +448,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 42.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -459,11 +459,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 59.5
+            "probability_pct": 60.0
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 40.5
+            "probability_pct": 40.0
           },
           {
             "outcome": "Person A",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 6.0
+            "probability_pct": 44.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -573,7 +573,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 83.5
+            "probability_pct": 83.0
           },
           {
             "outcome": "Republican Party",
