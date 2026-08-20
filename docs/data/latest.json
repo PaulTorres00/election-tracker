@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:12:32.512870+00:00",
+  "generated_at": "2026-08-20T03:13:07.717262+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 52.5
+            "probability_pct": 53.0
           },
           {
             "outcome": "Jon Husted (R)",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 62.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 32.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 58.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 41.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 60.5
+            "probability_pct": 61.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 39.0
+            "probability_pct": 37.0
           },
           {
             "outcome": "Person A",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 58.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Josh Turek",
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 85.0
+            "probability_pct": 83.0
           },
           {
             "outcome": "David Valadao",
