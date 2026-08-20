@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:13:07.717262+00:00",
+  "generated_at": "2026-08-20T08:03:32.293748+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 33.0
+            "probability_pct": 30.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 33.5
+            "probability_pct": 33.0
           },
           {
             "outcome": "Other",
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 37.0
+            "probability_pct": 37.5
           },
           {
             "outcome": "Person A",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 59.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Josh Turek",
@@ -459,7 +459,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 60.0
+            "probability_pct": 60.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 45.0
+            "probability_pct": 20.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
