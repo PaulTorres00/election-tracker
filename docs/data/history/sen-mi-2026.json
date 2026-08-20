@@ -393,5 +393,13 @@
       "Mike Rogers": 44.4
     },
     "kalshi_leading_pct": 63.0
+  },
+  {
+    "timestamp": "2026-08-20T19:44:05.605323+00:00",
+    "polling_averages": {
+      "Abdul El-Sayed": 44.9,
+      "Mike Rogers": 44.9
+    },
+    "kalshi_leading_pct": 61.0
   }
 ]

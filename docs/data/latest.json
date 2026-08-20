@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:09:15.003792+00:00",
+  "generated_at": "2026-08-20T19:44:05.605323+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 61.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
@@ -164,8 +164,8 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 44.6,
-          "Mike Rogers": 44.4
+          "Abdul El-Sayed": 44.9,
+          "Mike Rogers": 44.9
         },
         "polls_used": 10,
         "most_recent_poll_date": "2026-08-17",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 63.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Rogers",
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 36.5
+            "probability_pct": 36.0
           },
           {
             "outcome": "Person A",
@@ -355,7 +355,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 28.0
+            "probability_pct": 29.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 58.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Josh Turek",
