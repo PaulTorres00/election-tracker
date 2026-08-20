@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:03:32.293748+00:00",
+  "generated_at": "2026-08-20T14:09:15.003792+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 53.0
+            "probability_pct": 53.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 59.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 33.0
+            "probability_pct": 33.5
           },
           {
             "outcome": "Other",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 61.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Rogers",
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 61.5
+            "probability_pct": 64.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 37.5
+            "probability_pct": 36.5
           },
           {
             "outcome": "Person A",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 20.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
