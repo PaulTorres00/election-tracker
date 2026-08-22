@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:16:29.823282+00:00",
+  "generated_at": "2026-08-22T03:08:22.317328+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 30.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.0
+            "probability_pct": 67.5
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 33.0
+            "probability_pct": 32.0
           },
           {
             "outcome": "Other",
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 63.5
+            "probability_pct": 64.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 28.0
+            "probability_pct": 28.5
           },
           {
             "outcome": "Democrat",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 58.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Josh Turek",
@@ -529,12 +529,12 @@
         "event_title": "CA-07 House winner?",
         "outcomes": [
           {
-            "outcome": "Mai Vang",
-            "probability_pct": 48.0
+            "outcome": "Doris Matsui",
+            "probability_pct": 51.0
           },
           {
-            "outcome": "Doris Matsui",
-            "probability_pct": 46.0
+            "outcome": "Mai Vang",
+            "probability_pct": 44.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -573,11 +573,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 83.0
+            "probability_pct": 83.5
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 15.0
+            "probability_pct": 15.5
           },
           {
             "outcome": "Other",
