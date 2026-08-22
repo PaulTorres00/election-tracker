@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:45:40.252268+00:00",
+  "generated_at": "2026-08-22T13:43:28.348918+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 64.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 32.5
+            "probability_pct": 33.0
           },
           {
             "outcome": "Other",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 61.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Rogers",
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 64.5
+            "probability_pct": 63.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -265,7 +265,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 66.0
+            "probability_pct": 68.0
           },
           {
             "outcome": "Susan Collins",
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 31.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Person A",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 28.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Democrat",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 59.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Josh Turek",
@@ -577,7 +577,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 15.5
+            "probability_pct": 14.5
           },
           {
             "outcome": "Other",
