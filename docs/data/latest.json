@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:08:22.317328+00:00",
+  "generated_at": "2026-08-22T07:45:40.252268+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 32.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.5
+            "probability_pct": 67.0
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 32.0
+            "probability_pct": 32.5
           },
           {
             "outcome": "Other",
@@ -265,11 +265,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 65.0
+            "probability_pct": 66.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 34.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.5
+            "probability_pct": 31.5
           },
           {
             "outcome": "Person A",
