@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:47:53.408664+00:00",
+  "generated_at": "2026-08-23T13:45:16.467716+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 66.0
+            "probability_pct": 66.5
           },
           {
             "outcome": "Republican Party",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Mike Rogers",
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 36.5
+            "probability_pct": 37.5
           },
           {
             "outcome": "Person A",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 31.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 52.0
+            "probability_pct": 50.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 45.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -573,7 +573,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 83.5
+            "probability_pct": 86.5
           },
           {
             "outcome": "Republican Party",
