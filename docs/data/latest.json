@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:30:46.037567+00:00",
+  "generated_at": "2026-08-23T07:47:53.408664+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 62.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 61.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 38.0
+            "probability_pct": 39.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 63.0
+            "probability_pct": 62.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 32.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -577,7 +577,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 14.5
+            "probability_pct": 14.0
           },
           {
             "outcome": "Other",
