@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:26:31.959557+00:00",
+  "generated_at": "2026-08-24T14:25:55.964780+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 47.5
+            "probability_pct": 46.5
           },
           {
             "outcome": "Person A",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 66.5
+            "probability_pct": 66.0
           },
           {
             "outcome": "Republican Party",
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 61.5
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 38.5
+            "probability_pct": 39.0
           },
           {
             "outcome": "Person A",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 31.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.0
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 49.0
+            "probability_pct": 50.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 45.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 10.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
