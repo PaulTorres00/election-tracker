@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:19:24.416405+00:00",
+  "generated_at": "2026-08-25T03:15:43.109052+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 63.0
+            "probability_pct": 66.0
           },
           {
             "outcome": "Mike Lawler",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 40.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 61.5
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 31.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.0
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -370,11 +370,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 70.5
+            "probability_pct": 69.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 29.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Democrat",
@@ -448,7 +448,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 44.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
