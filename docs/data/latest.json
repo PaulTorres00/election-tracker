@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:28:07.743933+00:00",
+  "generated_at": "2026-08-25T19:20:00.594273+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 52.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 47.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 66.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 32.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 34.5
+            "probability_pct": 35.0
           },
           {
             "outcome": "Other",
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 29.5
+            "probability_pct": 30.0
           },
           {
             "outcome": "Person A",
@@ -378,7 +378,7 @@
           },
           {
             "outcome": "Democrat",
-            "probability_pct": 0.1
+            "probability_pct": 0.2
           },
           {
             "outcome": "Person B",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 57.0
+            "probability_pct": 56.0
           },
           {
             "outcome": "Josh Turek",
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 85.0
+            "probability_pct": 84.0
           },
           {
             "outcome": "David Valadao",
