@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:07:37.929536+00:00",
+  "generated_at": "2026-08-25T14:28:07.743933+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 51.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 48.0
+            "probability_pct": 47.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 34.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 59.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 41.0
+            "probability_pct": 39.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 39.0
+            "probability_pct": 38.5
           },
           {
             "outcome": "Person A",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 31.0
+            "probability_pct": 30.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.0
+            "probability_pct": 29.5
           },
           {
             "outcome": "Person A",
@@ -351,7 +351,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 70.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Dan Osborn",
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 49.0
+            "probability_pct": 50.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 45.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -558,11 +558,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 84.0
+            "probability_pct": 85.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 10.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
