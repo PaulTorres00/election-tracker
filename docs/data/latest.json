@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:34:50.107819+00:00",
+  "generated_at": "2026-08-26T08:09:10.468423+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 54.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 46.0
+            "probability_pct": 44.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 56.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Josh Turek",
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 50.0
+            "probability_pct": 49.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 46.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
