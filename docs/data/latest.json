@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:37:57.345204+00:00",
+  "generated_at": "2026-08-28T21:56:22.624950+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 53.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Jon Husted",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 68.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Mike Lawler",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 68.0
+            "probability_pct": 68.5
           },
           {
             "outcome": "Republican Party",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 34.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.5
+            "probability_pct": 31.5
           },
           {
             "outcome": "Person A",
@@ -355,7 +355,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 30.0
+            "probability_pct": 29.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -463,7 +463,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 39.5
+            "probability_pct": 40.5
           },
           {
             "outcome": "Person A",
@@ -530,7 +530,7 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 50.0
+            "probability_pct": 48.0
           },
           {
             "outcome": "Mai Vang",
