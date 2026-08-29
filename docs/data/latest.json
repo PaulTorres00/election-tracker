@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:56:22.624950+00:00",
+  "generated_at": "2026-08-29T00:03:15.265182+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 45.0
+            "probability_pct": 45.5
           },
           {
             "outcome": "Person A",
@@ -265,11 +265,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 66.0
+            "probability_pct": 68.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 33.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -577,7 +577,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 13.0
+            "probability_pct": 14.0
           },
           {
             "outcome": "Other",
