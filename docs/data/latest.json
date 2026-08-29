@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:03:42.768319+00:00",
+  "generated_at": "2026-08-29T18:03:13.898761+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 54.0
+            "probability_pct": 53.0
           },
           {
             "outcome": "Jon Husted",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 32.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Other",
@@ -573,7 +573,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 87.0
+            "probability_pct": 86.5
           },
           {
             "outcome": "Republican Party",
