@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T06:03:32.956771+00:00",
+  "generated_at": "2026-08-29T12:03:42.768319+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 55.5
+            "probability_pct": 54.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 30.0
+            "probability_pct": 28.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 67.5
+            "probability_pct": 68.5
           },
           {
             "outcome": "Republican Party",
@@ -265,11 +265,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 68.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 31.0
+            "probability_pct": 30.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 50.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 45.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
