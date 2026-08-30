@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:04:01.685033+00:00",
+  "generated_at": "2026-08-30T06:03:37.115993+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,7 +25,7 @@
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 45.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 72.0
+            "probability_pct": 70.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 28.0
+            "probability_pct": 29.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 68.5
+            "probability_pct": 68.0
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 31.0
+            "probability_pct": 29.5
           },
           {
             "outcome": "Other",
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 31.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Person A",
@@ -355,7 +355,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 29.0
+            "probability_pct": 30.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 14.0
+            "probability_pct": 13.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -573,7 +573,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 86.5
+            "probability_pct": 86.0
           },
           {
             "outcome": "Republican Party",
