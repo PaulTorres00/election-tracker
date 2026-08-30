@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:03:44.844366+00:00",
+  "generated_at": "2026-08-30T18:03:21.421336+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,7 +25,7 @@
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 46.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 70.0
+            "probability_pct": 71.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 29.0
+            "probability_pct": 27.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 29.5
+            "probability_pct": 29.0
           },
           {
             "outcome": "Other",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 35.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -355,7 +355,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -370,7 +370,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 70.5
+            "probability_pct": 70.0
           },
           {
             "outcome": "Independent",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 59.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Josh Turek",
@@ -529,12 +529,12 @@
         "event_title": "CA-07 House winner?",
         "outcomes": [
           {
-            "outcome": "Mai Vang",
-            "probability_pct": 48.0
+            "outcome": "Doris Matsui",
+            "probability_pct": 52.0
           },
           {
-            "outcome": "Doris Matsui",
-            "probability_pct": 7.0
+            "outcome": "Mai Vang",
+            "probability_pct": 49.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 13.0
+            "probability_pct": 14.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
