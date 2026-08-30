@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T06:03:37.115993+00:00",
+  "generated_at": "2026-08-30T12:03:44.844366+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 68.0
+            "probability_pct": 68.5
           },
           {
             "outcome": "Republican Party",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 36.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 58.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Josh Turek",
@@ -529,12 +529,12 @@
         "event_title": "CA-07 House winner?",
         "outcomes": [
           {
-            "outcome": "Doris Matsui",
-            "probability_pct": 52.0
+            "outcome": "Mai Vang",
+            "probability_pct": 48.0
           },
           {
-            "outcome": "Mai Vang",
-            "probability_pct": 47.0
+            "outcome": "Doris Matsui",
+            "probability_pct": 7.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -577,7 +577,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 14.0
+            "probability_pct": 15.0
           },
           {
             "outcome": "Other",
