@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T02:44:49.573306+00:00",
+  "generated_at": "2026-08-31T12:20:08.892962+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 68.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Mike Lawler",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 29.0
+            "probability_pct": 29.5
           },
           {
             "outcome": "Other",
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 52.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 49.0
+            "probability_pct": 47.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -577,7 +577,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 14.0
+            "probability_pct": 15.0
           },
           {
             "outcome": "Other",
