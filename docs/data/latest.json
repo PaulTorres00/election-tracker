@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:20:08.892962+00:00",
+  "generated_at": "2026-08-31T22:14:55.616130+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 29.5
+            "probability_pct": 30.0
           },
           {
             "outcome": "Other",
@@ -269,7 +269,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -355,7 +355,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 31.0
+            "probability_pct": 30.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -370,7 +370,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 70.5
+            "probability_pct": 70.0
           },
           {
             "outcome": "Independent",
@@ -444,11 +444,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 58.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 41.0
+            "probability_pct": 40.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -459,7 +459,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 61.0
+            "probability_pct": 60.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 47.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 84.0
+            "probability_pct": 85.0
           },
           {
             "outcome": "David Valadao",
