@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:14:55.616130+00:00",
+  "generated_at": "2026-09-01T02:56:04.037441+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 30.0
+            "probability_pct": 30.5
           },
           {
             "outcome": "Other",
@@ -448,7 +448,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 40.0
+            "probability_pct": 39.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -577,7 +577,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 15.0
+            "probability_pct": 14.5
           },
           {
             "outcome": "Other",
