@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:44:28.960647+00:00",
+  "generated_at": "2026-09-02T20:21:38.781173+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 35.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 65.0
+            "probability_pct": 65.5
           },
           {
             "outcome": "Mike Rogers (R)",
