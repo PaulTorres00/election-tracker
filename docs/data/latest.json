@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:34:49.577862+00:00",
+  "generated_at": "2026-09-03T20:21:24.267892+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,7 +25,7 @@
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 47.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 44.5
+            "probability_pct": 44.0
           },
           {
             "outcome": "Person A",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 34.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 68.0
+            "probability_pct": 68.5
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 30.0
+            "probability_pct": 31.5
           },
           {
             "outcome": "Other",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 29.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Democrat",
@@ -432,11 +432,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Ashley Hinson": 46.7,
+          "Ashley Hinson": 47.2,
           "Josh Turek": 45.2
         },
-        "polls_used": 5,
-        "most_recent_poll_date": "2026-08-23",
+        "polls_used": 6,
+        "most_recent_poll_date": "2026-09-01",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 12.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -573,11 +573,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 85.5
+            "probability_pct": 86.0
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 14.5
+            "probability_pct": 15.0
           },
           {
             "outcome": "Other",
