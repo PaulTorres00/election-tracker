@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:32:58.800483+00:00",
+  "generated_at": "2026-09-04T20:07:07.812634+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 44.5
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -444,11 +444,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 36.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
