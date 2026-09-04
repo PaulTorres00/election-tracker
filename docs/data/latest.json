@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:18:38.359543+00:00",
+  "generated_at": "2026-09-04T10:17:35.898988+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 35.5
+            "probability_pct": 35.0
           },
           {
             "outcome": "Person A",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 31.0
+            "probability_pct": 30.5
           },
           {
             "outcome": "Democrat",
@@ -448,7 +448,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 37.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Mai Vang",
-            "probability_pct": 52.0
+            "probability_pct": 51.0
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 44.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 87.0
+            "probability_pct": 86.0
           },
           {
             "outcome": "David Valadao",
