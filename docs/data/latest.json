@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:17:35.898988+00:00",
+  "generated_at": "2026-09-04T15:32:58.800483+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 31.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Other",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 63.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Mike Rogers",
@@ -351,7 +351,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 69.0
+            "probability_pct": 70.0
           },
           {
             "outcome": "Dan Osborn",
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 10.0
+            "probability_pct": 12.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -573,7 +573,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 86.0
+            "probability_pct": 85.5
           },
           {
             "outcome": "Republican Party",
