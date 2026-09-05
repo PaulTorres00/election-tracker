@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:07:07.812634+00:00",
+  "generated_at": "2026-09-05T02:19:32.646185+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 36.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 35.0
+            "probability_pct": 35.5
           },
           {
             "outcome": "Person A",
@@ -459,7 +459,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 63.5
+            "probability_pct": 64.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 12.0
+            "probability_pct": 13.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
