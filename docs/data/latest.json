@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:45:56.187214+00:00",
+  "generated_at": "2026-09-05T14:20:26.739298+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 37.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 35.5
+            "probability_pct": 33.5
           },
           {
             "outcome": "Person A",
