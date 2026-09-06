@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:46:15.506513+00:00",
+  "generated_at": "2026-09-06T02:15:22.640865+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 31.0
+            "probability_pct": 30.5
           },
           {
             "outcome": "Other",
@@ -359,7 +359,7 @@
           },
           {
             "outcome": "Cindy Burbank",
-            "probability_pct": 0.1
+            "probability_pct": 0.2
           }
         ],
         "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
@@ -370,7 +370,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 69.5
+            "probability_pct": 70.0
           },
           {
             "outcome": "Independent",
@@ -573,7 +573,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 86.0
+            "probability_pct": 85.5
           },
           {
             "outcome": "Republican Party",
