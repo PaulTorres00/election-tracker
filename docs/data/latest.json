@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T02:15:22.640865+00:00",
+  "generated_at": "2026-09-06T10:01:46.370629+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 68.0
+            "probability_pct": 67.0
           },
           {
             "outcome": "Mike Lawler",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 63.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Mike Rogers",
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 65.5
+            "probability_pct": 64.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Mai Vang",
-            "probability_pct": 52.0
+            "probability_pct": 51.0
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 44.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 12.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -573,11 +573,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 85.5
+            "probability_pct": 87.5
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 14.0
+            "probability_pct": 13.5
           },
           {
             "outcome": "Other",
