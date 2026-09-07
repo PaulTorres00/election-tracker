@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:58:44.093128+00:00",
+  "generated_at": "2026-09-07T20:57:38.531357+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 64.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 36.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -121,12 +121,12 @@
         "slug": "ny-17-house-election-winner",
         "outcomes": [
           {
-            "outcome": "Democratic Party",
-            "probability_pct": 67.5
+            "outcome": "Republican Party",
+            "probability_pct": 55.5
           },
           {
-            "outcome": "Republican Party",
-            "probability_pct": 33.5
+            "outcome": "Democratic Party",
+            "probability_pct": 33.0
           },
           {
             "outcome": "Other",
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.0
+            "probability_pct": 29.5
           },
           {
             "outcome": "Person A",
@@ -459,7 +459,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 65.0
+            "probability_pct": 65.5
           },
           {
             "outcome": "Josh Turek (D)",
