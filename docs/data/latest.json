@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:13:35.477921+00:00",
+  "generated_at": "2026-09-07T16:58:44.093128+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 55.5
+            "probability_pct": 56.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 66.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 35.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -280,11 +280,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 69.5
+            "probability_pct": 70.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.5
+            "probability_pct": 30.0
           },
           {
             "outcome": "Person A",
@@ -459,11 +459,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 64.5
+            "probability_pct": 65.0
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 35.5
+            "probability_pct": 35.0
           },
           {
             "outcome": "Person A",
