@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:12:26.525474+00:00",
+  "generated_at": "2026-09-07T11:13:35.477921+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -370,11 +370,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 69.5
+            "probability_pct": 68.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 30.5
+            "probability_pct": 31.5
           },
           {
             "outcome": "Democrat",
@@ -534,7 +534,7 @@
           },
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 45.0
+            "probability_pct": 46.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 12.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
