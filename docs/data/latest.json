@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:46:17.474631+00:00",
+  "generated_at": "2026-09-08T20:32:57.126845+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 61.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 32.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 58.5
+            "probability_pct": 65.5
           },
           {
             "outcome": "Republican Party",
-            "probability_pct": 32.0
+            "probability_pct": 32.5
           },
           {
             "outcome": "Other",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Rogers",
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 29.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -351,7 +351,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 71.0
+            "probability_pct": 72.0
           },
           {
             "outcome": "Dan Osborn",
@@ -459,7 +459,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 65.5
+            "probability_pct": 66.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 11.0
+            "probability_pct": 13.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
