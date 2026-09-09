@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:32:57.126845+00:00",
+  "generated_at": "2026-09-09T02:27:08.167970+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Democratic Party",
-            "probability_pct": 65.5
+            "probability_pct": 66.5
           },
           {
             "outcome": "Republican Party",
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 64.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 35.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -195,7 +195,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 34.0
+            "probability_pct": 34.5
           },
           {
             "outcome": "Person A",
@@ -280,11 +280,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 70.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 30.5
+            "probability_pct": 28.5
           },
           {
             "outcome": "Person A",
@@ -351,11 +351,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 72.0
+            "probability_pct": 73.0
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 28.0
+            "probability_pct": 25.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -444,7 +444,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 64.0
+            "probability_pct": 65.0
           },
           {
             "outcome": "Josh Turek",
@@ -459,7 +459,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 66.5
+            "probability_pct": 65.5
           },
           {
             "outcome": "Josh Turek (D)",
