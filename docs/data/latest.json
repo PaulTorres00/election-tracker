@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:21:24.749267+00:00",
+  "generated_at": "2026-09-10T15:37:05.509948+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 49.0
+            "probability_pct": 48.5
           },
           {
             "outcome": "Person A",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 59.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 39.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 61.5
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 38.5
+            "probability_pct": 39.0
           },
           {
             "outcome": "Other",
@@ -253,11 +253,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 48.7,
-          "Susan Collins": 45.7
+          "Troy Jackson": 48.5,
+          "Susan Collins": 45.2
         },
-        "polls_used": 3,
-        "most_recent_poll_date": "2026-08-10",
+        "polls_used": 4,
+        "most_recent_poll_date": "2026-09-08",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 52.0
+            "probability_pct": 51.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 44.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
