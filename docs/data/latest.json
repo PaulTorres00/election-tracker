@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:17:10.982571+00:00",
+  "generated_at": "2026-09-11T02:21:53.931411+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 50.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Jon Husted",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 48.5
+            "probability_pct": 47.0
           },
           {
             "outcome": "Person A",
@@ -180,7 +180,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 36.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -191,11 +191,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 65.5
+            "probability_pct": 64.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 35.5
+            "probability_pct": 36.5
           },
           {
             "outcome": "Person A",
@@ -374,7 +374,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 31.0
+            "probability_pct": 30.5
           },
           {
             "outcome": "Democrat",
@@ -448,7 +448,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 34.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -530,11 +530,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 51.0
+            "probability_pct": 56.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 46.0
+            "probability_pct": 42.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
