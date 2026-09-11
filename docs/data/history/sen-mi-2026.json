@@ -1017,5 +1017,17 @@
       "Mike Rogers": 44.3
     },
     "kalshi_leading_pct": 62.0
+  },
+  {
+    "timestamp": "2026-09-11T15:38:50.100392+00:00",
+    "polling_averages": {
+      "Abdul El-Sayed": 46.3,
+      "Mike Rogers": 44.8,
+      "Lydia Christensen": 0.8,
+      "Tim Long": 0.7,
+      "Douglas P. Marsh": 0.4,
+      "Walter P. Kristy": 0.2
+    },
+    "kalshi_leading_pct": 62.0
   }
 ]
