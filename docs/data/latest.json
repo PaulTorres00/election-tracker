@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:17:13.280291+00:00",
+  "generated_at": "2026-09-12T02:29:25.148874+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -122,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 58.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Mike Lawler (R)",
@@ -184,7 +184,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 40.0
+            "probability_pct": 39.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -288,7 +288,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 28.5
+            "probability_pct": 29.5
           },
           {
             "outcome": "Person A",
@@ -463,11 +463,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 60.5
+            "probability_pct": 61.0
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 40.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -566,7 +566,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 11.0
+            "probability_pct": 10.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
