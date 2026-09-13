@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:57:50.137636+00:00",
+  "generated_at": "2026-09-13T02:28:04.352060+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 61.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Mike Lawler",
@@ -184,7 +184,7 @@
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 38.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -374,7 +374,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 68.5
+            "probability_pct": 66.5
           },
           {
             "outcome": "Independent",
@@ -463,11 +463,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 61.0
+            "probability_pct": 60.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 39.0
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -538,7 +538,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 39.0
+            "probability_pct": 40.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -562,7 +562,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 88.0
+            "probability_pct": 89.0
           },
           {
             "outcome": "David Valadao",
@@ -581,7 +581,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 13.0
+            "probability_pct": 12.5
           },
           {
             "outcome": "Other",
