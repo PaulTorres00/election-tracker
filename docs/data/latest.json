@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T02:28:04.352060+00:00",
+  "generated_at": "2026-09-13T10:52:45.630442+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -180,11 +180,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 62.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 37.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -195,11 +195,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 62.5
+            "probability_pct": 63.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 37.0
+            "probability_pct": 36.0
           },
           {
             "outcome": "Person A",
@@ -562,7 +562,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 89.0
+            "probability_pct": 85.0
           },
           {
             "outcome": "David Valadao",
@@ -577,7 +577,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 88.0
+            "probability_pct": 87.5
           },
           {
             "outcome": "David Valadao (R)",
