@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T02:42:35.407570+00:00",
+  "generated_at": "2026-09-16T10:36:00.868661+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 44.5
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -355,7 +355,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 69.0
+            "probability_pct": 68.0
           },
           {
             "outcome": "Dan Osborn",
@@ -363,7 +363,7 @@
           },
           {
             "outcome": "Cindy Burbank",
-            "probability_pct": 0.0
+            "probability_pct": 0.3
           }
         ],
         "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
@@ -467,7 +467,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 41.5
+            "probability_pct": 40.5
           },
           {
             "outcome": "Person A",
@@ -538,7 +538,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 36.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -566,7 +566,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.4
+            "probability_pct": 8.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
