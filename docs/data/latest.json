@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:43:03.680494+00:00",
+  "generated_at": "2026-09-16T02:42:35.407570+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 43.5
+            "probability_pct": 44.5
           },
           {
             "outcome": "Person A",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 37.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -355,7 +355,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 70.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Dan Osborn",
@@ -463,11 +463,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 56.5
+            "probability_pct": 57.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 44.0
+            "probability_pct": 41.5
           },
           {
             "outcome": "Person A",
@@ -534,7 +534,7 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 62.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mai Vang",
@@ -566,7 +566,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.0
+            "probability_pct": 8.4
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -577,7 +577,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 88.0
+            "probability_pct": 87.5
           },
           {
             "outcome": "David Valadao (R)",
