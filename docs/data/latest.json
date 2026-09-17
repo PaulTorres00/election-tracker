@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:45:16.879363+00:00",
+  "generated_at": "2026-09-17T15:58:57.199199+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 63.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Mike Lawler",
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 65.0
+            "probability_pct": 66.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 33.0
+            "probability_pct": 31.5
           },
           {
             "outcome": "Other",
@@ -164,15 +164,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 46.3,
-          "Mike Rogers": 44.8,
-          "Lydia Christensen": 0.8,
-          "Tim Long": 0.7,
-          "Douglas P. Marsh": 0.4,
-          "Walter P. Kristy": 0.2
+          "Abdul El-Sayed": 47.2,
+          "Mike Rogers": 44.6
         },
-        "polls_used": 1,
-        "most_recent_poll_date": "2026-09-09",
+        "polls_used": 10,
+        "most_recent_poll_date": "2026-09-14",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -187,20 +183,20 @@
             "probability_pct": 90.0
           },
           {
-            "outcome": "Muskegon",
-            "probability_pct": 64.0
-          },
-          {
             "outcome": "Genesee",
-            "probability_pct": 42.0
+            "probability_pct": 73.0
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 40.0
+            "probability_pct": 57.0
+          },
+          {
+            "outcome": "Muskegon",
+            "probability_pct": 57.0
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 29.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Eaton",
@@ -215,11 +211,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 65.0
+            "probability_pct": 65.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 34.0
+            "probability_pct": 33.5
           },
           {
             "outcome": "Person A",
@@ -277,11 +273,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 48.5,
-          "Susan Collins": 45.2
+          "Troy Jackson": 48.1,
+          "Susan Collins": 45.6
         },
-        "polls_used": 4,
-        "most_recent_poll_date": "2026-09-08",
+        "polls_used": 5,
+        "most_recent_poll_date": "2026-09-15",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -289,11 +285,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 68.0
+            "probability_pct": 67.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 31.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -375,7 +371,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 69.0
+            "probability_pct": 67.0
           },
           {
             "outcome": "Dan Osborn",
@@ -456,11 +452,12 @@
       "district": null,
       "polling": {
         "averages": {
-          "Ashley Hinson": 46.2,
-          "Josh Turek": 45.2
+          "Ashley Hinson": 46.0,
+          "Josh Turek": 42.0,
+          "Thomas Laehn": 2.0
         },
-        "polls_used": 8,
-        "most_recent_poll_date": "2026-09-08",
+        "polls_used": 1,
+        "most_recent_poll_date": "2026-09-16",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -554,11 +551,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 56.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 38.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -582,7 +579,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 89.0
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao",
