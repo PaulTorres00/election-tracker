@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:34:09.217079+00:00",
+  "generated_at": "2026-09-18T10:20:50.684691+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 66.0
+            "probability_pct": 64.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 34.0
+            "probability_pct": 33.0
           },
           {
             "outcome": "Other",
@@ -187,20 +187,20 @@
             "probability_pct": 81.0
           },
           {
+            "outcome": "Saginaw",
+            "probability_pct": 65.0
+          },
+          {
             "outcome": "Grand Traverse",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Muskegon",
             "probability_pct": 56.0
           },
           {
-            "outcome": "Saginaw",
-            "probability_pct": 29.0
-          },
-          {
             "outcome": "Eaton",
-            "probability_pct": 12.0
+            "probability_pct": 11.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -211,11 +211,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 64.5
+            "probability_pct": 65.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 35.0
+            "probability_pct": 34.5
           },
           {
             "outcome": "Person A",
@@ -579,7 +579,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 89.0
           },
           {
             "outcome": "David Valadao",
@@ -594,11 +594,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 88.5
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 11.0
+            "probability_pct": 5.0
           },
           {
             "outcome": "Other",
