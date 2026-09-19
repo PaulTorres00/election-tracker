@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:04:18.362122+00:00",
+  "generated_at": "2026-09-19T15:08:25.623727+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -182,20 +182,8 @@
             "probability_pct": 93.0
           },
           {
-            "outcome": "Kent",
-            "probability_pct": 83.0
-          },
-          {
             "outcome": "Genesee",
             "probability_pct": 81.0
-          },
-          {
-            "outcome": "Grand Traverse",
-            "probability_pct": 60.0
-          },
-          {
-            "outcome": "Saginaw",
-            "probability_pct": 59.0
           },
           {
             "outcome": "Muskegon",
@@ -204,6 +192,18 @@
           {
             "outcome": "Eaton",
             "probability_pct": 11.0
+          },
+          {
+            "outcome": "Kent",
+            "probability_pct": 10.0
+          },
+          {
+            "outcome": "Saginaw",
+            "probability_pct": 4.0
+          },
+          {
+            "outcome": "Grand Traverse",
+            "probability_pct": 3.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -378,7 +378,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -487,7 +487,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 38.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -558,7 +558,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 39.0
+            "probability_pct": 8.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -582,11 +582,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 89.0
+            "probability_pct": 90.1
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.5
+            "probability_pct": 8.4
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -597,11 +597,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 90.0
+            "probability_pct": 89.5
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 7.5
+            "probability_pct": 6.5
           },
           {
             "outcome": "Other",
