@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:23:10.613230+00:00",
+  "generated_at": "2026-09-20T15:12:22.168781+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,7 +25,7 @@
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 45.0
+            "probability_pct": 44.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -191,7 +191,7 @@
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 58.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Muskegon",
@@ -558,7 +558,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 38.0
+            "probability_pct": 40.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -582,11 +582,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 89.0
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.5
+            "probability_pct": 8.8
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
