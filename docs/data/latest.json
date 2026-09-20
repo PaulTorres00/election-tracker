@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T02:44:03.057603+00:00",
+  "generated_at": "2026-09-20T10:23:10.613230+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 54.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Jon Husted",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 60.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 40.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -199,11 +199,11 @@
           },
           {
             "outcome": "Eaton",
-            "probability_pct": 53.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 52.0
+            "probability_pct": 51.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -214,7 +214,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 65.5
+            "probability_pct": 66.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -393,7 +393,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 67.5
+            "probability_pct": 68.5
           },
           {
             "outcome": "Independent",
@@ -468,7 +468,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Josh Turek",
@@ -487,7 +487,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 39.0
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -558,7 +558,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 39.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -586,7 +586,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 9.4
+            "probability_pct": 8.5
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
