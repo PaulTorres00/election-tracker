@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:41:05.055438+00:00",
+  "generated_at": "2026-09-21T11:37:58.590027+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -16,8 +16,79 @@
         "most_recent_poll_date": "2026-09-16",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "Ohio Senate winner?",
+        "outcomes": [
+          {
+            "outcome": "Sherrod Brown",
+            "probability_pct": 56.0
+          },
+          {
+            "outcome": "Jon Husted",
+            "probability_pct": 44.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
+      },
+      "polymarket": {
+        "event_title": "Ohio Senate Election Winner",
+        "slug": "ohio-senate-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Sherrod Brown (D)",
+            "probability_pct": 56.5
+          },
+          {
+            "outcome": "Jon Husted (R)",
+            "probability_pct": 40.5
+          },
+          {
+            "outcome": "Person A",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person B",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person E",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person F",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person G",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person H",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person I",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person J",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/ohio-senate-election-winner"
+      }
     },
     {
       "id": "hse-ny-17-2026",
@@ -31,8 +102,59 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "NY-17 House winner?",
+        "outcomes": [
+          {
+            "outcome": "Cait Conley",
+            "probability_pct": 61.0
+          },
+          {
+            "outcome": "Mike Lawler",
+            "probability_pct": 39.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
+      },
+      "polymarket": {
+        "event_title": "NY-17 House Election Winner",
+        "slug": "ny-17-house-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Cait Conley (D)",
+            "probability_pct": 64.5
+          },
+          {
+            "outcome": "Mike Lawler (R)",
+            "probability_pct": 36.5
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          },
+          {
+            "outcome": "A",
+            "probability_pct": null
+          },
+          {
+            "outcome": "B",
+            "probability_pct": null
+          },
+          {
+            "outcome": "C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "E",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/ny-17-house-election-winner"
+      }
     },
     {
       "id": "sen-mi-2026",
@@ -52,8 +174,99 @@
         "most_recent_poll_date": "2026-09-17",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "Michigan Senate: which counties will Abdul El-Sayed win?",
+        "outcomes": [
+          {
+            "outcome": "Oakland",
+            "probability_pct": 92.0
+          },
+          {
+            "outcome": "Kent",
+            "probability_pct": 84.0
+          },
+          {
+            "outcome": "Genesee",
+            "probability_pct": 81.0
+          },
+          {
+            "outcome": "Muskegon",
+            "probability_pct": 58.0
+          },
+          {
+            "outcome": "Eaton",
+            "probability_pct": 52.0
+          },
+          {
+            "outcome": "Saginaw",
+            "probability_pct": 51.0
+          },
+          {
+            "outcome": "Grand Traverse",
+            "probability_pct": 6.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
+      },
+      "polymarket": {
+        "event_title": "Michigan Senate Election Winner",
+        "slug": "michigan-senate-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Abdul El-Sayed (D)",
+            "probability_pct": 66.5
+          },
+          {
+            "outcome": "Mike Rogers (R)",
+            "probability_pct": 34.0
+          },
+          {
+            "outcome": "Person A",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person B",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person E",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person F",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person G",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person H",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person I",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person J",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/michigan-senate-election-winner"
+      }
     },
     {
       "id": "sen-me-2026",
@@ -70,8 +283,79 @@
         "most_recent_poll_date": "2026-09-15",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "Maine Senate winner?",
+        "outcomes": [
+          {
+            "outcome": "Troy Jackson",
+            "probability_pct": 67.0
+          },
+          {
+            "outcome": "Susan Collins",
+            "probability_pct": 33.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
+      },
+      "polymarket": {
+        "event_title": "Maine Senate Election Winner",
+        "slug": "maine-senate-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Troy Jackson (D)",
+            "probability_pct": 69.5
+          },
+          {
+            "outcome": "Susan Collins (R)",
+            "probability_pct": 30.5
+          },
+          {
+            "outcome": "Person A",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person B",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person E",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person F",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person G",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person H",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person I",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person J",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/maine-senate-election-winner"
+      }
     },
     {
       "id": "sen-ne-2026",
@@ -85,8 +369,83 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "Nebraska Senate winner?",
+        "outcomes": [
+          {
+            "outcome": "Pete Ricketts",
+            "probability_pct": 68.0
+          },
+          {
+            "outcome": "Dan Osborn",
+            "probability_pct": 31.0
+          },
+          {
+            "outcome": "Cindy Burbank",
+            "probability_pct": 0.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
+      },
+      "polymarket": {
+        "event_title": "Nebraska Senate Election Winner  ",
+        "slug": "nebraska-senate-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Pete Ricketts (R)",
+            "probability_pct": 68.5
+          },
+          {
+            "outcome": "Independent",
+            "probability_pct": 32.5
+          },
+          {
+            "outcome": "Democrat",
+            "probability_pct": 0.1
+          },
+          {
+            "outcome": "Person B",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person E",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person F",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person G",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person H",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person I",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person J",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/nebraska-senate-election-winner"
+      }
     },
     {
       "id": "sen-ia-2026",
@@ -104,8 +463,79 @@
         "most_recent_poll_date": "2026-09-16",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "Iowa Senate winner?",
+        "outcomes": [
+          {
+            "outcome": "Ashley Hinson",
+            "probability_pct": 60.0
+          },
+          {
+            "outcome": "Josh Turek",
+            "probability_pct": 40.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
+      },
+      "polymarket": {
+        "event_title": "Iowa Senate Election Winner",
+        "slug": "iowa-senate-election-winner",
+        "outcomes": [
+          {
+            "outcome": "Ashley Hinson (R)",
+            "probability_pct": 60.5
+          },
+          {
+            "outcome": "Josh Turek (D)",
+            "probability_pct": 39.5
+          },
+          {
+            "outcome": "Person A",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person B",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person E",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person F",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person G",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person H",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person I",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Person J",
+            "probability_pct": null
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/iowa-senate-election-winner"
+      }
     },
     {
       "id": "hse-ca-07-2026",
@@ -119,7 +549,20 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
+      "kalshi": {
+        "event_title": "CA-07 House winner?",
+        "outcomes": [
+          {
+            "outcome": "Doris Matsui",
+            "probability_pct": 60.0
+          },
+          {
+            "outcome": "Mai Vang",
+            "probability_pct": 39.0
+          }
+        ],
+        "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
+      },
       "polymarket": null
     },
     {
@@ -134,8 +577,59 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": null,
-      "polymarket": null
+      "kalshi": {
+        "event_title": "CA-22 House winner?",
+        "outcomes": [
+          {
+            "outcome": "Randy Villegas",
+            "probability_pct": 89.0
+          },
+          {
+            "outcome": "David Valadao",
+            "probability_pct": 8.5
+          }
+        ],
+        "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
+      },
+      "polymarket": {
+        "event_title": "CA-22 House Election Winner",
+        "slug": "which-party-will-win-the-house-race-for-the-ca-22-seat",
+        "outcomes": [
+          {
+            "outcome": "Randy Villegas (D)",
+            "probability_pct": 89.5
+          },
+          {
+            "outcome": "David Valadao (R)",
+            "probability_pct": 7.0
+          },
+          {
+            "outcome": "Other",
+            "probability_pct": null
+          },
+          {
+            "outcome": "A",
+            "probability_pct": null
+          },
+          {
+            "outcome": "CA-22",
+            "probability_pct": null
+          },
+          {
+            "outcome": "C",
+            "probability_pct": null
+          },
+          {
+            "outcome": "D",
+            "probability_pct": null
+          },
+          {
+            "outcome": "E",
+            "probability_pct": null
+          }
+        ],
+        "url": "https://polymarket.com/event/which-party-will-win-the-house-race-for-the-ca-22-seat"
+      }
     }
   ]
 }
