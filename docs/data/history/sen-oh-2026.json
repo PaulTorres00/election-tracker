@@ -1302,5 +1302,13 @@
       "Jon Husted": 44.6
     },
     "kalshi_leading_pct": 55.0
+  },
+  {
+    "timestamp": "2026-09-21T02:41:05.055438+00:00",
+    "polling_averages": {
+      "Sherrod Brown": 48.1,
+      "Jon Husted": 44.6
+    },
+    "kalshi_leading_pct": null
   }
 ]
