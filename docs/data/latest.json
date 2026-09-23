@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:43:11.085525+00:00",
+  "generated_at": "2026-09-23T10:33:57.556175+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 39.0
+            "probability_pct": 40.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -179,16 +179,16 @@
         "event_title": "Michigan Senate: which counties will Abdul El-Sayed win?",
         "outcomes": [
           {
-            "outcome": "Oakland",
-            "probability_pct": 95.0
-          },
-          {
             "outcome": "Kent",
             "probability_pct": 87.0
           },
           {
+            "outcome": "Oakland",
+            "probability_pct": 87.0
+          },
+          {
             "outcome": "Genesee",
-            "probability_pct": 83.0
+            "probability_pct": 81.0
           },
           {
             "outcome": "Grand Traverse",
@@ -196,7 +196,7 @@
           },
           {
             "outcome": "Eaton",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Muskegon",
@@ -204,7 +204,7 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 58.0
+            "probability_pct": 62.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -215,7 +215,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 73.5
+            "probability_pct": 74.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -483,11 +483,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 50.5
+            "probability_pct": 52.0
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 49.5
+            "probability_pct": 48.5
           },
           {
             "outcome": "Person A",
@@ -558,7 +558,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 39.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
