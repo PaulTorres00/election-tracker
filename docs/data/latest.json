@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:43:14.775334+00:00",
+  "generated_at": "2026-09-23T02:43:11.085525+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,7 +25,7 @@
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 38.0
+            "probability_pct": 39.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 61.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 39.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -184,7 +184,7 @@
           },
           {
             "outcome": "Kent",
-            "probability_pct": 86.0
+            "probability_pct": 87.0
           },
           {
             "outcome": "Genesee",
@@ -219,7 +219,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 26.5
+            "probability_pct": 25.5
           },
           {
             "outcome": "Person A",
@@ -289,7 +289,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 70.0
+            "probability_pct": 71.0
           },
           {
             "outcome": "Susan Collins",
@@ -304,11 +304,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 73.0
+            "probability_pct": 73.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 27.0
+            "probability_pct": 26.5
           },
           {
             "outcome": "Person A",
@@ -379,7 +379,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -402,7 +402,7 @@
           },
           {
             "outcome": "Democrat",
-            "probability_pct": 0.5
+            "probability_pct": 0.4
           },
           {
             "outcome": "Person B",
@@ -468,7 +468,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 55.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Josh Turek",
@@ -483,7 +483,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 51.5
+            "probability_pct": 50.5
           },
           {
             "outcome": "Josh Turek (D)",
