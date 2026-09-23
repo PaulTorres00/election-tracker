@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:33:57.556175+00:00",
+  "generated_at": "2026-09-23T15:53:12.238161+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 63.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler",
@@ -179,14 +179,6 @@
         "event_title": "Michigan Senate: which counties will Abdul El-Sayed win?",
         "outcomes": [
           {
-            "outcome": "Kent",
-            "probability_pct": 87.0
-          },
-          {
-            "outcome": "Oakland",
-            "probability_pct": 87.0
-          },
-          {
             "outcome": "Genesee",
             "probability_pct": 81.0
           },
@@ -204,7 +196,15 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 62.0
+            "probability_pct": 60.0
+          },
+          {
+            "outcome": "Kent",
+            "probability_pct": 38.0
+          },
+          {
+            "outcome": "Oakland",
+            "probability_pct": 4.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -215,11 +215,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 74.5
+            "probability_pct": 71.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 25.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Person A",
@@ -293,7 +293,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 29.0
+            "probability_pct": 28.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -468,7 +468,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 54.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Josh Turek",
@@ -483,7 +483,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 52.0
+            "probability_pct": 51.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -554,11 +554,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 60.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 38.0
+            "probability_pct": 24.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
