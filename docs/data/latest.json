@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:15:19.761505+00:00",
+  "generated_at": "2026-09-24T20:59:36.576930+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -36,7 +36,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 61.5
+            "probability_pct": 58.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 92.0
+            "probability_pct": 91.0
           },
           {
             "outcome": "Kent",
@@ -188,11 +188,11 @@
           },
           {
             "outcome": "Muskegon",
-            "probability_pct": 65.0
+            "probability_pct": 66.0
           },
           {
             "outcome": "Eaton",
-            "probability_pct": 60.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Saginaw",
@@ -273,10 +273,10 @@
       "district": null,
       "polling": {
         "averages": {
-          "Susan Collins": 46.2,
-          "Troy Jackson": 47.7
+          "Susan Collins": 45.7,
+          "Troy Jackson": 47.8
         },
-        "polls_used": 6,
+        "polls_used": 7,
         "most_recent_poll_date": "2026-09-22",
         "source": "VoteHub (https://votehub.com)"
       },
@@ -285,11 +285,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 65.0
+            "probability_pct": 67.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 33.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -300,7 +300,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 67.0
+            "probability_pct": 68.5
           },
           {
             "outcome": "Susan Collins (R)",
@@ -390,15 +390,15 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 68.5
+            "probability_pct": 69.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 32.5
+            "probability_pct": 31.5
           },
           {
             "outcome": "Democrat",
-            "probability_pct": 0.4
+            "probability_pct": 0.1
           },
           {
             "outcome": "Person B",
@@ -479,7 +479,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 53.5
+            "probability_pct": 55.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -597,7 +597,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 7.5
+            "probability_pct": 8.5
           },
           {
             "outcome": "Other",
