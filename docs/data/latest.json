@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:52:18.796400+00:00",
+  "generated_at": "2026-09-24T16:15:19.761505+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 37.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 33.0
+            "probability_pct": 32.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -164,15 +164,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 47.2,
-          "Mike Rogers": 43.5,
-          "Lydia Christensen": 0.8,
-          "Tim Long": 0.4,
-          "Douglas P. Marsh": 1.1,
-          "Walter P. Kristy": 0.5
+          "Abdul El-Sayed": 48.3,
+          "Mike Rogers": 45.2
         },
-        "polls_used": 3,
-        "most_recent_poll_date": "2026-09-20",
+        "polls_used": 10,
+        "most_recent_poll_date": "2026-09-23",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -277,11 +273,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 48.1,
-          "Susan Collins": 45.6
+          "Susan Collins": 46.2,
+          "Troy Jackson": 47.7
         },
-        "polls_used": 5,
-        "most_recent_poll_date": "2026-09-15",
+        "polls_used": 6,
+        "most_recent_poll_date": "2026-09-22",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -289,11 +285,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 68.0
+            "probability_pct": 65.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 29.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -304,11 +300,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 70.5
+            "probability_pct": 67.0
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 29.5
+            "probability_pct": 32.5
           },
           {
             "outcome": "Person A",
@@ -375,11 +371,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 67.0
+            "probability_pct": 70.0
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 34.0
+            "probability_pct": 29.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -394,7 +390,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 67.5
+            "probability_pct": 68.5
           },
           {
             "outcome": "Independent",
@@ -487,7 +483,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 46.5
+            "probability_pct": 45.5
           },
           {
             "outcome": "Person A",
@@ -586,7 +582,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 9.9
+            "probability_pct": 9.8
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -601,7 +597,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 6.5
+            "probability_pct": 7.5
           },
           {
             "outcome": "Other",
