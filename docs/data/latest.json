@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:55:21.627250+00:00",
+  "generated_at": "2026-09-25T16:15:42.887068+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 65.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 34.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -175,28 +175,28 @@
         "event_title": "Michigan Senate: which counties will Abdul El-Sayed win?",
         "outcomes": [
           {
+            "outcome": "Oakland",
+            "probability_pct": 91.0
+          },
+          {
+            "outcome": "Kent",
+            "probability_pct": 84.0
+          },
+          {
             "outcome": "Genesee",
             "probability_pct": 81.0
           },
           {
-            "outcome": "Kent",
-            "probability_pct": 9.0
-          },
-          {
-            "outcome": "Grand Traverse",
-            "probability_pct": 8.0
-          },
-          {
-            "outcome": "Oakland",
-            "probability_pct": 7.0
+            "outcome": "Muskegon",
+            "probability_pct": 66.0
           },
           {
             "outcome": "Eaton",
-            "probability_pct": 4.0
+            "probability_pct": 61.0
           },
           {
-            "outcome": "Muskegon",
-            "probability_pct": 4.0
+            "outcome": "Grand Traverse",
+            "probability_pct": 59.0
           },
           {
             "outcome": "Saginaw",
@@ -285,7 +285,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 64.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Susan Collins",
@@ -371,11 +371,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 70.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 29.0
+            "probability_pct": 31.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -394,7 +394,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 31.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Democrat",
@@ -554,7 +554,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 7.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -582,7 +582,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 9.1
+            "probability_pct": 9.3
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -597,7 +597,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 9.0
+            "probability_pct": 8.5
           },
           {
             "outcome": "Other",
