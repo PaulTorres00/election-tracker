@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:08:49.478588+00:00",
+  "generated_at": "2026-09-27T20:40:24.997647+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 35.0
+            "probability_pct": 36.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -285,11 +285,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 39.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -600,7 +600,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 10.5
+            "probability_pct": 9.5
           },
           {
             "outcome": "Other",
