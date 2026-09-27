@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:08:31.423224+00:00",
+  "generated_at": "2026-09-27T16:08:49.478588+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 36.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -176,11 +176,11 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 90.0
+            "probability_pct": 91.0
           },
           {
             "outcome": "Kent",
-            "probability_pct": 86.0
+            "probability_pct": 85.0
           },
           {
             "outcome": "Genesee",
@@ -600,7 +600,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 9.5
+            "probability_pct": 10.5
           },
           {
             "outcome": "Other",
