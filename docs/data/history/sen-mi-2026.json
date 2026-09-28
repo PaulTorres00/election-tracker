@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-08-14T15:07:13.987768+00:00",
-    "polling_averages": {
-      "Mike Rogers": 43.5,
-      "Abdul El-Sayed": 43.0
-    },
-    "kalshi_leading_pct": 57.0
-  },
-  {
     "timestamp": "2026-08-14T16:18:11.969575+00:00",
     "polling_averages": {
       "Mike Rogers": 43.5,
@@ -1611,5 +1603,13 @@
       "Mike Rogers": 45.2
     },
     "kalshi_leading_pct": 91.0
+  },
+  {
+    "timestamp": "2026-09-28T22:49:37.024199+00:00",
+    "polling_averages": {
+      "Abdul El-Sayed": 48.3,
+      "Mike Rogers": 45.2
+    },
+    "kalshi_leading_pct": 95.0
   }
 ]
