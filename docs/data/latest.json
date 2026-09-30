@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:42:05.679045+00:00",
+  "generated_at": "2026-09-30T17:22:11.092762+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 60.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler",
@@ -176,7 +176,7 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 94.0
+            "probability_pct": 93.0
           },
           {
             "outcome": "Kent",
@@ -378,7 +378,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 28.0
+            "probability_pct": 27.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -581,11 +581,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 89.0
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.1
+            "probability_pct": 8.2
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -600,7 +600,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 9.0
+            "probability_pct": 5.5
           },
           {
             "outcome": "Other",
