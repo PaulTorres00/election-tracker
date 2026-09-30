@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:20:46.038902+00:00",
+  "generated_at": "2026-09-30T11:42:05.679045+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 61.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Lawler",
@@ -183,16 +183,16 @@
             "probability_pct": 90.0
           },
           {
-            "outcome": "Grand Traverse",
-            "probability_pct": 64.0
+            "outcome": "Muskegon",
+            "probability_pct": 65.0
           },
           {
-            "outcome": "Muskegon",
-            "probability_pct": 64.0
+            "outcome": "Grand Traverse",
+            "probability_pct": 58.0
           },
           {
             "outcome": "Eaton",
-            "probability_pct": 57.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Saginaw",
@@ -215,7 +215,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 28.5
+            "probability_pct": 27.5
           },
           {
             "outcome": "Person A",
@@ -378,7 +378,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 27.0
+            "probability_pct": 28.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -585,7 +585,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.4
+            "probability_pct": 8.1
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -596,7 +596,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 91.5
+            "probability_pct": 92.0
           },
           {
             "outcome": "David Valadao (R)",
