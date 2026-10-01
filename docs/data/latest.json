@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:11:03.265172+00:00",
+  "generated_at": "2026-10-01T22:11:55.072739+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 59.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 40.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 62.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
@@ -165,10 +165,10 @@
       "polling": {
         "averages": {
           "Abdul El-Sayed": 48.3,
-          "Mike Rogers": 45.2
+          "Mike Rogers": 45.7
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-09-23",
+        "most_recent_poll_date": "2026-09-28",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -176,11 +176,15 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 94.0
+            "probability_pct": 92.0
           },
           {
             "outcome": "Kent",
-            "probability_pct": 90.0
+            "probability_pct": 89.0
+          },
+          {
+            "outcome": "Genesee",
+            "probability_pct": 85.0
           },
           {
             "outcome": "Muskegon",
@@ -188,7 +192,7 @@
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 58.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Eaton",
@@ -196,11 +200,7 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 56.0
-          },
-          {
-            "outcome": "Genesee",
-            "probability_pct": 1.0
+            "probability_pct": 53.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -211,7 +211,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 71.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -273,11 +273,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Susan Collins": 45.9,
-          "Troy Jackson": 48.2
+          "Susan Collins": 46.1,
+          "Troy Jackson": 47.9
         },
-        "polls_used": 8,
-        "most_recent_poll_date": "2026-09-22",
+        "polls_used": 9,
+        "most_recent_poll_date": "2026-09-30",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -300,11 +300,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 58.5
+            "probability_pct": 57.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 40.5
+            "probability_pct": 42.5
           },
           {
             "outcome": "Person A",
@@ -393,11 +393,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 70.5
+            "probability_pct": 73.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 30.5
+            "probability_pct": 26.0
           },
           {
             "outcome": "Democrat",
@@ -467,7 +467,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 59.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Josh Turek",
@@ -581,11 +581,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 89.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.1
+            "probability_pct": 8.3
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -596,7 +596,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.0
+            "probability_pct": 93.0
           },
           {
             "outcome": "David Valadao (R)",
