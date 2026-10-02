@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:27:29.294253+00:00",
+  "generated_at": "2026-10-02T11:40:39.042290+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 39.0
+            "probability_pct": 40.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 36.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -211,11 +211,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 71.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 28.0
+            "probability_pct": 28.5
           },
           {
             "outcome": "Person A",
@@ -300,7 +300,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 57.0
+            "probability_pct": 57.5
           },
           {
             "outcome": "Susan Collins (R)",
@@ -393,7 +393,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 73.5
+            "probability_pct": 74.5
           },
           {
             "outcome": "Independent",
@@ -585,7 +585,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.3
+            "probability_pct": 8.1
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -596,7 +596,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 93.0
+            "probability_pct": 92.0
           },
           {
             "outcome": "David Valadao (R)",
