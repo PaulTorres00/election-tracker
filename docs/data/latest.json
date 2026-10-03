@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:31:08.271537+00:00",
+  "generated_at": "2026-10-03T20:26:08.064553+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -23,7 +23,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 60.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Jon Husted",
@@ -399,11 +399,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 73.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 25.5
+            "probability_pct": 26.5
           },
           {
             "outcome": "Democrat",
@@ -488,7 +488,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 57.0
+            "probability_pct": 56.5
           },
           {
             "outcome": "Josh Turek (D)",
