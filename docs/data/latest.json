@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:26:08.064553+00:00",
+  "generated_at": "2026-10-04T03:39:47.343945+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -23,7 +23,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 61.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Jon Husted",
@@ -109,11 +109,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 62.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 37.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -291,7 +291,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 59.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Susan Collins",
@@ -403,7 +403,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 26.5
+            "probability_pct": 27.5
           },
           {
             "outcome": "Democrat",
@@ -492,7 +492,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 43.0
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -559,11 +559,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 58.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 41.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
