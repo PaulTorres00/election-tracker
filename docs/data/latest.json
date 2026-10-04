@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:39:47.343945+00:00",
+  "generated_at": "2026-10-04T11:36:51.104974+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -38,7 +38,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 60.5
+            "probability_pct": 61.5
           },
           {
             "outcome": "Jon Husted (R)",
@@ -113,7 +113,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 35.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -477,7 +477,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 44.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -488,11 +488,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 56.5
+            "probability_pct": 57.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 43.5
+            "probability_pct": 41.5
           },
           {
             "outcome": "Person A",
@@ -563,7 +563,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 43.0
+            "probability_pct": 42.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -587,11 +587,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 90.1
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.3
+            "probability_pct": 8.1
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
