@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:36:51.104974+00:00",
+  "generated_at": "2026-10-04T16:15:15.153238+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -217,11 +217,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 72.5
+            "probability_pct": 73.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 27.5
+            "probability_pct": 26.5
           },
           {
             "outcome": "Person A",
@@ -563,7 +563,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 42.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -587,11 +587,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.1
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.1
+            "probability_pct": 8.3
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
