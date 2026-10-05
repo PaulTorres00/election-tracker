@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-08-18T07:58:42.814597+00:00",
-    "polling_averages": {
-      "Sherrod Brown": 49.8,
-      "Jon Husted": 45.8
-    },
-    "kalshi_leading_pct": 51.0
-  },
-  {
     "timestamp": "2026-08-18T14:06:05.041403+00:00",
     "polling_averages": {
       "Sherrod Brown": 49.8,
@@ -1458,5 +1450,15 @@
       "Greg Levy": 2.0
     },
     "kalshi_leading_pct": 64.0
+  },
+  {
+    "timestamp": "2026-10-05T03:23:19.312430+00:00",
+    "polling_averages": {
+      "Sherrod Brown": 44.0,
+      "Jon Husted": 43.0,
+      "Bill Redpath": 4.0,
+      "Greg Levy": 2.0
+    },
+    "kalshi_leading_pct": 63.0
   }
 ]
