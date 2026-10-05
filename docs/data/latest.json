@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T03:23:19.312430+00:00",
+  "generated_at": "2026-10-05T13:13:07.989262+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -185,6 +185,10 @@
             "probability_pct": 93.0
           },
           {
+            "outcome": "Kent",
+            "probability_pct": 87.0
+          },
+          {
             "outcome": "Genesee",
             "probability_pct": 85.0
           },
@@ -203,10 +207,6 @@
           {
             "outcome": "Saginaw",
             "probability_pct": 54.0
-          },
-          {
-            "outcome": "Kent",
-            "probability_pct": 15.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -217,11 +217,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 72.5
+            "probability_pct": 73.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 27.0
+            "probability_pct": 27.5
           },
           {
             "outcome": "Person A",
@@ -291,11 +291,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 56.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 42.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -310,7 +310,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 42.5
+            "probability_pct": 41.5
           },
           {
             "outcome": "Person A",
@@ -384,7 +384,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 27.0
+            "probability_pct": 28.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -399,11 +399,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 72.5
+            "probability_pct": 73.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 27.5
+            "probability_pct": 27.0
           },
           {
             "outcome": "Democrat",
@@ -587,7 +587,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 90.1
           },
           {
             "outcome": "David Valadao",
