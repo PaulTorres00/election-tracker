@@ -1,10 +1,5 @@
 [
   {
-    "timestamp": "2026-08-18T19:18:28.914657+00:00",
-    "polling_averages": {},
-    "kalshi_leading_pct": 70.0
-  },
-  {
     "timestamp": "2026-08-19T03:14:08.554196+00:00",
     "polling_averages": {},
     "kalshi_leading_pct": 70.0
@@ -1009,5 +1004,13 @@
       "Dan Osborn": 47.0
     },
     "kalshi_leading_pct": 72.0
+  },
+  {
+    "timestamp": "2026-10-05T23:32:47.167544+00:00",
+    "polling_averages": {
+      "Pete Ricketts": 46.0,
+      "Dan Osborn": 47.0
+    },
+    "kalshi_leading_pct": 71.0
   }
 ]
