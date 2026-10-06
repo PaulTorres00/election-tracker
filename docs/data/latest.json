@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:32:24.346602+00:00",
+  "generated_at": "2026-10-06T22:05:41.630122+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -23,11 +23,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 63.0
+            "probability_pct": 62.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 35.0
+            "probability_pct": 37.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -113,7 +113,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 37.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -166,47 +166,47 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 46.7,
-          "Mike Rogers": 43.1,
-          "Lydia Christensen": 1.1,
+          "Abdul El-Sayed": 46.6,
+          "Mike Rogers": 42.8,
+          "Lydia Christensen": 1.4,
           "Tim Long": 0.5,
           "Douglas P. Marsh": 0.7,
-          "Walter P. Kristy": 0.3
+          "Walter P. Kristy": 0.6
         },
-        "polls_used": 5,
-        "most_recent_poll_date": "2026-09-30",
+        "polls_used": 6,
+        "most_recent_poll_date": "2026-10-01",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
         "event_title": "Michigan Senate: which counties will Abdul El-Sayed win?",
         "outcomes": [
           {
-            "outcome": "Oakland",
-            "probability_pct": 87.0
-          },
-          {
             "outcome": "Genesee",
-            "probability_pct": 86.0
-          },
-          {
-            "outcome": "Kent",
-            "probability_pct": 80.0
+            "probability_pct": 85.0
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 63.0
-          },
-          {
-            "outcome": "Muskegon",
             "probability_pct": 62.0
           },
           {
+            "outcome": "Muskegon",
+            "probability_pct": 61.0
+          },
+          {
             "outcome": "Eaton",
-            "probability_pct": 56.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 54.0
+            "probability_pct": 53.0
+          },
+          {
+            "outcome": "Kent",
+            "probability_pct": 44.0
+          },
+          {
+            "outcome": "Oakland",
+            "probability_pct": 2.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -217,11 +217,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 73.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 26.5
+            "probability_pct": 27.5
           },
           {
             "outcome": "Person A",
@@ -279,11 +279,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 48.4,
-          "Susan Collins": 46.4
+          "Troy Jackson": 48.6,
+          "Susan Collins": 46.6
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-10-01",
+        "most_recent_poll_date": "2026-10-04",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -310,7 +310,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 41.5
+            "probability_pct": 42.5
           },
           {
             "outcome": "Person A",
@@ -380,11 +380,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 71.0
+            "probability_pct": 72.0
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 28.0
+            "probability_pct": 27.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -399,11 +399,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 73.5
+            "probability_pct": 71.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 26.5
+            "probability_pct": 29.5
           },
           {
             "outcome": "Democrat",
@@ -477,7 +477,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 43.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -559,11 +559,11 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 56.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 43.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -602,11 +602,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 94.0
+            "probability_pct": 93.0
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 6.5
+            "probability_pct": 7.0
           },
           {
             "outcome": "Other",
