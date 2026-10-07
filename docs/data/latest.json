@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:37:55.754349+00:00",
+  "generated_at": "2026-10-07T12:25:57.379102+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -124,7 +124,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 63.5
+            "probability_pct": 62.5
           },
           {
             "outcome": "Mike Lawler (R)",
@@ -182,11 +182,7 @@
         "outcomes": [
           {
             "outcome": "Genesee",
-            "probability_pct": 85.0
-          },
-          {
-            "outcome": "Kent",
-            "probability_pct": 81.0
+            "probability_pct": 83.0
           },
           {
             "outcome": "Grand Traverse",
@@ -202,7 +198,11 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 53.0
+            "probability_pct": 47.0
+          },
+          {
+            "outcome": "Kent",
+            "probability_pct": 24.0
           },
           {
             "outcome": "Oakland",
@@ -488,11 +488,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 57.5
+            "probability_pct": 54.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 42.5
+            "probability_pct": 44.5
           },
           {
             "outcome": "Person A",
@@ -559,7 +559,7 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 56.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Mai Vang",
@@ -587,7 +587,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 89.0
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao",
@@ -602,7 +602,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 93.0
+            "probability_pct": 93.5
           },
           {
             "outcome": "David Valadao (R)",
