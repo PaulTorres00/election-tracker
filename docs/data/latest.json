@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:22:47.734867+00:00",
+  "generated_at": "2026-10-09T22:05:00.021844+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -9,11 +9,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Sherrod Brown": 48.4,
-          "Jon Husted": 43.6
+          "Sherrod Brown": 48.0,
+          "Jon Husted": 43.9
         },
-        "polls_used": 8,
-        "most_recent_poll_date": "2026-10-05",
+        "polls_used": 9,
+        "most_recent_poll_date": "2026-10-06",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -111,7 +111,7 @@
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 40.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -184,23 +184,23 @@
           },
           {
             "outcome": "Genesee",
-            "probability_pct": 83.0
+            "probability_pct": 82.0
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 57.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Muskegon",
-            "probability_pct": 57.0
+            "probability_pct": 55.0
           },
           {
             "outcome": "Eaton",
-            "probability_pct": 49.0
+            "probability_pct": 47.0
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 49.0
+            "probability_pct": 47.0
           },
           {
             "outcome": "Oakland",
@@ -215,11 +215,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 70.5
+            "probability_pct": 69.0
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 29.5
+            "probability_pct": 31.5
           },
           {
             "outcome": "Person A",
@@ -277,11 +277,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 48.6,
-          "Susan Collins": 46.6
+          "Troy Jackson": 48.8,
+          "Susan Collins": 46.5
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-10-04",
+        "most_recent_poll_date": "2026-10-05",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -289,7 +289,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 56.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Susan Collins",
@@ -459,11 +459,12 @@
       "district": null,
       "polling": {
         "averages": {
-          "Ashley Hinson": 45.4,
-          "Josh Turek": 45.5
+          "Josh Turek": 43.5,
+          "Ashley Hinson": 46.3,
+          "Thomas Laehn": 1.8
         },
-        "polls_used": 8,
-        "most_recent_poll_date": "2026-10-05",
+        "polls_used": 2,
+        "most_recent_poll_date": "2026-10-06",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -486,7 +487,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 55.5
+            "probability_pct": 57.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -589,7 +590,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.6
+            "probability_pct": 9.1
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -600,11 +601,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.5
+            "probability_pct": 92.0
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 7.0
+            "probability_pct": 7.5
           },
           {
             "outcome": "Other",
