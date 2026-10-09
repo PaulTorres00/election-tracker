@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:57:36.204620+00:00",
+  "generated_at": "2026-10-09T12:22:47.734867+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -200,7 +200,7 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 48.0
+            "probability_pct": 49.0
           },
           {
             "outcome": "Oakland",
@@ -304,7 +304,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 57.5
+            "probability_pct": 58.5
           },
           {
             "outcome": "Susan Collins (R)",
@@ -490,7 +490,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 44.5
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -589,7 +589,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.7
+            "probability_pct": 8.6
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -600,11 +600,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.0
+            "probability_pct": 92.5
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 7.5
+            "probability_pct": 7.0
           },
           {
             "outcome": "Other",
