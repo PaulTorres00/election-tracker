@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:42:06.918171+00:00",
+  "generated_at": "2026-10-10T11:41:27.082733+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,7 +21,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Jon Husted",
@@ -187,19 +187,19 @@
             "probability_pct": 82.0
           },
           {
-            "outcome": "Grand Traverse",
-            "probability_pct": 55.0
-          },
-          {
             "outcome": "Muskegon",
             "probability_pct": 55.0
           },
           {
-            "outcome": "Eaton",
+            "outcome": "Saginaw",
+            "probability_pct": 49.0
+          },
+          {
+            "outcome": "Grand Traverse",
             "probability_pct": 47.0
           },
           {
-            "outcome": "Saginaw",
+            "outcome": "Eaton",
             "probability_pct": 47.0
           },
           {
@@ -215,11 +215,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 69.5
+            "probability_pct": 71.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 31.5
+            "probability_pct": 29.5
           },
           {
             "outcome": "Person A",
@@ -558,7 +558,7 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 56.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Mai Vang",
@@ -590,7 +590,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 9.1
+            "probability_pct": 8.4
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
