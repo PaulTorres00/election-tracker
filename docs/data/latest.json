@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:58:24.017917+00:00",
+  "generated_at": "2026-10-11T03:15:06.898626+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -180,7 +180,7 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 95.0
+            "probability_pct": 96.0
           },
           {
             "outcome": "Kent",
@@ -196,7 +196,7 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 49.0
+            "probability_pct": 51.0
           },
           {
             "outcome": "Eaton",
@@ -204,7 +204,7 @@
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 27.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -215,11 +215,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 69.5
+            "probability_pct": 68.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 31.5
+            "probability_pct": 32.5
           },
           {
             "outcome": "Person A",
@@ -586,11 +586,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 88.0
+            "probability_pct": 89.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.2
+            "probability_pct": 10.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
