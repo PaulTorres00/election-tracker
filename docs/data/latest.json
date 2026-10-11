@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T03:15:06.898626+00:00",
+  "generated_at": "2026-10-11T11:54:22.204763+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -196,7 +196,7 @@
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 51.0
+            "probability_pct": 52.0
           },
           {
             "outcome": "Eaton",
@@ -204,7 +204,7 @@
           },
           {
             "outcome": "Grand Traverse",
-            "probability_pct": 38.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -476,7 +476,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 43.0
+            "probability_pct": 42.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 41.0
+            "probability_pct": 42.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
@@ -590,7 +590,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 10.0
+            "probability_pct": 6.7
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
