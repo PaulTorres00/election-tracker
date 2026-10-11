@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:09:08.500984+00:00",
+  "generated_at": "2026-10-11T21:19:32.030759+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -126,7 +126,7 @@
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 41.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Other",
@@ -191,20 +191,20 @@
             "probability_pct": 82.0
           },
           {
+            "outcome": "Grand Traverse",
+            "probability_pct": 57.0
+          },
+          {
             "outcome": "Muskegon",
             "probability_pct": 55.0
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 52.0
+            "probability_pct": 48.0
           },
           {
             "outcome": "Eaton",
             "probability_pct": 47.0
-          },
-          {
-            "outcome": "Grand Traverse",
-            "probability_pct": 8.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -215,11 +215,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 67.5
+            "probability_pct": 68.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 32.5
+            "probability_pct": 31.5
           },
           {
             "outcome": "Person A",
@@ -472,7 +472,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 57.0
+            "probability_pct": 56.0
           },
           {
             "outcome": "Josh Turek",
@@ -590,7 +590,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.3
+            "probability_pct": 8.2
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
