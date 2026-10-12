@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T03:37:57.405185+00:00",
+  "generated_at": "2026-10-12T14:03:55.189367+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -40,7 +40,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 38.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Person A",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 59.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 40.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 60.0
+            "probability_pct": 59.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 39.5
+            "probability_pct": 40.5
           },
           {
             "outcome": "Other",
@@ -191,19 +191,19 @@
             "probability_pct": 82.0
           },
           {
+            "outcome": "Grand Traverse",
+            "probability_pct": 56.0
+          },
+          {
             "outcome": "Muskegon",
             "probability_pct": 55.0
           },
           {
-            "outcome": "Grand Traverse",
-            "probability_pct": 53.0
+            "outcome": "Eaton",
+            "probability_pct": 47.0
           },
           {
             "outcome": "Saginaw",
-            "probability_pct": 48.0
-          },
-          {
-            "outcome": "Eaton",
             "probability_pct": 47.0
           }
         ],
@@ -215,11 +215,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 69.5
+            "probability_pct": 70.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 31.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -289,11 +289,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 56.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 43.0
+            "probability_pct": 42.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -397,7 +397,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 71.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Independent",
@@ -562,7 +562,7 @@
           },
           {
             "outcome": "Mai Vang",
-            "probability_pct": 41.0
+            "probability_pct": 42.0
           }
         ],
         "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
