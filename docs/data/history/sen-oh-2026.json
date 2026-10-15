@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-08-26T08:09:10.468423+00:00",
-    "polling_averages": {
-      "Sherrod Brown": 49.8,
-      "Jon Husted": 45.8
-    },
-    "kalshi_leading_pct": 55.0
-  },
-  {
     "timestamp": "2026-08-26T14:26:03.033706+00:00",
     "polling_averages": {
       "Sherrod Brown": 49.8,
@@ -1475,6 +1467,14 @@
   },
   {
     "timestamp": "2026-10-14T21:09:39.649300+00:00",
+    "polling_averages": {
+      "Sherrod Brown": 48.0,
+      "Jon Husted": 43.9
+    },
+    "kalshi_leading_pct": 59.0
+  },
+  {
+    "timestamp": "2026-10-15T02:38:31.364835+00:00",
     "polling_averages": {
       "Sherrod Brown": 48.0,
       "Jon Husted": 43.9
