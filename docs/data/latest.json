@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:52:17.515437+00:00",
+  "generated_at": "2026-10-16T20:21:12.919699+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -23,11 +23,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 62.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 37.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -38,7 +38,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 63.5
+            "probability_pct": 65.0
           },
           {
             "outcome": "Jon Husted (R)",
@@ -178,15 +178,15 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 91.0
+            "probability_pct": 95.0
           },
           {
             "outcome": "Kent",
-            "probability_pct": 87.0
+            "probability_pct": 88.0
           },
           {
             "outcome": "Genesee",
-            "probability_pct": 83.0
+            "probability_pct": 84.0
           },
           {
             "outcome": "Grand Traverse",
@@ -217,7 +217,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 29.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -399,11 +399,11 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 27.5
+            "probability_pct": 28.5
           },
           {
             "outcome": "Democrat",
-            "probability_pct": 0.3
+            "probability_pct": 0.4
           },
           {
             "outcome": "Person B",
@@ -555,7 +555,7 @@
         "outcomes": [
           {
             "outcome": "Doris Matsui",
-            "probability_pct": 62.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mai Vang",
@@ -583,11 +583,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 89.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.5
+            "probability_pct": 8.6
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -602,7 +602,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 9.0
+            "probability_pct": 8.5
           },
           {
             "outcome": "Other",

@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-08-29T18:03:13.898761+00:00",
-    "polling_averages": {
-      "Troy Jackson": 48.7,
-      "Susan Collins": 45.7
-    },
-    "kalshi_leading_pct": 69.0
-  },
-  {
     "timestamp": "2026-08-30T00:04:01.685033+00:00",
     "polling_averages": {
       "Troy Jackson": 48.7,
@@ -1433,6 +1425,14 @@
   },
   {
     "timestamp": "2026-10-16T15:52:17.515437+00:00",
+    "polling_averages": {
+      "Troy Jackson": 48.9,
+      "Susan Collins": 46.8
+    },
+    "kalshi_leading_pct": 56.0
+  },
+  {
+    "timestamp": "2026-10-16T20:21:12.919699+00:00",
     "polling_averages": {
       "Troy Jackson": 48.9,
       "Susan Collins": 46.8
