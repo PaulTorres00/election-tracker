@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:48:09.300475+00:00",
+  "generated_at": "2026-10-16T02:33:55.974330+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 59.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 40.0
+            "probability_pct": 39.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -107,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 60.0
+            "probability_pct": 59.0
           },
           {
             "outcome": "Mike Lawler",
@@ -180,7 +180,7 @@
         "outcomes": [
           {
             "outcome": "Oakland",
-            "probability_pct": 94.0
+            "probability_pct": 95.0
           },
           {
             "outcome": "Kent",
@@ -188,19 +188,19 @@
           },
           {
             "outcome": "Genesee",
-            "probability_pct": 85.0
-          },
-          {
-            "outcome": "Grand Traverse",
-            "probability_pct": 57.0
+            "probability_pct": 84.0
           },
           {
             "outcome": "Muskegon",
             "probability_pct": 57.0
           },
           {
+            "outcome": "Grand Traverse",
+            "probability_pct": 56.0
+          },
+          {
             "outcome": "Eaton",
-            "probability_pct": 48.0
+            "probability_pct": 47.0
           },
           {
             "outcome": "Saginaw",
@@ -215,7 +215,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 70.5
+            "probability_pct": 69.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -382,7 +382,7 @@
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 24.0
+            "probability_pct": 25.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -585,7 +585,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 90.1
           },
           {
             "outcome": "David Valadao",
