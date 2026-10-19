@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T20:22:12.502993+00:00",
-    "polling_averages": {
-      "Ashley Hinson": 46.6,
-      "Josh Turek": 45.3
-    },
-    "kalshi_leading_pct": 61.0
-  },
-  {
     "timestamp": "2026-09-02T02:16:37.200901+00:00",
     "polling_averages": {
       "Ashley Hinson": 46.6,
@@ -1478,5 +1470,13 @@
       "Josh Turek": 45.9
     },
     "kalshi_leading_pct": 57.0
+  },
+  {
+    "timestamp": "2026-10-19T18:05:12.623854+00:00",
+    "polling_averages": {
+      "Ashley Hinson": 45.4,
+      "Josh Turek": 45.9
+    },
+    "kalshi_leading_pct": null
   }
 ]
