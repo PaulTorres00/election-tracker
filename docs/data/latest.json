@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:45:08.242802+00:00",
+  "generated_at": "2026-10-20T16:07:33.450220+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -174,35 +174,15 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
-        "event_title": "Michigan Senate: which counties will Abdul El-Sayed win?",
+        "event_title": "Michigan Senate winner?",
         "outcomes": [
           {
-            "outcome": "Oakland",
-            "probability_pct": 94.0
+            "outcome": "Abdul El-Sayed",
+            "probability_pct": 67.0
           },
           {
-            "outcome": "Kent",
-            "probability_pct": 88.0
-          },
-          {
-            "outcome": "Genesee",
-            "probability_pct": 84.0
-          },
-          {
-            "outcome": "Grand Traverse",
-            "probability_pct": 60.0
-          },
-          {
-            "outcome": "Muskegon",
-            "probability_pct": 55.0
-          },
-          {
-            "outcome": "Saginaw",
-            "probability_pct": 46.0
-          },
-          {
-            "outcome": "Eaton",
-            "probability_pct": 45.0
+            "outcome": "Mike Rogers",
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -287,11 +267,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 62.0
+            "probability_pct": 63.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 37.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -395,11 +375,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 71.5
+            "probability_pct": 72.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 29.5
+            "probability_pct": 28.5
           },
           {
             "outcome": "Democrat",
@@ -550,20 +530,7 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "CA-07 House winner?",
-        "outcomes": [
-          {
-            "outcome": "Doris Matsui",
-            "probability_pct": 63.0
-          },
-          {
-            "outcome": "Mai Vang",
-            "probability_pct": 35.0
-          }
-        ],
-        "url": "https://kalshi.com/markets/kxcaelection/california-general-elections-/kxcaelection-2607"
-      },
+      "kalshi": null,
       "polymarket": null
     },
     {
@@ -583,11 +550,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 88.0
+            "probability_pct": 89.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 9.8
+            "probability_pct": 10.0
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -598,11 +565,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 90.0
+            "probability_pct": 89.5
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 10.0
+            "probability_pct": 10.5
           },
           {
             "outcome": "Other",
