@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:23:49.292847+00:00",
+  "generated_at": "2026-10-21T21:05:15.114247+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -21,11 +21,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 64.0
+            "probability_pct": 66.0
           },
           {
             "outcome": "Jon Husted",
-            "probability_pct": 34.0
+            "probability_pct": 33.0
           }
         ],
         "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
@@ -36,11 +36,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 65.5
+            "probability_pct": 69.5
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 34.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -122,11 +122,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 60.0
+            "probability_pct": 60.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 39.5
+            "probability_pct": 39.0
           },
           {
             "outcome": "Other",
@@ -164,11 +164,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 47.6,
-          "Mike Rogers": 44.8
+          "Abdul El-Sayed": 48.0,
+          "Mike Rogers": 45.7
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-10-08",
+        "most_recent_poll_date": "2026-10-18",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -284,7 +284,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 34.5
+            "probability_pct": 35.5
           },
           {
             "outcome": "Person A",
@@ -354,7 +354,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 70.0
+            "probability_pct": 71.0
           },
           {
             "outcome": "Dan Osborn",
@@ -377,7 +377,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 29.0
+            "probability_pct": 30.0
           },
           {
             "outcome": "Democrat",
@@ -452,7 +452,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 42.0
+            "probability_pct": 43.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -463,11 +463,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 57.5
+            "probability_pct": 56.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 42.5
+            "probability_pct": 43.5
           },
           {
             "outcome": "Person A",
@@ -564,11 +564,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 89.5
+            "probability_pct": 90.0
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 10.0
+            "probability_pct": 10.5
           },
           {
             "outcome": "Other",
