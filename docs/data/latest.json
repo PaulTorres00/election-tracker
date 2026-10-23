@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:03:07.564066+00:00",
+  "generated_at": "2026-10-23T02:49:12.459729+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -23,7 +23,7 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown",
-            "probability_pct": 68.0
+            "probability_pct": 69.0
           },
           {
             "outcome": "Jon Husted",
@@ -109,7 +109,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 60.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler",
@@ -124,11 +124,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 62.5
+            "probability_pct": 61.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 37.5
+            "probability_pct": 38.0
           },
           {
             "outcome": "Other",
@@ -178,11 +178,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 69.0
+            "probability_pct": 68.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 30.0
+            "probability_pct": 31.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -197,7 +197,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 28.5
+            "probability_pct": 29.0
           },
           {
             "outcome": "Person A",
@@ -271,7 +271,7 @@
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 33.0
+            "probability_pct": 34.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -282,11 +282,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 66.5
+            "probability_pct": 67.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 33.0
+            "probability_pct": 32.5
           },
           {
             "outcome": "Person A",
@@ -356,7 +356,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 74.0
+            "probability_pct": 75.0
           },
           {
             "outcome": "Dan Osborn",
@@ -364,7 +364,7 @@
           },
           {
             "outcome": "Cindy Burbank",
-            "probability_pct": 0.1
+            "probability_pct": 0.2
           }
         ],
         "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
@@ -379,7 +379,7 @@
           },
           {
             "outcome": "Independent",
-            "probability_pct": 27.5
+            "probability_pct": 26.5
           },
           {
             "outcome": "Democrat",
@@ -450,7 +450,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 58.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Josh Turek",
@@ -465,11 +465,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 57.0
+            "probability_pct": 57.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 43.5
+            "probability_pct": 43.0
           },
           {
             "outcome": "Person A",
@@ -555,7 +555,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.0
+            "probability_pct": 8.1
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
