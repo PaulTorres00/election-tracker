@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:13:01.704038+00:00",
+  "generated_at": "2026-10-23T20:51:02.510893+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -9,13 +9,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Sherrod Brown": 47.1,
-          "Jon Husted": 42.9,
-          "Bill Redpath": 2.8,
-          "Greg Levy": 3.0
+          "Sherrod Brown": 47.8,
+          "Jon Husted": 44.1
         },
-        "polls_used": 4,
-        "most_recent_poll_date": "2026-10-20",
+        "polls_used": 10,
+        "most_recent_poll_date": "2026-10-22",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -109,7 +107,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 59.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Mike Lawler",
@@ -124,7 +122,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 61.5
+            "probability_pct": 62.0
           },
           {
             "outcome": "Mike Lawler (R)",
@@ -166,11 +164,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 48.0,
-          "Mike Rogers": 45.7
+          "Abdul El-Sayed": 47.9,
+          "Mike Rogers": 45.9
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-10-18",
+        "most_recent_poll_date": "2026-10-22",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -193,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 72.0
+            "probability_pct": 71.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -255,11 +253,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 48.9,
-          "Susan Collins": 46.8
+          "Troy Jackson": 49.0,
+          "Susan Collins": 47.4
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-10-14",
+        "most_recent_poll_date": "2026-10-20",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -364,7 +362,7 @@
           },
           {
             "outcome": "Cindy Burbank",
-            "probability_pct": 0.0
+            "probability_pct": 0.1
           }
         ],
         "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
@@ -437,12 +435,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Ashley Hinson": 46.3,
-          "Josh Turek": 44.4,
-          "Thomas Laehn": 3.5
+          "Ashley Hinson": 45.3,
+          "Josh Turek": 45.9
         },
-        "polls_used": 5,
-        "most_recent_poll_date": "2026-10-19",
+        "polls_used": 10,
+        "most_recent_poll_date": "2026-10-22",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -465,11 +462,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 57.5
+            "probability_pct": 57.0
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 43.0
+            "probability_pct": 42.5
           },
           {
             "outcome": "Person A",
@@ -555,7 +552,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.1
+            "probability_pct": 7.8
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
