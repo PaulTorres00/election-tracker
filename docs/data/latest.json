@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:02:15.059324+00:00",
+  "generated_at": "2026-10-25T02:36:40.343537+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -36,11 +36,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 68.5
+            "probability_pct": 66.5
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 31.5
+            "probability_pct": 33.5
           },
           {
             "outcome": "Person A",
@@ -107,11 +107,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 61.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Mike Lawler",
-            "probability_pct": 39.0
+            "probability_pct": 40.0
           }
         ],
         "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
@@ -191,7 +191,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 71.5
+            "probability_pct": 72.0
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -280,7 +280,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 65.0
+            "probability_pct": 63.5
           },
           {
             "outcome": "Susan Collins (R)",
@@ -354,11 +354,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 76.0
+            "probability_pct": 75.0
           },
           {
             "outcome": "Dan Osborn",
-            "probability_pct": 23.0
+            "probability_pct": 24.0
           },
           {
             "outcome": "Cindy Burbank",
@@ -462,11 +462,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 57.5
+            "probability_pct": 57.0
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 42.5
+            "probability_pct": 41.5
           },
           {
             "outcome": "Person A",
@@ -552,7 +552,7 @@
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 8.8
+            "probability_pct": 9.2
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
