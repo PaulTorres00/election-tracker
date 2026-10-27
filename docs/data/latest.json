@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:09:17.176834+00:00",
+  "generated_at": "2026-10-27T21:40:03.511577+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -38,11 +38,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 68.5
+            "probability_pct": 70.5
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 30.5
+            "probability_pct": 30.0
           },
           {
             "outcome": "Person A",
@@ -109,7 +109,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 57.0
+            "probability_pct": 58.0
           },
           {
             "outcome": "Mike Lawler",
@@ -193,7 +193,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 68.5
+            "probability_pct": 69.0
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -267,7 +267,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 61.0
+            "probability_pct": 60.0
           },
           {
             "outcome": "Susan Collins",
@@ -377,11 +377,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 71.5
+            "probability_pct": 72.0
           },
           {
             "outcome": "Independent",
-            "probability_pct": 28.5
+            "probability_pct": 28.0
           },
           {
             "outcome": "Democrat",
@@ -471,7 +471,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 41.5
+            "probability_pct": 42.0
           },
           {
             "outcome": "Person A",
@@ -572,7 +572,7 @@
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 8.5
+            "probability_pct": 9.0
           },
           {
             "outcome": "Other",
