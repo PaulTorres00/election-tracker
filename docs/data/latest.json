@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:21:49.215823+00:00",
+  "generated_at": "2026-10-27T17:09:17.176834+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -9,11 +9,13 @@
       "district": null,
       "polling": {
         "averages": {
-          "Sherrod Brown": 47.8,
-          "Jon Husted": 44.1
+          "Sherrod Brown": 47.1,
+          "Jon Husted": 43.7,
+          "Bill Redpath": 2.4,
+          "Greg Levy": 2.8
         },
-        "polls_used": 10,
-        "most_recent_poll_date": "2026-10-22",
+        "polls_used": 5,
+        "most_recent_poll_date": "2026-10-23",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -40,7 +42,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 31.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -107,7 +109,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley",
-            "probability_pct": 58.0
+            "probability_pct": 57.0
           },
           {
             "outcome": "Mike Lawler",
@@ -122,11 +124,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 60.5
+            "probability_pct": 57.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 39.5
+            "probability_pct": 40.0
           },
           {
             "outcome": "Other",
@@ -164,8 +166,8 @@
       "district": null,
       "polling": {
         "averages": {
-          "Abdul El-Sayed": 47.7,
-          "Mike Rogers": 46.0
+          "Abdul El-Sayed": 48.1,
+          "Mike Rogers": 46.2
         },
         "polls_used": 10,
         "most_recent_poll_date": "2026-10-22",
@@ -176,7 +178,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 67.0
+            "probability_pct": 68.0
           },
           {
             "outcome": "Mike Rogers",
@@ -195,7 +197,7 @@
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 31.5
+            "probability_pct": 30.5
           },
           {
             "outcome": "Person A",
@@ -253,11 +255,11 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 49.0,
-          "Susan Collins": 47.4
+          "Troy Jackson": 49.3,
+          "Susan Collins": 47.1
         },
         "polls_used": 10,
-        "most_recent_poll_date": "2026-10-20",
+        "most_recent_poll_date": "2026-10-25",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -265,11 +267,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 59.0
+            "probability_pct": 61.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 40.0
+            "probability_pct": 38.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -280,11 +282,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 61.5
+            "probability_pct": 62.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 38.5
+            "probability_pct": 37.5
           },
           {
             "outcome": "Person A",
@@ -342,11 +344,13 @@
       "district": null,
       "polling": {
         "averages": {
-          "Pete Ricketts": 48.3,
-          "Dan Osborn": 46.7
+          "Pete Ricketts": 47.0,
+          "Dan Osborn": 46.0,
+          "Robin Richards": 2.0,
+          "Chuck Conboy": 1.0
         },
-        "polls_used": 3,
-        "most_recent_poll_date": "2026-10-18",
+        "polls_used": 1,
+        "most_recent_poll_date": "2026-10-23",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -354,7 +358,7 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts",
-            "probability_pct": 72.0
+            "probability_pct": 71.0
           },
           {
             "outcome": "Dan Osborn",
@@ -435,11 +439,12 @@
       "district": null,
       "polling": {
         "averages": {
-          "Ashley Hinson": 45.3,
-          "Josh Turek": 45.9
+          "Josh Turek": 44.5,
+          "Ashley Hinson": 45.8,
+          "Thomas Laehn": 4.1
         },
-        "polls_used": 10,
-        "most_recent_poll_date": "2026-10-22",
+        "polls_used": 6,
+        "most_recent_poll_date": "2026-10-23",
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": {
@@ -451,7 +456,7 @@
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 40.0
+            "probability_pct": 41.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -466,7 +471,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 42.0
+            "probability_pct": 41.5
           },
           {
             "outcome": "Person A",
