@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:55:28.200373+00:00",
+  "generated_at": "2026-10-28T17:44:31.201531+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -38,11 +38,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 68.5
+            "probability_pct": 67.5
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 31.5
+            "probability_pct": 32.5
           },
           {
             "outcome": "Person A",
@@ -124,7 +124,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 60.0
+            "probability_pct": 59.5
           },
           {
             "outcome": "Mike Lawler (R)",
@@ -282,7 +282,7 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 63.5
+            "probability_pct": 62.5
           },
           {
             "outcome": "Susan Collins (R)",
@@ -452,11 +452,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 56.0
+            "probability_pct": 54.0
           },
           {
             "outcome": "Josh Turek",
-            "probability_pct": 43.0
+            "probability_pct": 45.0
           }
         ],
         "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
@@ -467,7 +467,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 56.5
+            "probability_pct": 55.5
           },
           {
             "outcome": "Josh Turek (D)",
@@ -553,11 +553,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas",
-            "probability_pct": 90.0
+            "probability_pct": 91.0
           },
           {
             "outcome": "David Valadao",
-            "probability_pct": 9.0
+            "probability_pct": 8.8
           }
         ],
         "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
@@ -568,7 +568,7 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.0
+            "probability_pct": 92.5
           },
           {
             "outcome": "David Valadao (R)",
