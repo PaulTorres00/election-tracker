@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T03:50:14.782891+00:00",
+  "generated_at": "2026-10-30T11:56:21.170321+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -42,7 +42,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 29.5
+            "probability_pct": 28.5
           },
           {
             "outcome": "Person A",
@@ -124,11 +124,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 62.5
+            "probability_pct": 63.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 37.0
+            "probability_pct": 36.5
           },
           {
             "outcome": "Other",
@@ -182,11 +182,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed",
-            "probability_pct": 74.0
+            "probability_pct": 75.0
           },
           {
             "outcome": "Mike Rogers",
-            "probability_pct": 24.0
+            "probability_pct": 25.0
           }
         ],
         "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
@@ -197,7 +197,7 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 75.5
+            "probability_pct": 77.5
           },
           {
             "outcome": "Mike Rogers (R)",
@@ -271,11 +271,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson",
-            "probability_pct": 63.0
+            "probability_pct": 64.0
           },
           {
             "outcome": "Susan Collins",
-            "probability_pct": 36.0
+            "probability_pct": 35.0
           }
         ],
         "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
@@ -290,7 +290,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 33.5
+            "probability_pct": 33.0
           },
           {
             "outcome": "Person A",
@@ -381,11 +381,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 69.0
+            "probability_pct": 69.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 31.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Democrat",
@@ -456,7 +456,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson",
-            "probability_pct": 52.0
+            "probability_pct": 53.0
           },
           {
             "outcome": "Josh Turek",
@@ -471,11 +471,11 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 54.5
+            "probability_pct": 55.5
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 45.5
+            "probability_pct": 44.5
           },
           {
             "outcome": "Person A",
