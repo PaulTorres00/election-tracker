@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:29:46.426647+00:00",
+  "generated_at": "2026-10-31T16:37:40.537581+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -25,11 +25,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 72.5
+            "probability_pct": 73.5
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 27.5
+            "probability_pct": 26.5
           },
           {
             "outcome": "Person A",
@@ -102,7 +102,7 @@
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 35.5
+            "probability_pct": 36.0
           },
           {
             "outcome": "Other",
@@ -154,11 +154,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 79.5
+            "probability_pct": 81.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 20.5
+            "probability_pct": 18.5
           },
           {
             "outcome": "Person A",
@@ -234,7 +234,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 32.0
+            "probability_pct": 31.5
           },
           {
             "outcome": "Person A",
@@ -308,11 +308,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 78.5
+            "probability_pct": 75.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 21.0
+            "probability_pct": 23.5
           },
           {
             "outcome": "Democrat",
