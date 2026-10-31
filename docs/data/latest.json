@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:50:51.272238+00:00",
+  "generated_at": "2026-10-31T03:33:32.341911+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -18,20 +18,7 @@
         "most_recent_poll_date": "2026-10-23",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "Ohio Senate winner?",
-        "outcomes": [
-          {
-            "outcome": "Sherrod Brown",
-            "probability_pct": 70.0
-          },
-          {
-            "outcome": "Jon Husted",
-            "probability_pct": 29.0
-          }
-        ],
-        "url": "https://kalshi.com/markets/senateohs/special-senate-election-in-ohio/senateohs-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "Ohio Senate Election Winner",
         "slug": "ohio-senate-election-winner",
@@ -42,7 +29,7 @@
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 29.0
+            "probability_pct": 28.5
           },
           {
             "outcome": "Person A",
@@ -104,31 +91,18 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "NY-17 House winner?",
-        "outcomes": [
-          {
-            "outcome": "Cait Conley",
-            "probability_pct": 63.0
-          },
-          {
-            "outcome": "Mike Lawler",
-            "probability_pct": 38.0
-          }
-        ],
-        "url": "https://kalshi.com/markets/houseny17/house-ny-17/houseny17-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "NY-17 House Election Winner",
         "slug": "ny-17-house-election-winner",
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 63.5
+            "probability_pct": 64.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 37.0
+            "probability_pct": 36.0
           },
           {
             "outcome": "Other",
@@ -173,20 +147,7 @@
         "most_recent_poll_date": "2026-10-28",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "Michigan Senate winner?",
-        "outcomes": [
-          {
-            "outcome": "Abdul El-Sayed",
-            "probability_pct": 75.0
-          },
-          {
-            "outcome": "Mike Rogers",
-            "probability_pct": 25.0
-          }
-        ],
-        "url": "https://kalshi.com/markets/senatemi/michigan-senate-race/senatemi-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "Michigan Senate Election Winner",
         "slug": "michigan-senate-election-winner",
@@ -262,20 +223,7 @@
         "most_recent_poll_date": "2026-10-26",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "Maine Senate winner?",
-        "outcomes": [
-          {
-            "outcome": "Troy Jackson",
-            "probability_pct": 67.0
-          },
-          {
-            "outcome": "Susan Collins",
-            "probability_pct": 31.0
-          }
-        ],
-        "url": "https://kalshi.com/markets/senateme/maine-senate-race/senateme-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "Maine Senate Election Winner",
         "slug": "maine-senate-election-winner",
@@ -353,35 +301,18 @@
         "most_recent_poll_date": "2026-10-23",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "Nebraska Senate winner?",
-        "outcomes": [
-          {
-            "outcome": "Pete Ricketts",
-            "probability_pct": 68.0
-          },
-          {
-            "outcome": "Dan Osborn",
-            "probability_pct": 31.0
-          },
-          {
-            "outcome": "Cindy Burbank",
-            "probability_pct": 0.2
-          }
-        ],
-        "url": "https://kalshi.com/markets/senatene/nebraska-senate-race/senatene-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "Nebraska Senate Election Winner  ",
         "slug": "nebraska-senate-election-winner",
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 69.0
+            "probability_pct": 68.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 30.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Democrat",
@@ -447,20 +378,7 @@
         "most_recent_poll_date": "2026-10-28",
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "Iowa Senate winner?",
-        "outcomes": [
-          {
-            "outcome": "Ashley Hinson",
-            "probability_pct": 56.0
-          },
-          {
-            "outcome": "Josh Turek",
-            "probability_pct": 44.0
-          }
-        ],
-        "url": "https://kalshi.com/markets/senateia/iowa-senate-race/senateia-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "Iowa Senate Election Winner",
         "slug": "iowa-senate-election-winner",
@@ -548,27 +466,14 @@
         "most_recent_poll_date": null,
         "source": "VoteHub (https://votehub.com)"
       },
-      "kalshi": {
-        "event_title": "CA-22 House winner?",
-        "outcomes": [
-          {
-            "outcome": "Randy Villegas",
-            "probability_pct": 91.0
-          },
-          {
-            "outcome": "David Valadao",
-            "probability_pct": 8.2
-          }
-        ],
-        "url": "https://kalshi.com/markets/houseca22/house-california-22nd/houseca22-26"
-      },
+      "kalshi": null,
       "polymarket": {
         "event_title": "CA-22 House Election Winner",
         "slug": "which-party-will-win-the-house-race-for-the-ca-22-seat",
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.5
+            "probability_pct": 93.0
           },
           {
             "outcome": "David Valadao (R)",
