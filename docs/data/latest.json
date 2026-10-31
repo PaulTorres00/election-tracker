@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:37:40.537581+00:00",
+  "generated_at": "2026-10-31T20:51:08.448945+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -154,11 +154,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 81.5
+            "probability_pct": 80.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 18.5
+            "probability_pct": 19.5
           },
           {
             "outcome": "Person A",
@@ -234,7 +234,7 @@
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 31.5
+            "probability_pct": 31.0
           },
           {
             "outcome": "Person A",
@@ -308,11 +308,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 75.5
+            "probability_pct": 74.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 23.5
+            "probability_pct": 25.5
           },
           {
             "outcome": "Democrat",
@@ -385,7 +385,7 @@
         "outcomes": [
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 55.5
+            "probability_pct": 55.0
           },
           {
             "outcome": "Josh Turek (D)",
@@ -473,11 +473,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.5
+            "probability_pct": 93.0
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 7.5
+            "probability_pct": 7.0
           },
           {
             "outcome": "Other",
