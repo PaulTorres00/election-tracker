@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:44:42.456592+00:00",
+  "generated_at": "2026-11-02T14:24:47.300044+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -96,11 +96,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 65.5
+            "probability_pct": 59.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 35.5
+            "probability_pct": 39.5
           },
           {
             "outcome": "Other",
@@ -152,11 +152,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 78.5
+            "probability_pct": 80.5
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 21.5
+            "probability_pct": 19.5
           },
           {
             "outcome": "Person A",
@@ -214,8 +214,8 @@
       "district": null,
       "polling": {
         "averages": {
-          "Troy Jackson": 49.7,
-          "Susan Collins": 46.5
+          "Troy Jackson": 50.5,
+          "Susan Collins": 46.2
         },
         "polls_used": 10,
         "most_recent_poll_date": "2026-11-01",
@@ -228,11 +228,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 72.5
+            "probability_pct": 74.5
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 27.5
+            "probability_pct": 25.5
           },
           {
             "outcome": "Person A",
@@ -306,11 +306,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 70.0
+            "probability_pct": 71.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 30.0
+            "probability_pct": 28.5
           },
           {
             "outcome": "Democrat",
@@ -386,7 +386,7 @@
           },
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 48.5
+            "probability_pct": 47.5
           },
           {
             "outcome": "Person A",
