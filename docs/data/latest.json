@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:35:00.790918+00:00",
+  "generated_at": "2026-11-04T23:03:02.258776+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -38,11 +38,11 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 99.1
+            "probability_pct": 99.5
           },
           {
             "outcome": "Mike Lawler (R)",
-            "probability_pct": 0.4
+            "probability_pct": 0.1
           },
           {
             "outcome": "Other",
@@ -174,45 +174,7 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": null,
-      "polymarket": {
-        "event_title": "CA-22 House Election Winner",
-        "slug": "which-party-will-win-the-house-race-for-the-ca-22-seat",
-        "outcomes": [
-          {
-            "outcome": "Randy Villegas (D)",
-            "probability_pct": 99.2
-          },
-          {
-            "outcome": "David Valadao (R)",
-            "probability_pct": 0.4
-          },
-          {
-            "outcome": "Other",
-            "probability_pct": null
-          },
-          {
-            "outcome": "A",
-            "probability_pct": null
-          },
-          {
-            "outcome": "CA-22",
-            "probability_pct": null
-          },
-          {
-            "outcome": "C",
-            "probability_pct": null
-          },
-          {
-            "outcome": "D",
-            "probability_pct": null
-          },
-          {
-            "outcome": "E",
-            "probability_pct": null
-          }
-        ],
-        "url": "https://polymarket.com/event/which-party-will-win-the-house-race-for-the-ca-22-seat"
-      }
+      "polymarket": null
     }
   ]
 }
