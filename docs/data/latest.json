@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:45:00.039783+00:00",
+  "generated_at": "2026-11-04T04:15:50.769928+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -23,11 +23,11 @@
         "outcomes": [
           {
             "outcome": "Sherrod Brown (D)",
-            "probability_pct": 72.5
+            "probability_pct": 99.8
           },
           {
             "outcome": "Jon Husted (R)",
-            "probability_pct": 27.5
+            "probability_pct": 0.3
           },
           {
             "outcome": "Person A",
@@ -95,12 +95,12 @@
         "slug": "ny-17-house-election-winner",
         "outcomes": [
           {
-            "outcome": "Mike Lawler (R)",
-            "probability_pct": 52.5
+            "outcome": "Cait Conley (D)",
+            "probability_pct": 97.8
           },
           {
-            "outcome": "Cait Conley (D)",
-            "probability_pct": 48.5
+            "outcome": "Mike Lawler (R)",
+            "probability_pct": 1.6
           },
           {
             "outcome": "Other",
@@ -152,11 +152,11 @@
         "outcomes": [
           {
             "outcome": "Abdul El-Sayed (D)",
-            "probability_pct": 76.5
+            "probability_pct": 98.4
           },
           {
             "outcome": "Mike Rogers (R)",
-            "probability_pct": 23.5
+            "probability_pct": 1.6
           },
           {
             "outcome": "Person A",
@@ -228,11 +228,11 @@
         "outcomes": [
           {
             "outcome": "Troy Jackson (D)",
-            "probability_pct": 69.5
+            "probability_pct": 94.1
           },
           {
             "outcome": "Susan Collins (R)",
-            "probability_pct": 31.5
+            "probability_pct": 5.9
           },
           {
             "outcome": "Person A",
@@ -306,11 +306,11 @@
         "outcomes": [
           {
             "outcome": "Pete Ricketts (R)",
-            "probability_pct": 71.5
+            "probability_pct": 95.5
           },
           {
             "outcome": "Independent",
-            "probability_pct": 27.5
+            "probability_pct": 6.0
           },
           {
             "outcome": "Democrat",
@@ -382,11 +382,11 @@
         "outcomes": [
           {
             "outcome": "Josh Turek (D)",
-            "probability_pct": 50.5
+            "probability_pct": 99.6
           },
           {
             "outcome": "Ashley Hinson (R)",
-            "probability_pct": 49.5
+            "probability_pct": 0.3
           },
           {
             "outcome": "Person A",
@@ -470,11 +470,11 @@
         "outcomes": [
           {
             "outcome": "Randy Villegas (D)",
-            "probability_pct": 92.5
+            "probability_pct": 96.7
           },
           {
             "outcome": "David Valadao (R)",
-            "probability_pct": 7.5
+            "probability_pct": 3.5
           },
           {
             "outcome": "Other",
