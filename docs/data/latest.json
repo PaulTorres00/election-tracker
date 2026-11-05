@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:03:02.258776+00:00",
+  "generated_at": "2026-11-05T04:34:02.569330+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -38,7 +38,7 @@
         "outcomes": [
           {
             "outcome": "Cait Conley (D)",
-            "probability_pct": 99.5
+            "probability_pct": 98.9
           },
           {
             "outcome": "Mike Lawler (R)",
