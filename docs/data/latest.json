@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:06:18.115150+00:00",
+  "generated_at": "2026-11-06T04:32:13.135397+00:00",
   "races": [
     {
       "id": "sen-oh-2026",
@@ -32,45 +32,7 @@
         "source": "VoteHub (https://votehub.com)"
       },
       "kalshi": null,
-      "polymarket": {
-        "event_title": "NY-17 House Election Winner",
-        "slug": "ny-17-house-election-winner",
-        "outcomes": [
-          {
-            "outcome": "Cait Conley (D)",
-            "probability_pct": 99.8
-          },
-          {
-            "outcome": "Mike Lawler (R)",
-            "probability_pct": 0.1
-          },
-          {
-            "outcome": "Other",
-            "probability_pct": null
-          },
-          {
-            "outcome": "A",
-            "probability_pct": null
-          },
-          {
-            "outcome": "B",
-            "probability_pct": null
-          },
-          {
-            "outcome": "C",
-            "probability_pct": null
-          },
-          {
-            "outcome": "D",
-            "probability_pct": null
-          },
-          {
-            "outcome": "E",
-            "probability_pct": null
-          }
-        ],
-        "url": "https://polymarket.com/event/ny-17-house-election-winner"
-      }
+      "polymarket": null
     },
     {
       "id": "sen-mi-2026",
