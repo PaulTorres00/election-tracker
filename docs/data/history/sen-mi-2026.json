@@ -1,16 +1,5 @@
 [
   {
-    "timestamp": "2026-09-19T15:08:25.623727+00:00",
-    "polling_averages": {
-      "Abdul El-Sayed": 47.0,
-      "Mike Rogers": 45.0,
-      "Lydia Christensen": 1.0,
-      "Tim Long": 1.0,
-      "Douglas P. Marsh": 1.0
-    },
-    "kalshi_leading_pct": 93.0
-  },
-  {
     "timestamp": "2026-09-19T19:51:01.807539+00:00",
     "polling_averages": {
       "Abdul El-Sayed": 47.0,
@@ -1705,6 +1694,14 @@
   },
   {
     "timestamp": "2026-11-08T21:31:46.026351+00:00",
+    "polling_averages": {
+      "Abdul El-Sayed": 49.4,
+      "Mike Rogers": 45.0
+    },
+    "kalshi_leading_pct": null
+  },
+  {
+    "timestamp": "2026-11-09T03:56:29.769405+00:00",
     "polling_averages": {
       "Abdul El-Sayed": 49.4,
       "Mike Rogers": 45.0
